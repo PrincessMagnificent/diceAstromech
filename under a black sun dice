@@ -1,0 +1,122 @@
+##Under A Black Sun
+
+import random
+
+totalsuccess = 0
+totaladvantage = 0
+ts2 = 0
+ta2 = 0
+ts3 = 0
+ta3 = 0
+triumph = 0
+totaldespair = 0
+
+##Interesting note. The success and advantage variables in the function are local ones, and have no access to the variables declared above.
+##Therefore it is neccessary to tell Python explicitly that I want to mess with the global ones, with the reserved word "global".
+def rollDifficulty(x):
+    success = 0
+    advantage = 0
+    while x != 0:
+        roll = random.randint(1,8)
+        if roll == 2:
+            success -= 1
+        elif roll == 3:
+            success -= 2
+        elif roll in [4,5,6]:
+            advantage -= 1
+        elif roll == 7:
+            advantage -= 2
+        elif roll == 8:
+            advantage -= 1
+            success -= 1
+        x -= 1
+    print "difficulty = {0}suc, {1}adv".format(success,advantage)
+    return(success,advantage)
+    
+def rollAbility(x):
+    success = 0
+    advantage = 0
+    while x != 0:
+        roll = random.randint(1,8)
+        if roll in [2,3]:
+            success += 1
+        elif roll == 4:
+            success += 2
+        elif roll in [5,6]:
+            advantage += 1
+        elif roll == 7:
+            advantage += 1
+            success += 1
+        elif roll == 8:
+            advantage += 2
+        x -= 1
+    print "ability = {0}suc, {1}adv".format(success,advantage)
+    return(success,advantage)
+    
+def rollProficiency(x):
+    success = 0
+    advantage = 0
+    global triumph
+    while x != 0:
+        roll = random.randint(1,12)
+        if roll in [2,3]:
+            success += 1
+        elif roll in [4,5]:
+            success += 2
+        elif roll == 6:
+            advantage += 1
+        elif roll in [7,8,9]:
+            advantage += 1
+            success += 1
+        elif roll in [10,11]:
+            advantage += 2
+        elif roll == 12:
+            success += 1
+            advantage += 1
+            triumph += 1
+        x -= 1
+    print "proficiency = {0}suc, {1}adv".format(success,advantage)    
+    return(success,advantage)
+# die Type          1 2 3 4 5 6 7 8 9 10 11 12
+# Boost die (d6) Blank Blank SUC SUCADV ADVADV ADV
+# Setback die (d6) Blank Blank FAIL FAIL THR THR
+## Ability die (d8) Blank SUC SUC SUCSUC ADV ADV SUCADV ADVADV
+## Difficulty die (d8) Blank FAIL FAILFAIL THR THR THR THRTHR FAILTHR
+## Proficiency die (d12) Blank SUC SUC SUCSUC SUCSUC ADV SUCADV SUCADV SUCADV ADVADV ADVADV TRIUMPH
+# Challenge (d12) Blank FAIL FAIL FAILFAIL FAILFAIL THR THR FAILTHR FAILTHR THRTHR THRTHR DESPAIR
+
+##MY HYPOTHETICAL CHARACTER IS ROLLING:
+## TWO ABILITY DICE, ONE PROFICIENCY, AND LET'S SAY A DIFFICULTY OF TWO
+
+ability = 2
+proficiency = 1
+difficulty = 2
+
+##This is something I'll want to be able to ask for. Via prompt somehow. 
+
+print "We have an ability of {0}, proficiency of {1} and difficulty of {2}.".format(ability, proficiency, difficulty)
+print "Now roll. (clatter, clatter, clatter)"
+
+totalsuccess,totaladvantage = rollAbility(ability)
+ts2,ta2 = rollProficiency(proficiency)
+ts3,ta3 = rollDifficulty(difficulty)
+
+totalsuccess += ts2 + ts3
+totaladvantage += ta2 + ta3
+
+
+
+if totalsuccess > 0:
+    print "We have {0} success".format(totalsuccess),
+elif totalsuccess < 0:
+    print "Oh dear, we have {0} failure".format(-totalsuccess),
+else:
+    print "We have no success",
+    
+if totaladvantage > 0:
+    print "and {0} advantage!".format(totaladvantage)
+if totaladvantage < 0:
+    print "and OH NO, {0} THREAT!".format(-totaladvantage)
+    
+if triumph != 0:
+    print "AND TRIUMPH!!!!!"
