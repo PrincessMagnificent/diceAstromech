@@ -33,22 +33,25 @@ def printnumerate2(thing):
 		except:
 			print index, element
 
-if argv[1] == "q":
+tried = 0
+failed = 0
+total = 0
+
+
+if len(argv) == 1 or len(argv) > 3:
+	print instructions
 	sys.exit()
 
-
-if len(argv) == 1:
-	print instructions
-
-elif len(argv) == 2:
+elif len(argv) >= 2:
 	paragraphNo = 1
 	lines = []
-	file = open(argv[1],"r")
+	mahFile = open(argv[1],"r")
+	print len(argv), argv
 
-	for line in file:
+	for line in mahFile:
 		lines.append(line)
 
-	for x in range(30):
+	"""for x in range(30):
 		if len(lines[x]) == 2:
 			paragraphNo += 1
 			print "+++++++++++++++++++",
@@ -56,27 +59,29 @@ elif len(argv) == 2:
 			print int(lines[x]), "NUMBAH"
 		except:
 			print paragraphNo,"||  ", len(lines[x]), lines[x]
+	"""
+	mahFile.close()
 
-	file.close()
+	if len(argv) == 3:
+		nuFile = open(argv[2],"w")
+		for line in lines:
+			total += 1
+			try:
+				int(line)
+				nuFile.write(paragraphNo)
+				paragraphNo += 1
+				print int(line),paragraphNo
+				tried += 1
 
-elif len(argv) == 3:
-	print "there are two arguments, %s is the source and %s is the new file name" % (argv[1],argv[2])
+			except:
+				nuFile.write(line)
+				failed += 1
 
-	"""paragraphNo = 1
-	lines = []
-	file = open(argv[1],"r")
+print "TRIED = %i, FAILED = %i, TOTAL = %i=%i" % (tried, failed, tried+failed, total)
 
-	for line in file:
-		lines.append(line)
-
-	
+##TODO
 """
-else:
-	print "YOU PASSED TOO MANY ARGUMENTS!\n",instructions,"\nYOU PASSED TOO MANY ARGUMENTS"
+The ultimate goal of this program is to take a .srt subtitle file and count how many subtitles are in it. .srt files have an index that tells you what time the subtitle is supposed to appear at, and also which subtitle in order it is. This makes it a problem to edit subtitle files because if you add or remove a subtitle, all the index numbers become wrong, which is unhelpful.
 
-	##TODO
-	"""
-	The ultimate goal of this program is to take a .srt subtitle file and count how many subtitles are in it. .srt files have an index that tells you what time the subtitle is supposed to appear at, and also which subtitle in order it is. This makes it a problem to edit subtitle files because if you add or remove a subtitle, all the index numbers become wrong, which is unhelpful.
-
-	So I want this program to check all the index numbers and make them right -> 1,2,3,4,5,6 again
-	"""
+So I want this program to check all the index numbers and make them right -> 1,2,3,4,5,6 again
+"""
