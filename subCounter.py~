@@ -1,0 +1,28 @@
+import string
+from sys import argv
+
+
+##the usual enumerate
+def printnumerate(thing):
+	for index, element in enumerate(thing):
+		print index, element
+
+##a special enumerate that also prints the length of whatever it is enumerating, if possible
+def printnumerate2(thing):
+	for index, element in enumerate(thing):
+		try:
+			print "indx%i - (len%i) - %s" % (index, len(element), element)
+		except:
+			print index, element
+
+printnumerate(argv)
+
+lines = []
+file = open(argv[1],"r")
+
+for line in file:
+	lines.append(line)
+
+print "ze length of ze file is", len(lines),"\n"
+
+printnumerate2(lines)
