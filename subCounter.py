@@ -61,6 +61,16 @@ elif len(argv) == 2:
 
 elif len(argv) == 3:
 	print "there are two arguments, %s is the source and %s is the new file name" % (argv[1],argv[2])
+
+	"""paragraphNo = 1
+	lines = []
+	file = open(argv[1],"r")
+
+	for line in file:
+		lines.append(line)
+
+	
+"""
 else:
 	print "YOU PASSED TOO MANY ARGUMENTS!\n",instructions,"\nYOU PASSED TOO MANY ARGUMENTS"
 
