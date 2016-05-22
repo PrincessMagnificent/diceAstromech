@@ -16,9 +16,7 @@ instructions = """subCounter.py takes a standard .srt subtitle file, which has a
     00:03:02,849 --> 00:03:05,812
     to ignore the despair in the galaxy.
 
-    It then counts how many 'paragraphs' there are in the file, and assigns each its correct number on top. You can either
-    pass it one argument, the target file, in which case it will just print out, or give it two, the target file and the new
-    file into which to pass its work."""
+    It then counts how many 'paragraphs' there are in the file, and assigns each its correct number on top. You can either pass it one argument, the target file, in which case it will just print out, or give it two, the target file and the new file into which to pass its work."""
 
 ##the usual enumerate
 def printnumerate(thing):
@@ -35,7 +33,7 @@ def printnumerate2(thing):
 
 tried = 0
 failed = 0
-total = 0
+totallity = 0
 
 
 if len(argv) == 1 or len(argv) > 3:
@@ -65,7 +63,7 @@ elif len(argv) >= 2:
     if len(argv) == 3:
         nuFile = open(argv[2],"w")
         for line in lines:
-            total += 1
+            totallity += 1
             
             try:
                 nuuum = int(line[:len(line)-1:])
@@ -79,7 +77,7 @@ elif len(argv) >= 2:
                 failed += 1
 
     nuFile.close()            
-print "TRIED = %i, FAILED = %i, TOTAL = %i=%i" % (tried, failed, tried+failed, total)
+print "TRIED = %i, FAILED = %i, TOTAL = %i=%i" % (tried, failed, tried + failed, totallity)
 
 ##TODO
 """
