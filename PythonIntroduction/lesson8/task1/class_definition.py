@@ -1,5 +1,5 @@
 class MyClass:
-    variable = assign any value to variable
+    variable = 2
 
     def foo(self):   # we'll explain self parameter later in task 4
         print("Hello from function foo")
