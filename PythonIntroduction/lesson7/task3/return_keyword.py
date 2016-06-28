@@ -13,8 +13,8 @@ def fib(n):
     while a < n:
         result.append(a)
         tmp_var = b
-        update variable b
-        update variable a
+        b = a
+        a = a+tmp_var
     return result
 
 print(fib(10))
