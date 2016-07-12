@@ -16,8 +16,8 @@ for filez in listOfDirs:
 
 print "\nThere are %i CSV files in this directory" % (len(listOfCSV))
 
-for index, item in enumerate(listOfCSV):
-    print index+1, item
+##for index, item in enumerate(listOfCSV):
+##    print index+1, item
 
 while True:
     try:
