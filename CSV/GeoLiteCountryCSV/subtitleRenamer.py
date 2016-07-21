@@ -3,7 +3,7 @@ import os
 print "PROGRAM LOADING...COMPLETE"
 
 #enter the location of the subtitles here, the video files should be in the same directory. But make sure you keep the r in front of the string so that the string is raw and the \ don't get eaten
-location = r"J:\Season 1"
+location = r"H:\tempo\mom\The Blacklist Season 3 S03  Complete 720p ~{KiNg}"
 
 print os.getcwd()
 ##print len(listOfDirs), "things, they are", listOfDirs
@@ -26,4 +26,4 @@ print "subs :", listOfSubs
 for index, fileName in enumerate(listOfVideos):
     newName = fileName[:-3:] + "srt"
     print "renaming %s to %s" % (listOfSubs[index], newName)
-    #os.rename(listOfSubs[index], newName)
+    os.rename(listOfSubs[index], newName)
