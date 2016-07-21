@@ -3,9 +3,31 @@
 
 import re, os
 
+def ls():
+    return os.listdir(os.getcwd())
+
 DownloadLoc = "C:\\Users\\Alex\\Downloads"
 os.chdir(DownloadLoc)
 
-megaList = os.listdir(os.getcwd())
+megaList = ls()
+evilList = []
 
-print len(megaList)
+print len(megaList), "files"
+
+#match digits in re with \d
+#explication of pattern:
+#.* = any number of symbols
+#\( and \) are the brackets
+#\d for a single number
+patternRE = r".*\(\d.\)*\.\w\w\w"
+
+for listItem in megaList:
+    if re.match(patternRE,listItem):
+        evilList.append(listItem)
+
+print evilList
+
+for doppler in evilList:
+    os.remove(doppler)
+
+    ##AND IT FUCKING WORKS, YAY!!
