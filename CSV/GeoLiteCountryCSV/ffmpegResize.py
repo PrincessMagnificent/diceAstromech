@@ -3,7 +3,7 @@ import os
 print "PROGRAM LOADING...COMPLETE"
 
 #enter the location of the subtitles here, the video files should be in the same directory. But make sure you keep the r in front of the string so that the string is raw and the \ don't get eaten
-location = r"C:\Users\Alex\Videos\pyLong"
+location = r"O:\eduVideo\Complete Linux Shell Training for Beginners\1 - Introduction to Shell"
 
 print os.getcwd()
 ##print len(listOfDirs), "things, they are", listOfDirs
@@ -22,5 +22,10 @@ print listOfVideos
 for video in listOfVideos:
     newVideoName = video[:-4:] + "RESIZED.mp4"
     print newVideoName
-    kommand = "ffmpeg -i " + video + " -vf scale=320:-1 " + newVideoName
+    newVideoName2 = ""
+    for let in newVideoName:
+        if let != " ":
+            newVideoName2 += let
+    kommand = 'ffmpeg -i "' + video + '" -vf scale=1024:-1 ' + newVideoName2
     print kommand
+    os.system(kommand)
