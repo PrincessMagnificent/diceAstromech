@@ -1,3 +1,5 @@
+file ./fil* gives you the file type for everything that matches
+
 bandit.labs.overthewire.org
 
 boJ9jbbUNNfktd78OOpsqOltutMc3MY1
@@ -5,5 +7,3 @@ CV1DtqXWVFXTvM2F0k09SHz0YwRINYA9
 UmHadQclWmgdLOKQ3YNgjWxGoRMb5luK
 pIwrPrtPN36QITSp3EQaw936yaFoFgAB
 koReBOKuIDDepwhWk7jZC0RTdopnAYKh
-
-file ./fil* gives you the file type for everything that matches

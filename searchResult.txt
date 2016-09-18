@@ -1,0 +1,1996 @@
+-rwxrwxrwx 2 alex alex 1023 feb  7  2015 support_simple_spinner_dropdown_item.xml
+-rwxrwxrwx 2 alex alex 1019 feb  7  2015 R.class
+-rwxrwxrwx 2 alex alex 1018 feb  7  2015 abc_ic_search_api_mtrl_alpha.png
+-rwxrwxrwx 2 alex alex 1014 feb  7  2015 abc_btn_radio_to_on_mtrl_000.png
+-rwxrwxrwx 2 alex alex 1013 feb  7  2015 abc_action_bar_up_container.xml
+-rwxrwxrwx 2 alex alex 1005 feb  7  2015 abc_ic_voice_search_api_mtrl_alpha.png
+-rwxrwxrwx 2 alex alex 1004 feb  7  2015 abc_search_url_text.xml
+-rwxrwxrwx 2 alex alex  996 feb  7  2015 abc_btn_radio_to_on_mtrl_015.png
+-rwxrwxrwx 1 alex alex  991 sep 10 23:22 7-files.zip
+-rwxrwxrwx 2 alex alex  988 feb  7  2015 abc_expanded_menu_layout.xml
+-rwxrwxrwx 2 alex alex 986K avg  4  2014 Sinistar (1).zip
+-rwxrwxrwx 2 alex alex 986K avg  4  2014 Sinistar (1).zip
+-rwxrwxrwx 2 alex alex  961 feb  7  2015 abc_popup_background_mtrl_mult.9.png
+-rwxrwxrwx 2 alex alex  951 feb  7  2015 abc_btn_radio_to_on_mtrl_000.png
+-rwxrwxrwx 2 alex alex  950 feb  7  2015 abc_action_mode_bar.xml
+-rwxrwxrwx 2 alex alex  945 feb  7  2015 abc_cab_background_top_material.xml
+-rwxrwxrwx 2 alex alex 941 feb  7  2015 abc_slide_out_top.xml
+-rwxrwxrwx 2 alex alex 941 feb  7  2015 abc_slide_in_top.xml
+-rwxrwxrwx 2 alex alex 941 feb  7  2015 abc_slide_in_bottom.xml
+-rwxrwxrwx 2 alex alex 940 feb  7  2015 abc_slide_out_bottom.xml
+-rwxrwxrwx 2 alex alex  934 feb  7  2015 abc_secondary_text_material_light.xml
+-rwxrwxrwx 2 alex alex 934 feb  7  2015 abc_ic_menu_cut_mtrl_alpha.png
+-rwxrwxrwx 2 alex alex  934 feb  7  2015 abc_ic_menu_cut_mtrl_alpha.png
+-rwxrwxrwx 2 alex alex  932 feb  7  2015 abc_secondary_text_material_dark.xml
+-rwxrwxrwx 2 alex alex  930 feb  7  2015 abc_primary_text_material_light.xml
+-rwxrwxrwx 2 alex alex  929 feb  7  2015 abc_switch_thumb_material.xml
+-rwxrwxrwx 2 alex alex  928 feb  7  2015 abc_primary_text_material_dark.xml
+-rwxrwxrwx 2 alex alex  928 feb  7  2015 abc_primary_text_disable_only_material_light.xml
+-rwxrwxrwx 2 alex alex  928 feb  7  2015 abc_ic_voice_search_api_mtrl_alpha.png
+-rwxrwxrwx 2 alex alex  928 feb  7  2015 abc_cab_background_internal_bg.xml
+-rwxrwxrwx 2 alex alex  926 feb  7  2015 abc_primary_text_disable_only_material_dark.xml
+-rwxrwxrwx 2 alex alex 925 feb  7  2015 abc_fade_out.xml
+-rwxrwxrwx 2 alex alex 925 feb  7  2015 abc_fade_in.xml
+-rwxrwxrwx 2 alex alex  924 feb  7  2015 abc_ic_ab_back_mtrl_am_alpha.png
+-rwxrwxrwx 2 alex alex  923 feb  7  2015 abc_btn_radio_material.xml
+-rwxrwxrwx 2 alex alex  923 feb  7  2015 abc_btn_check_material.xml
+-rwxrwxrwx 2 alex alex  913 feb  7  2015 abc_tab_indicator_material.xml
+-rwxrwxrwx 2 alex alex  910 feb  7  2015 abc_btn_check_to_on_mtrl_015.png
+-rwxrwxrwx 2 alex alex  905 feb  7  2015 abc_background_cache_hint_selector_material_light.xml
+-rwxrwxrwx 2 alex alex  904 feb  7  2015 abc_background_cache_hint_selector_material_dark.xml
+-rwxrwxrwx 2 alex alex  900 feb  7  2015 abc_btn_check_to_on_mtrl_015.png
+-rwxrwxrwx 2 alex alex  897 feb  7  2015 abc_list_selector_background_transition_holo_light.xml
+-rwxrwxrwx 2 alex alex  896 feb  7  2015 abc_list_selector_background_transition_holo_dark.xml
+-rwxrwxrwx 1 alex alex  890 apr 12 18:30 003 Errors and Exception Handling FAQ.html
+-rwxrwxrwx 1 alex alex  889 apr 12 18:34 005 Methods and Functions FAQ.html
+-rwxrwxrwx 2 alex alex  881 feb  7  2015 abc_btn_check_to_on_mtrl_015.png
+-rwxrwxrwx 1 alex alex  881 apr 12 18:23 005 Strings -FAQ.html
+-rwxrwxrwx 1 alex alex  877 apr 12 18:37 007 Python Statements FAQ.html
+-rwxrwxrwx 2 alex alex 872 feb  7  2015 AndroidManifest.xml
+-rwxrwxrwx 1 alex alex 871 feb  7  2015 values.xml
+-rwxrwxrwx 2 alex alex  857 feb  7  2015 abc_ic_menu_share_mtrl_alpha.png
+-rwxrwxrwx 2 alex alex  855 feb  7  2015 gradle.properties
+-rwxrwxrwx 2 alex alex  853 feb  7  2015 abc_menu_hardkey_panel_mtrl_mult.9.png
+-rwxrwxrwx 2 alex alex  850 feb  7  2015 abc_popup_background_mtrl_mult.9.png
+-rwxrwxrwx 2 alex alex  850 feb  7  2015 abc_menu_hardkey_panel_mtrl_mult.9.png
+-rwxrwxrwx 1 alex alex  846 apr 12 18:36 010 Advanced Python Modules FAQ.html
+-rwxrwxrwx 2 alex alex 838K avg  4  2014 next-wave.wav
+-rwxrwxrwx 2 alex alex  836 feb  7  2015 abc_ic_menu_cut_mtrl_alpha.png
+-rwxrwxrwx 1 alex alex 836K avg  4  2014 Thumbs.db
+-rwxrwxrwx 1 alex alex 836K avg  4  2014 Thumbs.db
+-rwxrwxrwx 1 alex alex 835 apr 12 18:36 006 OOP FAQ.html
+-rwxrwxrwx 2 alex alex  831 feb  7  2015 abc_btn_radio_to_on_mtrl_000.png
+-rwxrwxrwx 2 alex alex  828 feb  7  2015 MoodScanner.iml
+-rwxrwxrwx 1 alex alex 823K sep 11 00:11 11-files.zip
+-rwxrwxrwx 2 alex alex  822 feb  7  2015 abc_btn_check_to_on_mtrl_000.png
+-rwxrwxrwx 2 alex alex  812 feb  7  2015 AndroidManifest.xml
+-rwxrwxrwx 2 alex alex  802 feb  7  2015 AndroidManifest.xml
+-rwxrwxrwx 2 alex alex  794 feb  7  2015 abc_ic_search_api_mtrl_alpha.png
+-rwxrwxrwx 2 alex alex  772 feb  7  2015 resources-debug-test.ap_
+-rwxrwxrwx 2 alex alex  771 feb  7  2015 abc_ic_menu_share_mtrl_alpha.png
+-rwxrwxrwx 1 alex alex 769K avg  4  2014 lena.bmp
+-rwxrwxrwx 1 alex alex 769K avg  4  2014 lena.bmp
+-rwxrwxrwx 2 alex alex  766 feb  7  2015 abc_ic_voice_search_api_mtrl_alpha.png
+-rwxrwxrwx 2 alex alex  761 feb  7  2015 R$bool.class
+-rwxrwxrwx 2 alex alex  758 feb  7  2015 R$bool.class
+-rwxrwxrwx 2 alex alex  758 feb  7  2015 abc_btn_radio_to_on_mtrl_015.png
+-rwxrwxrwx 2 alex alex 754 feb  7  2015 abc_ic_menu_cut_mtrl_alpha.png
+-rwxrwxrwx 2 alex alex  753 feb  7  2015 abc_btn_radio_to_on_mtrl_015.png
+-rwxrwxrwx 2 alex alex 750K feb  3  2016 2 - Summary.mp4
+-rwxrwxrwx 1 alex alex 747 feb  7  2015 values.xml
+-rwxrwxrwx 1 alex alex 745K feb  7  2015 classes.jar
+-rwxrwxrwx 2 alex alex  744 feb  7  2015 BuildConfig.class
+-rwxrwxrwx 2 alex alex 742 feb  7  2015 inputList.txt
+-rwxrwxrwx 2 alex alex  737 feb  7  2015 abc_ic_ab_back_mtrl_am_alpha.png
+-rwxrwxrwx 2 alex alex  736 feb  7  2015 abc_switch_track_mtrl_alpha.9.png
+-rwxrwxrwx 1 alex alex 734 feb  7  2015 values.xml
+-rwxrwxrwx 2 alex alex  733 feb  7  2015 abc_ic_menu_share_mtrl_alpha.png
+-rwxrwxrwx 2 alex alex  729 feb  7  2015 abc_ic_menu_share_mtrl_alpha.png
+-rwxrwxrwx 2 alex alex  725 feb  7  2015 abc_btn_check_to_on_mtrl_015.png
+-rwxrwxrwx 2 alex alex  724 feb  7  2015 abc_btn_check_to_on_mtrl_015.png
+-rwxrwxrwx 2 alex alex  719 feb  7  2015 abc_ic_voice_search_api_mtrl_alpha.png
+-rwxrwxrwx 2 alex alex  719 feb  7  2015 abc_btn_check_to_on_mtrl_000.png
+-rwxrwxrwx 1 alex alex 716 feb  7  2015 merger.xml
+-rwxrwxrwx 2 alex alex  714 feb  7  2015 abc_btn_radio_to_on_mtrl_000.png
+-rwxrwxrwx 2 alex alex  708 feb  7  2015 abc_switch_track_mtrl_alpha.9.png
+-rwxrwxrwx 2 alex alex  706 feb  7  2015 abc_ic_ab_back_mtrl_am_alpha.png
+-rwxrwxrwx 2 alex alex  702 feb  7  2015 abc_ic_menu_copy_mtrl_am_alpha.png
+-rwxrwxrwx 2 alex alex  696 feb  7  2015 abc_spinner_mtrl_am_alpha.9.png
+-rwxrwxrwx 2 alex alex  695 feb  7  2015 AndroidManifest.xml
+-rwxrwxrwx 2 alex alex  693 feb  7  2015 abc_ic_menu_cut_mtrl_alpha.png
+-rwxrwxrwx 2 alex alex 691 feb  7  2015 abc_ic_menu_cut_mtrl_alpha.png
+-rwxrwxrwx 2 alex alex  690 feb  7  2015 abc_ic_ab_back_mtrl_am_alpha.png
+-rwxrwxrwx 2 alex alex  689 feb  7  2015 abc_spinner_mtrl_am_alpha.9.png
+-rwxrwxrwx 2 alex alex  683 feb  7  2015 abc_ic_search_api_mtrl_alpha.png
+-rwxrwxrwx 2 alex alex  679 feb  7  2015 proguard-rules.pro
+-rwxrwxrwx 2 alex alex 678 feb  7  2015 AndroidManifest.xml
+-rwxrwxrwx 2 alex alex  677 feb  7  2015 abc_ic_menu_paste_mtrl_am_alpha.png
+-rwxrwxrwx 2 alex alex 671 feb  7  2015 abc_ic_menu_cut_mtrl_alpha.png
+-rwxrwxrwx 2 alex alex  667 feb  7  2015 abc_ic_ab_back_mtrl_am_alpha.png
+-rwxrwxrwx 1 alex alex 666 feb  7  2015 values.xml
+-rwxrwxrwx 2 alex alex  665 feb  7  2015 thumb_animation.xml
+-rwxrwxrwx 2 alex alex  665 feb  7  2015 abc_ic_menu_paste_mtrl_am_alpha.png
+-rwxrwxrwx 2 alex alex  646 feb  7  2015 abc_spinner_mtrl_am_alpha.9.png
+-rwxrwxrwx 2 alex alex  632 feb  7  2015 R$anim.class
+-rwxrwxrwx 2 alex alex  629 feb  7  2015 R$anim.class
+-rwxrwxrwx 2 alex alex  628 feb  7  2015 abc_ic_clear_mtrl_alpha.png
+-rwxrwxrwx 2 alex alex  622 feb  7  2015 abc_btn_radio_to_on_mtrl_000.png
+-rwxrwxrwx 2 alex alex 611 feb  7  2015 abc_ic_ab_back_mtrl_am_alpha.png
+-rwxrwxrwx 2 alex alex  605 feb  7  2015 abc_menu_hardkey_panel_mtrl_mult.9.png
+-rwxrwxrwx 2 alex alex 603 apr  8 08:54 imageloader.cpython-34.pyc
+-rwxrwxrwx 2 alex alex  602 feb  7  2015 abc_btn_check_to_on_mtrl_000.png
+-rwxrwxrwx 2 alex alex  598 feb  7  2015 abc_ic_menu_copy_mtrl_am_alpha.png
+-rwxrwxrwx 2 alex alex  595 feb  7  2015 build.gradle
+-rwxrwxrwx 2 alex alex  595 feb  7  2015 abc_btn_check_to_on_mtrl_000.png
+-rwxrwxrwx 2 alex alex 593 feb  7  2015 abc_spinner_mtrl_am_alpha.9.png
+-rwxrwxrwx 2 alex alex  593 feb  7  2015 abc_ic_menu_cut_mtrl_alpha.png
+-rwxrwxrwx 2 alex alex  588 feb  7  2015 abc_btn_check_to_on_mtrl_000.png
+-rwxrwxrwx 2 alex alex 585 feb  7  2015 abc_ic_menu_cut_mtrl_alpha.png
+-rwxrwxrwx 2 alex alex  584 feb  7  2015 abc_ic_menu_cut_mtrl_alpha.png
+-rwxrwxrwx 2 alex alex 584 feb  7  2015 abc_ic_ab_back_mtrl_am_alpha.png
+-rwxrwxrwx 2 alex alex  583 feb  7  2015 abc_ic_ab_back_mtrl_am_alpha.png
+-rwxrwxrwx 2 alex alex 575K feb  3  2016 3 - Summary.mp4
+-rwxrwxrwx 2 alex alex  562 feb  7  2015 abc_menu_hardkey_panel_mtrl_mult.9.png
+-rwxrwxrwx 2 alex alex  556 feb  7  2015 abc_btn_check_to_on_mtrl_015.png
+-rwxrwxrwx 2 alex alex  551 feb  7  2015 abc_ic_voice_search_api_mtrl_alpha.png
+-rwxrwxrwx 2 alex alex  551 feb  7  2015 abc_btn_check_to_on_mtrl_015.png
+-rwxrwxrwx 2 alex alex  549 feb  7  2015 abc_ic_menu_share_mtrl_alpha.png
+-rwxrwxrwx 2 alex alex  549 feb  7  2015 abc_btn_check_to_on_mtrl_015.png
+-rwxrwxrwx 1 alex alex 544 feb  7  2015 values.xml
+-rwxrwxrwx 2 alex alex  541 feb  7  2015 abc_ic_voice_search_api_mtrl_alpha.png
+-rwxrwxrwx 2 alex alex  540 feb  7  2015 thumb_animation.xml
+-rwxrwxrwx 2 alex alex  535 feb  7  2015 abc_spinner_mtrl_am_alpha.9.png
+-rwxrwxrwx 1 alex alex 531 feb  7  2015 values.xml
+-rwxrwxrwx 2 alex alex  530 feb  7  2015 abc_switch_track_mtrl_alpha.9.png
+-rwxrwxrwx 2 alex alex  524 feb  7  2015 abc_ic_menu_copy_mtrl_am_alpha.png
+-rwxrwxrwx 2 alex alex  518 feb  7  2015 abc_spinner_mtrl_am_alpha.9.png
+-rwxrwxrwx 2 alex alex  516 feb  7  2015 abc_spinner_mtrl_am_alpha.9.png
+-rwxrwxrwx 2 alex alex  516 feb  7  2015 abc_ic_menu_selectall_mtrl_alpha.png
+-rwxrwxrwx 2 alex alex  515 feb  7  2015 abc_ic_ab_back_mtrl_am_alpha.png
+-rwxrwxrwx 2 alex alex 512 feb  7  2015 abc_ic_ab_back_mtrl_am_alpha.png
+-rwxrwxrwx 2 alex alex  511 feb  7  2015 abc_ic_menu_paste_mtrl_am_alpha.png
+-rwxrwxrwx 2 alex alex 501 feb  7  2015 abc_ic_ab_back_mtrl_am_alpha.png
+-rwxrwxrwx 2 alex alex  500 feb  7  2015 abc_ic_menu_cut_mtrl_alpha.png
+-rwxrwxrwx 2 alex alex  498 feb  7  2015 abc_spinner_mtrl_am_alpha.9.png
+-rwxrwxrwx 2 alex alex  495 feb  7  2015 abc_ic_clear_mtrl_alpha.png
+-rwxrwxrwx 2 alex alex  493 feb  7  2015 abc_btn_radio_to_on_mtrl_015.png
+-rwxrwxrwx 1 alex alex 493K feb  7  2015 classes.jar
+-rwxrwxrwx 2 alex alex  488 feb  7  2015 abc_ic_menu_paste_mtrl_am_alpha.png
+-rwxrwxrwx 2 alex alex  488 feb  7  2015 abc_ic_commit_search_api_mtrl_alpha.png
+-rwxrwxrwx 2 alex alex 486 feb  7  2015 abc_ic_menu_cut_mtrl_alpha.png
+-rwxrwxrwx 2 alex alex  486 avg 31  2015 Important ! Readme.txt
+-rwxrwxrwx 2 alex alex  486 avg 31  2015 Important ! Readme.txt
+-rwxrwxrwx 2 alex alex  486 avg 31  2015 Important ! Readme.txt
+-rwxrwxrwx 1 alex alex  486 avg 31  2015 Important ! Readme.txt
+-rwxrwxrwx 2 alex alex 483 feb  7  2015 abc_spinner_mtrl_am_alpha.9.png
+-rwxrwxrwx 2 alex alex 476 feb  7  2015 menu_main.xml
+-rwxrwxrwx 2 alex alex 475 feb  7  2015 BuildConfig.java
+-rwxrwxrwx 2 alex alex  475 feb  7  2015 abc_spinner_mtrl_am_alpha.9.png
+-rwxrwxrwx 2 alex alex  468 feb  7  2015 abc_switch_track_mtrl_alpha.9.png
+-rwxrwxrwx 2 alex alex 465 feb  7  2015 BuildConfig.java
+-rwxrwxrwx 2 alex alex 464 feb  7  2015 abc_ic_menu_copy_mtrl_am_alpha.png
+-rwxrwxrwx 2 alex alex 464 feb  7  2015 abc_ic_menu_copy_mtrl_am_alpha.png
+-rwxrwxrwx 2 alex alex  463 feb  7  2015 abc_ic_menu_share_mtrl_alpha.png
+-rwxrwxrwx 2 alex alex  463 feb  7  2015 abc_ic_clear_mtrl_alpha.png
+-rwxrwxrwx 1 alex alex 460 feb  7  2015 values.xml
+-rwxrwxrwx 2 alex alex  450 feb  7  2015 local.properties
+-rwxrwxrwx 1 alex alex 450 feb  7  2015 merger.xml
+-rwxrwxrwx 2 alex alex  448 feb  7  2015 R$integer.class
+-rwxrwxrwx 2 alex alex  445 feb  7  2015 R$integer.class
+-rwxrwxrwx 2 alex alex 445 feb  7  2015 abc_ic_ab_back_mtrl_am_alpha.png
+-rwxrwxrwx 1 alex alex  444 feb  7  2015 image_bg.xml
+-rwxrwxrwx 2 alex alex  442 feb  7  2015 abc_ic_ab_back_mtrl_am_alpha.png
+-rwxrwxrwx 2 alex alex  436 feb  7  2015 build.gradle
+-rwxrwxrwx 2 alex alex  436 feb  7  2015 abc_ic_menu_copy_mtrl_am_alpha.png
+-rwxrwxrwx 2 alex alex  434 feb  7  2015 R$mipmap.class
+-rwxrwxrwx 2 alex alex  429 feb  7  2015 abc_btn_check_to_on_mtrl_015.png
+-rwxrwxrwx 2 alex alex  428 feb  7  2015 abc_btn_radio_to_on_mtrl_000.png
+-rwxrwxrwx 2 alex alex  426 feb  7  2015 R$menu.class
+-rwxrwxrwx 2 alex alex  424 feb  7  2015 abc_switch_track_mtrl_alpha.9.png
+-rwxrwxrwx 2 alex alex  421 feb  7  2015 abc_ic_menu_selectall_mtrl_alpha.png
+-rwxrwxrwx 2 alex alex  417 feb  7  2015 abc_spinner_mtrl_am_alpha.9.png
+-rwxrwxrwx 2 alex alex 410 feb  7  2015 abc_ic_ab_back_mtrl_am_alpha.png
+-rwxrwxrwx 2 alex alex  409 feb  7  2015 abc_ic_voice_search_api_mtrl_alpha.png
+-rwxrwxrwx 2 alex alex  407 feb  7  2015 abc_ic_ab_back_mtrl_am_alpha.png
+-rwxrwxrwx 1 alex alex 406 feb  7  2015 values.xml
+-rwxrwxrwx 2 alex alex  404 feb  7  2015 abc_ic_voice_search_api_mtrl_alpha.png
+-rwxrwxrwx 2 alex alex  401 feb  7  2015 abc_ic_menu_copy_mtrl_am_alpha.png
+-rwxrwxrwx 2 alex alex  399 feb  7  2015 abc_ic_menu_copy_mtrl_am_alpha.png
+-rwxrwxrwx 1 alex alex 391 feb  7  2015 values.xml
+-rwxrwxrwx 2 alex alex  390 feb  7  2015 abc_ic_menu_selectall_mtrl_alpha.png
+-rwxrwxrwx 2 alex alex  390 feb  7  2015 abc_ic_menu_moreoverflow_mtrl_alpha.png
+-rwxrwxrwx 2 alex alex  389 feb  7  2015 abc_ic_clear_mtrl_alpha.png
+-rwxrwxrwx 1 alex alex 388K feb  7  2015 merger.xml
+-rwxrwxrwx 2 alex alex 381 feb  7  2015 abc_ic_menu_cut_mtrl_alpha.png
+-rwxrwxrwx 1 alex alex  379 avg  4  2014 Lab2.py
+-rwxrwxrwx 2 alex alex  377 feb  7  2015 abc_ic_menu_cut_mtrl_alpha.png
+-rwxrwxrwx 2 alex alex  371 feb  7  2015 abc_ic_clear_mtrl_alpha.png
+-rwxrwxrwx 2 alex alex  370 feb  7  2015 finger_bg.xml
+-rwxrwxrwx 2 alex alex 370 feb  7  2015 abc_spinner_mtrl_am_alpha.9.png
+-rwxrwxrwx 2 alex alex  369 feb  7  2015 abc_btn_check_to_on_mtrl_000.png
+-rwxrwxrwx 2 alex alex  369 feb  7  2015 abc_ab_share_pack_holo_light.9.png
+-rwxrwxrwx 2 alex alex  369 feb  7  2015 abc_ab_share_pack_holo_dark.9.png
+-rwxrwxrwx 2 alex alex 367 feb  7  2015 abc_spinner_mtrl_am_alpha.9.png
+-rwxrwxrwx 2 alex alex  367 avg  4  2014 imageloader.py
+-rwxrwxrwx 2 alex alex  367 avg  4  2014 imageloader.py
+-rwxrwxrwx 2 alex alex  363 feb  7  2015 abc_ic_menu_paste_mtrl_am_alpha.png
+-rwxrwxrwx 2 alex alex  362 feb  7  2015 abc_spinner_mtrl_am_alpha.9.png
+-rwxrwxrwx 2 alex alex 362 feb  7  2015 abc_ic_menu_copy_mtrl_am_alpha.png
+-rwxrwxrwx 2 alex alex 361 feb  7  2015 menu_main.xml
+-rwxrwxrwx 2 alex alex 360 feb  7  2015 ApplicationTest.java
+-rwxrwxrwx 2 alex alex  360 feb  7  2015 abc_ic_menu_paste_mtrl_am_alpha.png
+-rwxrwxrwx 2 alex alex  360 feb  7  2015 abc_ic_menu_paste_mtrl_am_alpha.png
+-rwxrwxrwx 1 alex alex 358 feb  7  2015 dimens.xml
+-rwxrwxrwx 2 alex alex  356 apr 16  2015 Important ! Readme.txt
+-rwxrwxrwx 2 alex alex  355 feb  7  2015 abc_ic_menu_moreoverflow_mtrl_alpha.png
+-rwxrwxrwx 2 alex alex  354 feb  7  2015 abc_btn_check_to_on_mtrl_000.png
+-rwxrwxrwx 2 alex alex  353 feb  7  2015 abc_ic_menu_cut_mtrl_alpha.png
+-rwxrwxrwx 2 alex alex  351 feb  7  2015 abc_switch_track_mtrl_alpha.9.png
+-rwxrwxrwx 1 alex alex 349 feb  7  2015 values.xml
+-rwxrwxrwx 2 alex alex  348 feb  7  2015 abc_ic_menu_copy_mtrl_am_alpha.png
+-rwxrwxrwx 2 alex alex 347 feb  7  2015 abc_ic_ab_back_mtrl_am_alpha.png
+-rwxrwxrwx 2 alex alex 346 feb  7  2015 abc_ic_menu_copy_mtrl_am_alpha.png
+-rwxrwxrwx 2 alex alex  345 feb  7  2015 abc_ic_ab_back_mtrl_am_alpha.png
+-rwxrwxrwx 2 alex alex 342 feb  7  2015 abc_spinner_mtrl_am_alpha.9.png
+-rwxrwxrwx 1 alex alex 341 feb  7  2015 values.xml
+-rwxrwxrwx 2 alex alex  330 feb  7  2015 abc_ic_menu_copy_mtrl_am_alpha.png
+-rwxrwxrwx 1 alex alex 327 feb  7  2015 values.xml
+-rwxrwxrwx 1 alex alex 327 feb  7  2015 values.xml
+-rwxrwxrwx 2 alex alex 326K sep 10 22:18 3 - Assignment - Color Guessing Game.docx
+-rwxrwxrwx 2 alex alex  326 feb  7  2015 abc_ic_clear_mtrl_alpha.png
+-rwxrwxrwx 2 alex alex  326 feb  7  2015 abc_ab_share_pack_holo_dark.9.png
+-rwxrwxrwx 1 alex alex 326 feb  7  2015 values.xml
+-rwxrwxrwx 1 alex alex  326 feb  7  2015 image_bg.xml
+-rwxrwxrwx 2 alex alex  325 feb  7  2015 abc_ic_commit_search_api_mtrl_alpha.png
+-rwxrwxrwx 2 alex alex  323 feb  7  2015 abc_ic_menu_selectall_mtrl_alpha.png
+-rwxrwxrwx 2 alex alex  323 feb  7  2015 abc_ic_menu_selectall_mtrl_alpha.png
+-rwxrwxrwx 2 alex alex  322 feb  7  2015 abc_ic_voice_search_api_mtrl_alpha.png
+-rwxrwxrwx 2 alex alex  320 feb  7  2015 abc_ic_clear_mtrl_alpha.png
+-rwxrwxrwx 2 alex alex  316 feb  7  2015 abc_ab_share_pack_holo_light.9.png
+-rwxrwxrwx 2 alex alex  314 feb  7  2015 abc_spinner_mtrl_am_alpha.9.png
+-rwxrwxrwx 2 alex alex  313 feb  7  2015 abc_ic_menu_selectall_mtrl_alpha.png
+-rwxrwxrwx 2 alex alex  312 feb  7  2015 abc_ic_menu_paste_mtrl_am_alpha.png
+-rwxrwxrwx 2 alex alex  312 feb  7  2015 abc_ic_menu_moreoverflow_mtrl_alpha.png
+-rwxrwxrwx 2 alex alex  307 feb  7  2015 abc_list_selector_disabled_holo_dark.9.png
+-rwxrwxrwx 2 alex alex  307 feb  7  2015 abc_ab_share_pack_holo_dark.9.png
+-rwxrwxrwx 2 alex alex  306 feb  7  2015 abc_ic_commit_search_api_mtrl_alpha.png
+-rwxrwxrwx 2 alex alex  306 feb  7  2015 abc_btn_check_to_on_mtrl_000.png
+-rwxrwxrwx 2 alex alex  305 feb  7  2015 abc_list_selector_disabled_holo_light.9.png
+-rwxrwxrwx 2 alex alex  304 feb  7  2015 abc_ab_share_pack_holo_light.9.png
+-rwxrwxrwx 2 alex alex  303 feb  7  2015 abc_ab_share_pack_holo_light.9.png
+-rwxrwxrwx 2 alex alex  303 feb  7  2015 abc_ab_share_pack_holo_dark.9.png
+-rwxrwxrwx 2 alex alex  302 feb  7  2015 abc_list_selector_disabled_holo_dark.9.png
+-rwxrwxrwx 2 alex alex  301 feb  7  2015 abc_list_selector_disabled_holo_light.9.png
+-rwxrwxrwx 2 alex alex 299K feb  7  2015 R.java
+-rwxrwxrwx 2 alex alex  295 feb  7  2015 abc_btn_check_to_on_mtrl_000.png
+-rwxrwxrwx 2 alex alex 288K feb  7  2015 classes-80bd1a274c060328782715badc3e5c69661ad3a1.jar
+-rwxrwxrwx 2 alex alex  288 feb  7  2015 abc_btn_check_to_on_mtrl_000.png
+-rwxrwxrwx 2 alex alex  287 feb  7  2015 abc_ic_menu_copy_mtrl_am_alpha.png
+-rwxrwxrwx 2 alex alex 284K sep 10 22:17 3 - Assignment - Matching Game.docx
+-rwxrwxrwx 2 alex alex  284 feb  7  2015 abc_ic_menu_moreoverflow_mtrl_alpha.png
+-rwxrwxrwx 2 alex alex  284 feb  7  2015 abc_ab_share_pack_holo_light.9.png
+-rwxrwxrwx 2 alex alex  283 feb  7  2015 abc_ab_share_pack_holo_dark.9.png
+-rwxrwxrwx 2 alex alex  281 feb  7  2015 abc_ic_menu_copy_mtrl_am_alpha.png
+-rwxrwxrwx 2 alex alex  281 feb  7  2015 abc_ic_commit_search_api_mtrl_alpha.png
+-rwxrwxrwx 2 alex alex 280 feb  7  2015 abc_ic_menu_copy_mtrl_am_alpha.png
+-rwxrwxrwx 2 alex alex  277 feb  7  2015 abc_ic_clear_mtrl_alpha.png
+-rwxrwxrwx 1 alex alex 276K feb  7  2015 anim_one.png
+-rwxrwxrwx 2 alex alex  275 feb  7  2015 abc_ic_clear_mtrl_alpha.png
+-rwxrwxrwx 1 alex alex 273K feb  7  2015 anim_one.png
+-rwxrwxrwx 2 alex alex 272 feb  7  2015 abc_spinner_mtrl_am_alpha.9.png
+-rwxrwxrwx 2 alex alex  270 feb  7  2015 abc_ic_menu_selectall_mtrl_alpha.png
+-rwxrwxrwx 2 alex alex  268 feb  7  2015 abc_ic_menu_moreoverflow_mtrl_alpha.png
+-rwxrwxrwx 1 alex alex 266 feb  7  2015 values.xml
+-rwxrwxrwx 2 alex alex  263 feb  7  2015 abc_ic_commit_search_api_mtrl_alpha.png
+-rwxrwxrwx 2 alex alex  261 feb  7  2015 abc_tab_indicator_mtrl_alpha.9.png
+-rwxrwxrwx 1 alex alex 259 feb  7  2015 strings.xml
+-rwxrwxrwx 2 alex alex  254 feb  7  2015 abc_list_selector_disabled_holo_dark.9.png
+-rwxrwxrwx 2 alex alex  253 feb  7  2015 abc_list_selector_disabled_holo_light.9.png
+-rwxrwxrwx 2 alex alex  251 feb  7  2015 finger_bg.xml
+-rwxrwxrwx 2 alex alex  246 feb  7  2015 abc_ic_ab_back_mtrl_am_alpha.png
+-rwxrwxrwx 2 alex alex  246 feb  7  2015 abc_cab_background_top_mtrl_alpha.9.png
+-rwxrwxrwx 2 alex alex  245 feb  7  2015 abc_list_focused_holo.9.png
+-rwxrwxrwx 2 alex alex  244 feb  7  2015 abc_list_focused_holo.9.png
+-rwxrwxrwx 2 alex alex  244 feb  7  2015 abc_list_focused_holo.9.png
+-rwxrwxrwx 1 alex alex 242K feb  7  2015 anim_two.png
+-rwxrwxrwx 2 alex alex  240 feb  7  2015 abc_list_selector_disabled_holo_light.9.png
+-rwxrwxrwx 2 alex alex  240 feb  7  2015 abc_ic_menu_paste_mtrl_am_alpha.png
+-rwxrwxrwx 2 alex alex  240 feb  7  2015 abc_ic_ab_back_mtrl_am_alpha.png
+-rwxrwxrwx 2 alex alex  239 feb  7  2015 abc_list_selector_disabled_holo_dark.9.png
+-rwxrwxrwx 2 alex alex  238 feb  7  2015 abc_ic_menu_selectall_mtrl_alpha.png
+-rwxrwxrwx 2 alex alex 237 feb  7  2015 abc_ic_menu_copy_mtrl_am_alpha.png
+-rwxrwxrwx 2 alex alex  237 feb  7  2015 abc_ic_menu_copy_mtrl_am_alpha.png
+-rwxrwxrwx 2 alex alex  234 feb  7  2015 abc_ic_menu_paste_mtrl_am_alpha.png
+-rwxrwxrwx 2 alex alex  234 feb  7  2015 abc_cab_background_top_mtrl_alpha.9.png
+-rwxrwxrwx 2 alex alex 232 feb  7  2015 gradle-wrapper.properties
+-rwxrwxrwx 2 alex alex  232 feb  7  2015 abc_ic_clear_mtrl_alpha.png
+-rwxrwxrwx 1 alex alex 232K feb  7  2015 anim_two.png
+-rwxrwxrwx 2 alex alex  229 feb  7  2015 abc_cab_background_top_mtrl_alpha.9.png
+-rwxrwxrwx 2 alex alex  227 feb  7  2015 abc_list_selector_disabled_holo_light.9.png
+-rwxrwxrwx 2 alex alex 226K feb  7  2015 anim_three.png
+-rwxrwxrwx 2 alex alex  226 feb  7  2015 abc_list_selector_disabled_holo_dark.9.png
+-rwxrwxrwx 2 alex alex  226 feb  7  2015 abc_ic_commit_search_api_mtrl_alpha.png
+-rwxrwxrwx 2 alex alex 225 feb  7  2015 abc_spinner_mtrl_am_alpha.9.png
+-rwxrwxrwx 2 alex alex  225 feb  7  2015 abc_cab_background_top_mtrl_alpha.9.png
+-rwxrwxrwx 2 alex alex  224 feb  7  2015 abc_ic_menu_selectall_mtrl_alpha.png
+-rwxrwxrwx 2 alex alex  222 feb  7  2015 abc_list_focused_holo.9.png
+-rwxrwxrwx 2 alex alex  221 feb  7  2015 abc_list_pressed_holo_light.9.png
+-rwxrwxrwx 2 alex alex  221 feb  7  2015 abc_list_pressed_holo_dark.9.png
+-rwxrwxrwx 2 alex alex  221 feb  7  2015 abc_list_longpressed_holo.9.png
+-rwxrwxrwx 2 alex alex  219 feb  7  2015 abc_ic_menu_moreoverflow_mtrl_alpha.png
+-rwxrwxrwx 2 alex alex  218 feb  7  2015 abc_ic_menu_moreoverflow_mtrl_alpha.png
+-rwxrwxrwx 2 alex alex 217K avg  4  2014 explosion.wav
+-rwxrwxrwx 2 alex alex  216 feb  7  2015 abc_ic_menu_copy_mtrl_am_alpha.png
+-rwxrwxrwx 2 alex alex 215K feb  7  2015 anim_three.png
+-rwxrwxrwx 2 alex alex  215 feb  7  2015 abc_tab_indicator_mtrl_alpha.9.png
+-rwxrwxrwx 2 alex alex  214 feb  7  2015 abc_list_pressed_holo_light.9.png
+-rwxrwxrwx 2 alex alex  214 feb  7  2015 abc_list_pressed_holo_dark.9.png
+-rwxrwxrwx 2 alex alex  214 feb  7  2015 abc_list_longpressed_holo.9.png
+-rwxrwxrwx 2 alex alex  212 feb  7  2015 abc_list_pressed_holo_light.9.png
+-rwxrwxrwx 2 alex alex  212 feb  7  2015 abc_list_pressed_holo_dark.9.png
+-rwxrwxrwx 2 alex alex  212 feb  7  2015 abc_list_longpressed_holo.9.png
+-rwxrwxrwx 2 alex alex  211 feb  7  2015 abc_list_pressed_holo_light.9.png
+-rwxrwxrwx 2 alex alex  211 feb  7  2015 abc_list_pressed_holo_dark.9.png
+-rwxrwxrwx 2 alex alex  211 feb  7  2015 abc_list_longpressed_holo.9.png
+-rwxrwxrwx 1 alex alex 211 feb  7  2015 dimens.xml
+-rwxrwxrwx 2 alex alex 208K feb  7  2015 internal_impl-21.0.3.jar
+-rwxrwxrwx 2 alex alex  205 feb  7  2015 abc_tab_indicator_mtrl_alpha.9.png
+-rwxrwxrwx 2 alex alex  204 feb  7  2015 abc_textfield_default_mtrl_alpha.9.png
+-rwxrwxrwx 1 alex alex 204 feb  7  2015 merger.xml
+-rwxrwxrwx 2 alex alex  203 feb  7  2015 abc_list_focused_holo.9.png
+-rwxrwxrwx 2 alex alex 203 avg  4  2014 Game Loop Template.py
+-rwxrwxrwx 2 alex alex  203 avg  4  2014 Game Loop Template.py
+-rwxrwxrwx 2 alex alex  203 avg  4  2014 Game Loop Template.py
+-rwxrwxrwx 2 alex alex  202 feb  7  2015 abc_textfield_activated_mtrl_alpha.9.png
+-rwxrwxrwx 2 alex alex  202 feb  7  2015 abc_ic_menu_moreoverflow_mtrl_alpha.png
+-rwxrwxrwx 2 alex alex 201K feb  7  2015 classes-099312ba265b078cd837c417e425a8fd67fac589.jar
+-rwxrwxrwx 2 alex alex  200 feb  7  2015 abc_ic_commit_search_api_mtrl_alpha.png
+-rwxrwxrwx 1 alex alex 200 feb  7  2015 values.xml
+-rwxrwxrwx 2 alex alex  199 feb  7  2015 abc_tab_indicator_mtrl_alpha.9.png
+-rwxrwxrwx 2 alex alex  198 feb  7  2015 abc_textfield_activated_mtrl_alpha.9.png
+-rwxrwxrwx 2 alex alex  197 feb  7  2015 abc_textfield_default_mtrl_alpha.9.png
+-rwxrwxrwx 2 alex alex  196 feb  7  2015 abc_textfield_search_default_mtrl_alpha.9.png
+-rwxrwxrwx 2 alex alex  194 feb  7  2015 abc_textfield_default_mtrl_alpha.9.png
+-rwxrwxrwx 1 alex alex 194 feb  7  2015 styles.xml
+-rwxrwxrwx 2 alex alex  193 feb  7  2015 abc_textfield_search_activated_mtrl_alpha.9.png
+-rwxrwxrwx 2 alex alex  192 feb  7  2015 abc_textfield_activated_mtrl_alpha.9.png
+-rwxrwxrwx 2 alex alex  192 feb  7  2015 abc_tab_indicator_mtrl_alpha.9.png
+-rwxrwxrwx 2 alex alex  192 feb  7  2015 abc_ic_commit_search_api_mtrl_alpha.png
+-rwxrwxrwx 2 alex alex  191 okt  8  2015 Check my blog on Sanet.me.url
+-rwxrwxrwx 2 alex alex  191 feb  7  2015 abc_list_focused_holo.9.png
+-rwxrwxrwx 2 alex alex 190K feb  7  2015 thumb_finger_prints.png
+-rwxrwxrwx 2 alex alex  190 feb  7  2015 abc_textfield_search_default_mtrl_alpha.9.png
+-rwxrwxrwx 2 alex alex  190 feb  7  2015 abc_textfield_search_activated_mtrl_alpha.9.png
+-rwxrwxrwx 2 alex alex  190 feb  7  2015 abc_list_selector_disabled_holo_dark.9.png
+-rwxrwxrwx 2 alex alex  190 feb  7  2015 abc_ic_menu_moreoverflow_mtrl_alpha.png
+-rwxrwxrwx 2 alex alex  189 feb  7  2015 abc_list_selector_disabled_holo_light.9.png
+-rwxrwxrwx 2 alex alex  189 feb  7  2015 abc_list_selector_disabled_holo_dark.9.png
+-rwxrwxrwx 2 alex alex  188 feb  7  2015 abc_list_selector_disabled_holo_light.9.png
+-rwxrwxrwx 2 alex alex  187 feb  7  2015 abc_textfield_search_activated_mtrl_alpha.9.png
+-rwxrwxrwx 2 alex alex 186K feb  7  2015 thumb_finger_prints.png
+-rwxrwxrwx 2 alex alex  186 feb  7  2015 abc_textfield_activated_mtrl_alpha.9.png
+-rwxrwxrwx 2 alex alex  186 feb  7  2015 abc_ic_menu_selectall_mtrl_alpha.png
+-rwxrwxrwx 1 alex alex 186 feb  7  2015 values.xml
+-rwxrwxrwx 2 alex alex  185 feb  7  2015 abc_textfield_default_mtrl_alpha.9.png
+-rwxrwxrwx 2 alex alex  182 feb  7  2015 abc_textfield_search_default_mtrl_alpha.9.png
+-rwxrwxrwx 2 alex alex  182 feb  7  2015 abc_cab_background_top_mtrl_alpha.9.png
+-rwxrwxrwx 2 alex alex 181K sep 10 22:16 3 - Assignment - Dating Web Site Assessment.docx
+-rwxrwxrwx 2 alex alex  181 feb  7  2015 abc_textfield_search_activated_mtrl_alpha.9.png
+-rwxrwxrwx 2 alex alex  180 feb  7  2015 abc_textfield_search_default_mtrl_alpha.9.png
+-rwxrwxrwx 2 alex alex  179 feb  7  2015 abc_ic_go_search_api_mtrl_alpha.png
+-rwxrwxrwx 2 alex alex  178 feb  7  2015 abc_list_divider_mtrl_alpha.9.png
+-rwxrwxrwx 2 alex alex  177 feb  7  2015 abc_ic_menu_copy_mtrl_am_alpha.png
+-rwxrwxrwx 2 alex alex  176 feb  7  2015 abc_ic_go_search_api_mtrl_alpha.png
+-rwxrwxrwx 2 alex alex 174 feb  7  2015 abc_ic_menu_copy_mtrl_am_alpha.png
+-rwxrwxrwx 2 alex alex  172 feb  7  2015 abc_list_selector_disabled_holo_dark.9.png
+-rwxrwxrwx 2 alex alex  172 feb  7  2015 abc_ic_go_search_api_mtrl_alpha.png
+-rwxrwxrwx 2 alex alex  171 feb  7  2015 abc_tab_indicator_mtrl_alpha.9.png
+-rwxrwxrwx 2 alex alex  171 feb  7  2015 abc_list_selector_disabled_holo_light.9.png
+-rwxrwxrwx 2 alex alex  171 feb  7  2015 abc_list_focused_holo.9.png
+-rwxrwxrwx 2 alex alex  171 apr 16  2015 Get More Stuff Here !.url
+-rwxrwxrwx 2 alex alex  170 feb  7  2015 abc_list_divider_mtrl_alpha.9.png
+-rwxrwxrwx 2 alex alex  170 feb  7  2015 abc_list_divider_mtrl_alpha.9.png
+-rwxrwxrwx 2 alex alex  170 feb  7  2015 abc_list_divider_mtrl_alpha.9.png
+-rwxrwxrwx 2 alex alex  163 feb  7  2015 abc_list_pressed_holo_light.9.png
+-rwxrwxrwx 2 alex alex  163 feb  7  2015 abc_list_pressed_holo_dark.9.png
+-rwxrwxrwx 2 alex alex  161 feb  7  2015 abc_textfield_search_default_mtrl_alpha.9.png
+-rwxrwxrwx 2 alex alex  160 feb  7  2015 abc_textfield_search_activated_mtrl_alpha.9.png
+-rwxrwxrwx 2 alex alex  159 feb  7  2015 abc_list_pressed_holo_light.9.png
+-rwxrwxrwx 2 alex alex  159 feb  7  2015 abc_list_pressed_holo_dark.9.png
+-rwxrwxrwx 2 alex alex  158 feb  7  2015 abc_textfield_search_default_mtrl_alpha.9.png
+-rwxrwxrwx 2 alex alex  158 feb  7  2015 abc_list_pressed_holo_light.9.png
+-rwxrwxrwx 2 alex alex  158 feb  7  2015 abc_list_pressed_holo_dark.9.png
+-rwxrwxrwx 2 alex alex  158 feb  7  2015 abc_list_longpressed_holo.9.png
+-rwxrwxrwx 2 alex alex  158 feb  7  2015 abc_ic_menu_moreoverflow_mtrl_alpha.png
+-rwxrwxrwx 2 alex alex  155 feb  7  2015 abc_textfield_search_activated_mtrl_alpha.9.png
+-rwxrwxrwx 2 alex alex  155 feb  7  2015 abc_ic_go_search_api_mtrl_alpha.png
+-rwxrwxrwx 1 alex alex 155K jan 12  2016 010 drawimage sourcecode.pdf
+-rwxrwxrwx 2 alex alex  154 feb  7  2015 abc_list_longpressed_holo.9.png
+-rwxrwxrwx 2 alex alex  152 feb  7  2015 abc_textfield_search_default_mtrl_alpha.9.png
+-rwxrwxrwx 2 alex alex  152 feb  7  2015 abc_textfield_search_activated_mtrl_alpha.9.png
+-rwxrwxrwx 1 alex alex 152M apr 12 21:48 008 Regular Expressions -re.mp4
+-rwxrwxrwx 2 alex alex  151 feb  7  2015 abc_list_longpressed_holo.9.png
+-rwxrwxrwx 2 alex alex  149 feb  7  2015 abc_textfield_search_activated_mtrl_alpha.9.png
+-rwxrwxrwx 2 alex alex  149 feb  7  2015 abc_ic_go_search_api_mtrl_alpha.png
+-rwxrwxrwx 2 alex alex  148 feb  7  2015 abc_textfield_search_default_mtrl_alpha.9.png
+-rwxrwxrwx 2 alex alex  147 feb  7  2015 abc_ic_go_search_api_mtrl_alpha.png
+-rwxrwxrwx 1 alex alex 143 feb  7  2015 values.xml
+-rwxrwxrwx 2 alex alex  142 feb  7  2015 abc_tab_indicator_mtrl_alpha.9.png
+-rwxrwxrwx 2 alex alex  138 feb  7  2015 abc_list_divider_mtrl_alpha.9.png
+-rwxrwxrwx 2 alex alex  136 feb  7  2015 abc_list_divider_mtrl_alpha.9.png
+-rwxrwxrwx 2 alex alex  136 feb  7  2015 abc_list_divider_mtrl_alpha.9.png
+-rwxrwxrwx 2 alex alex  136 feb  7  2015 abc_list_divider_mtrl_alpha.9.png
+-rwxrwxrwx 2 alex alex  136 feb  7  2015 abc_cab_background_top_mtrl_alpha.9.png
+-rwxrwxrwx 1 alex alex 130 feb  7  2015 values.xml
+-rwxrwxrwx 1 alex alex 123K feb  7  2015 values.xml
+-rwxrwxrwx 2 alex alex  122 feb  7  2015 abc_ab_share_pack_holo_light.9.png
+-rwxrwxrwx 1 alex alex 122 feb  7  2015 values.xml
+-rwxrwxrwx 1 alex alex 121 feb  7  2015 values.xml
+-rwxrwxrwx 1 alex alex 121 feb  7  2015 values.xml
+-rwxrwxrwx 2 alex alex  120 feb  7  2015 abc_ic_go_search_api_mtrl_alpha.png
+-rwxrwxrwx 2 alex alex  119 feb  7  2015 abc_cab_background_top_mtrl_alpha.9.png
+-rwxrwxrwx 2 alex alex  117 feb  7  2015 abc_textfield_default_mtrl_alpha.9.png
+-rwxrwxrwx 2 alex alex 115M feb 17  2016 Sanet.me_Guessing Game.mp4
+-rwxrwxrwx 2 alex alex 112M sep 10 23:37 5 - Presentation Notes and Examples for Week 1.docx
+-rwxrwxrwx 2 alex alex  112 feb  7  2015 abc_textfield_activated_mtrl_alpha.9.png
+-rwxrwxrwx 2 alex alex  112 feb  7  2015 abc_tab_indicator_mtrl_alpha.9.png
+-rwxrwxrwx 1 alex alex 112K jan 12  2016 030 Source Complete.pdf
+-rwxrwxrwx 2 alex alex  110 feb  7  2015 abc_ic_go_search_api_mtrl_alpha.png
+-rwxrwxrwx 2 alex alex  107 feb  7  2015 abc_cab_background_top_mtrl_alpha.9.png
+-rwxrwxrwx 2 alex alex 106M sep 10 23:58 2 - Presentation Notes and Examples for Week 3.docx
+-rwxrwxrwx 1 alex alex 105K jan 12  2016 027 Game source 7.pdf
+-rwxrwxrwx 2 alex alex 104M feb 16  2016 Sanet.me_Intro to Regex.mp4
+-rwxrwxrwx 2 alex alex  103 feb  7  2015 abc_textfield_default_mtrl_alpha.9.png
+-rwxrwxrwx 1 alex alex 103K jan 12  2016 005 Source Code 1.pdf
+-rwxrwxrwx 2 alex alex 102M sep 11 00:07 3 - Presentation Notes and Examples for Week 2.docx
+-rwxrwxrwx 2 alex alex  102 feb  7  2015 abc_tab_indicator_mtrl_alpha.9.png
+-rwxrwxrwx 2 alex alex  100 feb  7  2015 abc_textfield_activated_mtrl_alpha.9.png
+-rwxrwxrwx 2 alex alex   99 feb  7  2015 abc_textfield_default_mtrl_alpha.9.png
+-rwxrwxrwx 1 alex alex 96K feb  7  2015 values.xml
+-rwxrwxrwx 2 alex alex 95M feb 17  2016 Sanet.me_Intro to Variables.mp4
+-rwxrwxrwx 2 alex alex   95 feb  7  2015 abc_textfield_default_mtrl_alpha.9.png
+-rwxrwxrwx 1 alex alex  95M apr 12 21:42 004 Milestone Project 1 - Solution Walkthrough - Part 1.mp4
+-rwxrwxrwx 2 alex alex   94 feb  7  2015 abc_textfield_activated_mtrl_alpha.9.png
+-rwxrwxrwx 2 alex alex   94 feb  7  2015 abc_tab_indicator_mtrl_alpha.9.png
+-rwxrwxrwx 1 alex alex  92M apr 12 21:43 002 Exception Handling try, except, finally.mp4
+-rwxrwxrwx 2 alex alex  90M feb 15  2016 Sanet.me_Example Of Validating US Phone Numbers.mp4
+-rwxrwxrwx 2 alex alex  89M feb 18  2016 Sanet.me_Command Line Arguments.mp4
+-rwxrwxrwx 2 alex alex   88 feb  7  2015 abc_textfield_activated_mtrl_alpha.9.png
+-rwxrwxrwx 2 alex alex 87M mar  3  2016 001 Python Terminal Walkthrough.mp4
+-rwxrwxrwx 2 alex alex  87M feb 17  2016 Sanet.me_The Case Statement.mp4
+-rwxrwxrwx 2 alex alex  86M sep 11 00:07 041 jQuery Mobile UI.mp4
+-rwxrwxrwx 2 alex alex 86M feb 16  2016 Sanet.me_File Operations.mp4
+-rwxrwxrwx 1 alex alex  85M apr 12 21:42 006 Widget Styling.mp4
+-rwxrwxrwx 1 alex alex  85K jan 12  2016 019 Source Code 5 with enemy.pdf
+-rwxrwxrwx 2 alex alex  83M sep 11 00:07 036 PGallery HTML  CSS.mp4
+-rwxrwxrwx 2 alex alex 83M feb 16  2016 Sanet.me_Suppressing Output With -n, And Back Expressions.mp4
+-rwxrwxrwx 2 alex alex  83K mar 22 13:59 Exercise Files.zip
+-rwxrwxrwx 1 alex alex  82M apr 12 21:38 002 Interact.mp4
+-rwxrwxrwx 2 alex alex  81M feb 17  2016 Sanet.me_Tests and the if Statement.mp4
+-rwxrwxrwx 2 alex alex  81M feb 17  2016 Sanet.me_Loops.mp4
+-rwxrwxrwx 2 alex alex  81M apr 29 11:10 24. Simple Enemy AI.mp4
+-rwxrwxrwx 1 alex alex  81K jan 12  2016 023 Source code 6 collision detection.pdf
+-rwxrwxrwx 2 alex alex 80K feb  7  2015 model_data.bin
+-rwxrwxrwx 1 alex alex  80K jan 12  2016 014 source 4 keyboard.pdf
+-rwxrwxrwx 2 alex alex 78M okt 28  2015 002 What you need for this course.mp4
+-rwxrwxrwx 1 alex alex  77K avg  4  2014 Test2.bmp
+-rwxrwxrwx 1 alex alex  77K avg  4  2014 Test2.bmp
+-rwxrwxrwx 1 alex alex  77K avg  4  2014 store5.bmp
+-rwxrwxrwx 1 alex alex  77K avg  4  2014 store5.bmp
+-rwxrwxrwx 1 alex alex  77K avg  4  2014 store4.bmp
+-rwxrwxrwx 1 alex alex  77K avg  4  2014 store4.bmp
+-rwxrwxrwx 1 alex alex  77K avg  4  2014 Hiscore.bmp
+-rwxrwxrwx 1 alex alex  77K avg  4  2014 Hiscore.bmp
+-rwxrwxrwx 2 alex alex  76M sep 11 00:07 015 Displaying Results From API.mp4
+-rwxrwxrwx 2 alex alex 76M feb 17  2016 Sanet.me_Saving Shell State in .bashrc.mp4
+-rwxrwxrwx 2 alex alex 76M feb 17  2016 Sanet.me_Running Scripts in the Current Open Shell.mp4
+-rwxrwxrwx 1 alex alex  76M apr 12 21:49 004 Strings.mp4
+-rwxrwxrwx 1 alex alex  76K jan 12  2016 007 Source Code 2.pdf
+-rwxrwxrwx 2 alex alex  75M feb 16  2016 Sanet.me_Learn Switches  - -i, -v, -c.mp4
+-rwxrwxrwx 1 alex alex  75M apr 12 21:20 002 Functions.mp4
+-rwxrwxrwx 2 alex alex 74M mar  3  2016 006 Exercise With Solution  Homework .mp4
+-rwxrwxrwx 1 alex alex  73K sep 10 23:22 5-files.zip
+-rwxrwxrwx 1 alex alex  72M apr 12 21:46 004 Widget Events.mp4
+-rwxrwxrwx 1 alex alex 71M apr 12 21:37 002 OOP - Part 2 - Classes.mp4
+-rwxrwxrwx 2 alex alex 70M feb 17  2016 Sanet.me_Redirection and Piping.mp4
+-rwxrwxrwx 2 alex alex  70K feb  7  2015 internal_impl-21.0.3-590c10734208d922bcf4fcf62478e756d88a8ce4.jar
+-rwxrwxrwx 2 alex alex  69M sep 11 00:07 038 Image Overlay Effect.mp4
+-rwxrwxrwx 2 alex alex 69M mar  3  2016 001 Builtin Modules.mp4
+-rwxrwxrwx 1 alex alex  69M apr 12 21:51 010 Lists.mp4
+-rwxrwxrwx 1 alex alex  68M apr 12 21:47 003 lambda expressions.mp4
+-rwxrwxrwx 1 alex alex  68M apr 12 21:42 003 for Loops.mp4
+-rwxrwxrwx 2 alex alex 67M mar  3  2016 002 Understanding Objects And References.mp4
+-rwxrwxrwx 1 alex alex 67M apr 12 21:39 003 OOP - Part 3 -Methods.mp4
+-rwxrwxrwx 2 alex alex 65K feb  7  2015 R.java
+-rwxrwxrwx 2 alex alex 64M mar  3  2016 001 Exception Handling Demo.mp4
+-rwxrwxrwx 2 alex alex  64M feb 15  2016 Sanet.me_Piping Other Commands To Grep.mp4
+-rwxrwxrwx 1 alex alex  64K avg  4  2014 Test3.bmp
+-rwxrwxrwx 1 alex alex  64K avg  4  2014 Test3.bmp
+-rwxrwxrwx 1 alex alex  64K avg  4  2014 Test1.bmp
+-rwxrwxrwx 1 alex alex  64K avg  4  2014 Test1.bmp
+-rwxrwxrwx 1 alex alex  64K avg  4  2014 store3.bmp
+-rwxrwxrwx 1 alex alex  64K avg  4  2014 store3.bmp
+-rwxrwxrwx 1 alex alex  64K avg  4  2014 Options.bmp
+-rwxrwxrwx 1 alex alex  64K avg  4  2014 Options.bmp
+-rwxrwxrwx 1 alex alex  64K avg  4  2014 Options2.bmp
+-rwxrwxrwx 1 alex alex  64K avg  4  2014 Options2.bmp
+-rwxrwxrwx 1 alex alex  64K avg  4  2014 Main.bmp
+-rwxrwxrwx 1 alex alex  64K avg  4  2014 Main.bmp
+-rwxrwxrwx 1 alex alex  64K avg  4  2014 Main2.bmp
+-rwxrwxrwx 1 alex alex  64K avg  4  2014 Main2.bmp
+-rwxrwxrwx 1 alex alex  64K avg  4  2014 Main2b.bmp
+-rwxrwxrwx 1 alex alex  64K avg  4  2014 Main2b.bmp
+-rwxrwxrwx 1 alex alex  64K avg  4  2014 KlrParts.bmp
+-rwxrwxrwx 1 alex alex  64K avg  4  2014 KlrParts.bmp
+-rwxrwxrwx 1 alex alex  64K avg  4  2014 Killer2b.bmp
+-rwxrwxrwx 1 alex alex  64K avg  4  2014 Killer2b.bmp
+-rwxrwxrwx 1 alex alex  64K avg  4  2014 Junktest.bmp
+-rwxrwxrwx 1 alex alex  64K avg  4  2014 Junktest.bmp
+-rwxrwxrwx 1 alex alex  64K avg  4  2014 junkrefe.bmp
+-rwxrwxrwx 1 alex alex  64K avg  4  2014 junkrefe.bmp
+-rwxrwxrwx 1 alex alex  64K avg  4  2014 junkrefd.bmp
+-rwxrwxrwx 1 alex alex  64K avg  4  2014 junkrefd.bmp
+-rwxrwxrwx 1 alex alex  64K avg  4  2014 junkrefc.bmp
+-rwxrwxrwx 1 alex alex  64K avg  4  2014 junkrefc.bmp
+-rwxrwxrwx 1 alex alex  64K avg  4  2014 junkref.bmp
+-rwxrwxrwx 1 alex alex  64K avg  4  2014 junkref.bmp
+-rwxrwxrwx 1 alex alex  64K avg  4  2014 junkrefb.bmp
+-rwxrwxrwx 1 alex alex  64K avg  4  2014 junkrefb.bmp
+-rwxrwxrwx 1 alex alex  64K avg  4  2014 Junkc.bmp
+-rwxrwxrwx 1 alex alex  64K avg  4  2014 Junkc.bmp
+-rwxrwxrwx 1 alex alex  64K avg  4  2014 junk6.bmp
+-rwxrwxrwx 1 alex alex  64K avg  4  2014 junk6.bmp
+-rwxrwxrwx 1 alex alex  64K avg  4  2014 junk5.bmp
+-rwxrwxrwx 1 alex alex  64K avg  4  2014 junk5.bmp
+-rwxrwxrwx 1 alex alex  64K avg  4  2014 junk4.bmp
+-rwxrwxrwx 1 alex alex  64K avg  4  2014 junk4.bmp
+-rwxrwxrwx 1 alex alex  64K avg  4  2014 junk3.bmp
+-rwxrwxrwx 1 alex alex  64K avg  4  2014 junk3.bmp
+-rwxrwxrwx 1 alex alex  64K avg  4  2014 junk2.bmp
+-rwxrwxrwx 1 alex alex  64K avg  4  2014 junk2.bmp
+-rwxrwxrwx 1 alex alex  64K avg  4  2014 Joystick.bmp
+-rwxrwxrwx 1 alex alex  64K avg  4  2014 Joystick.bmp
+-rwxrwxrwx 1 alex alex  64K avg  4  2014 Items.bmp
+-rwxrwxrwx 1 alex alex  64K avg  4  2014 Items.bmp
+-rwxrwxrwx 1 alex alex  64K avg  4  2014 formref3.bmp
+-rwxrwxrwx 1 alex alex  64K avg  4  2014 formref3.bmp
+-rwxrwxrwx 1 alex alex  64K avg  4  2014 formref2.bmp
+-rwxrwxrwx 1 alex alex  64K avg  4  2014 formref2.bmp
+-rwxrwxrwx 1 alex alex  64K avg  4  2014 formref1.bmp
+-rwxrwxrwx 1 alex alex  64K avg  4  2014 formref1.bmp
+-rwxrwxrwx 1 alex alex  64K avg  4  2014 Font.bmp
+-rwxrwxrwx 1 alex alex  64K avg  4  2014 Font.bmp
+-rwxrwxrwx 1 alex alex  64K avg  4  2014 Factry4b.bmp
+-rwxrwxrwx 1 alex alex  64K avg  4  2014 Factry4b.bmp
+-rwxrwxrwx 1 alex alex  64K avg  4  2014 Factory4.bmp
+-rwxrwxrwx 1 alex alex  64K avg  4  2014 Factory4.bmp
+-rwxrwxrwx 1 alex alex  64K avg  4  2014 Factory3.bmp
+-rwxrwxrwx 1 alex alex  64K avg  4  2014 Factory3.bmp
+-rwxrwxrwx 1 alex alex  64K avg  4  2014 Blank.bmp
+-rwxrwxrwx 1 alex alex  64K avg  4  2014 Blank.bmp
+-rwxrwxrwx 1 alex alex  64K avg  4  2014 Blank2.bmp
+-rwxrwxrwx 1 alex alex  64K avg  4  2014 Blank2.bmp
+-rwxrwxrwx 1 alex alex  64K avg  4  2014 base.bmp
+-rwxrwxrwx 1 alex alex  64K avg  4  2014 base.bmp
+-rwxrwxrwx 2 alex alex 63M feb 17  2016 Sanet.me_Writing and Running a Hello World Script.mp4
+-rwxrwxrwx 2 alex alex 63M feb 16  2016 Sanet.me_Removing Non Empty Directories.mp4
+-rwxrwxrwx 2 alex alex  63M feb 16  2016 Sanet.me_More on Switches  - -l, -L, -n, -h.mp4
+-rwxrwxrwx 1 alex alex  63M apr 12 21:49 007 Print Formatting.mp4
+-rwxrwxrwx 1 alex alex  63M apr 12 21:43 006 Milestone Project 1 - Solution Walkthrough - Part 3.mp4
+-rwxrwxrwx 2 alex alex  62M sep 11 00:07 012 HTML  CSS.mp4
+-rwxrwxrwx 2 alex alex  62M mar 22 16:50 26. Game Progression Logic.mp4
+-rwxrwxrwx 2 alex alex  62M feb 16  2016 Sanet.me_Example Of Validating E-mail Addresses.mp4
+-rwxrwxrwx 2 alex alex 62M feb 16  2016 Sanet.me_Address Notation.mp4
+-rwxrwxrwx 2 alex alex  62M apr  7  2015 Android Studio Tutorial- Android Studio - Build an Android App in Less Than 1 Hour! - Skillfeed_2.FLV
+-rwxrwxrwx 1 alex alex  62M apr 12 21:50 012 Dictionaries.mp4
+-rwxrwxrwx 2 alex alex  61M sep 11 00:07 044 Editing Runs.mp4
+-rwxrwxrwx 2 alex alex  61M sep 11 00:07 010 Content Slider JavaScript.mp4
+-rwxrwxrwx 2 alex alex  61M sep 11 00:07 009 Content Slider HTML  CSS.mp4
+-rwxrwxrwx 2 alex alex 61K sep 10 22:16 4 - Quiz.docx
+-rwxrwxrwx 1 alex alex  61M apr 12 21:42 002 Creating Generators.mp4
+-rwxrwxrwx 1 alex alex  61K avg  4  2014 Junkdoor.bmp
+-rwxrwxrwx 1 alex alex  61K avg  4  2014 Junkdoor.bmp
+-rwxrwxrwx 1 alex alex  61K avg  4  2014 Junk1.bmp
+-rwxrwxrwx 1 alex alex  61K avg  4  2014 Junk1.bmp
+-rwxrwxrwx 1 alex alex  61K avg  4  2014 Check.bmp
+-rwxrwxrwx 1 alex alex  61K avg  4  2014 Check.bmp
+-rwxrwxrwx 1 alex alex  61K avg  4  2014 Barrel.bmp
+-rwxrwxrwx 1 alex alex  61K avg  4  2014 Barrel.bmp
+-rwxrwxrwx 2 alex alex  60M sep 11 00:07 049 Tic Tac Toe Logic-JavaScript.mp4
+-rwxrwxrwx 2 alex alex  60M sep 11 00:07 016 Paging Buttons  Lightbox.mp4
+-rwxrwxrwx 2 alex alex 60M mar  3  2016 001 Conditional Logic - If Else Conditions.mp4
+-rwxrwxrwx 2 alex alex 60M feb 16  2016 Sanet.me_Other Commands And Scripting Sed.mp4
+-rwxrwxrwx 1 alex alex  60M apr 12 21:36 001 Modules, Packages, and Imports.mp4
+-rwxrwxrwx 2 alex alex  58M sep 11 00:07 014 YouTube API GET Request.mp4
+-rwxrwxrwx 2 alex alex  58M feb 16  2016 Sanet.me_Other Command Line Switches.mp4
+-rwxrwxrwx 2 alex alex 58M feb 16  2016 Sanet.me_Making and Removing Directories.mp4
+-rwxrwxrwx 1 alex alex  58M apr 12 21:50 006 Jupyter iPython Notebooks.mp4
+-rwxrwxrwx 2 alex alex  57M sep 11 00:07 029 Thumbslider JavaScript.mp4
+-rwxrwxrwx 2 alex alex  57M sep 11 00:07 006 Quiz JavaScript.mp4
+-rwxrwxrwx 1 alex alex  57K avg  4  2014 Smasher.bmp
+-rwxrwxrwx 1 alex alex  57K avg  4  2014 Smasher.bmp
+-rwxrwxrwx 2 alex alex 56M feb 16  2016 Sanet.me_Usage of Wildcards.mp4
+-rwxrwxrwx 1 alex alex 56M apr 12 21:49 003 Decorators - Part 3.mp4
+-rwxrwxrwx 2 alex alex  55M sep 11 00:05 022 Ajax Shoutbox HTML  CSS.mp4
+-rwxrwxrwx 1 alex alex  55M apr 12 21:38 007 Custom Widget Example.mp4
+-rwxrwxrwx 1 alex alex  55M apr 12 21:20 004 while Loops.mp4
+-rwxrwxrwx 1 alex alex  55K avg  4  2014 Bullets.bmp
+-rwxrwxrwx 1 alex alex  55K avg  4  2014 Bullets.bmp
+-rwxrwxrwx 2 alex alex  54M sep 11 00:05 025 Inserting and Selecting Data From MySQL.mp4
+-rwxrwxrwx 1 alex alex  54K avg  4  2014 Drone2.bmp
+-rwxrwxrwx 1 alex alex  54K avg  4  2014 Drone2.bmp
+-rwxrwxrwx 1 alex alex  54K avg  4  2014 Bship.bmp
+-rwxrwxrwx 1 alex alex  54K avg  4  2014 Bship.bmp
+-rwxrwxrwx 2 alex alex  53M sep 11 00:07 034 Publishing A Plugin To The Registry.mp4
+-rwxrwxrwx 2 alex alex  53M feb  3  2016 4 - Textures  -  Loading, Transparency, and Bump Maps.mp4
+-rwxrwxrwx 1 alex alex  53M apr 12 21:35 007 Advanced Project Solution Overview.mp4
+-rwxrwxrwx 2 alex alex  52M feb  3  2016 5 - Integrating a Physics Engine (Physijs).mp4
+-rwxrwxrwx 1 alex alex  52M apr 12 21:37 005 Milestone Project 1 - Solution Walkthrough - Part 2.mp4
+-rwxrwxrwx 2 alex alex  51M feb 17  2016 Sanet.me_Exit Status of Shell Commands.mp4
+-rwxrwxrwx 2 alex alex  51M apr  7  2015 Android Studio Tutorial- Android Studio - Build an Android App in Less Than 1 Hour! - Skillfeed.FLV
+-rwxrwxrwx 1 alex alex  51M apr 12 21:50 008 Additional Resources.mp4
+-rwxrwxrwx 2 alex alex  50M mar 22 16:54 29. Animations.mp4
+-rwxrwxrwx 1 alex alex 50M apr 12 21:49 001 Final Capstone Project.mp4
+-rwxrwxrwx 2 alex alex  49M sep 11 00:07 032 Creating The Main Plugin File.mp4
+-rwxrwxrwx 2 alex alex  49M mar 22 16:39 25. More Enemy AI.mp4
+-rwxrwxrwx 2 alex alex 49K feb  7  2015 gradle-wrapper.jar
+-rwxrwxrwx 2 alex alex  48M sep 11 00:06 031 Environment  Git Repository Setup.mp4
+-rwxrwxrwx 2 alex alex 48M feb 17  2016 Sanet.me_Removing the ._ Resolution.mp4
+-rwxrwxrwx 1 alex alex  48M apr 12 21:48 003 Python Installation --- Windows.mp4
+-rwxrwxrwx 1 alex alex  48M apr 12 21:42 006 List Comprehensions.mp4
+-rwxrwxrwx 1 alex alex 48K feb  7  2015 R.txt
+-rwxrwxrwx 1 alex alex  48K avg  4  2014 Beacon.bmp
+-rwxrwxrwx 1 alex alex  48K avg  4  2014 Beacon.bmp
+-rwxrwxrwx 2 alex alex  47M okt 28  2015 014 14. Challenge - Change the div tag to a dark green and make it work.mp4
+-rwxrwxrwx 2 alex alex  47M okt 28  2015 011 11. Making the text pop out over the images.mp4
+-rwxrwxrwx 2 alex alex 47M mar  3  2016 004 For Loop Demo.mp4
+-rwxrwxrwx 2 alex alex 47M mar  3  2016 002 Working With Return Values.mp4
+-rwxrwxrwx 2 alex alex  47M mar 22 16:51 30. Implementing Scores.mp4
+-rwxrwxrwx 2 alex alex 47M feb 16  2016 Sanet.me_Sed Introduction.mp4
+-rwxrwxrwx 1 alex alex  47M apr 12 21:49 005 IDE Selection.mp4
+-rwxrwxrwx 1 alex alex  47K feb  7  2015 R.txt
+-rwxrwxrwx 1 alex alex  47K avg  4  2014 Rock2b.bmp
+-rwxrwxrwx 1 alex alex  47K avg  4  2014 Rock2b.bmp
+-rwxrwxrwx 2 alex alex  46M sep 11 00:07 003 JavaScript Fundamentals.mp4
+-rwxrwxrwx 2 alex alex 46M sep 11 00:00 2 - Logical Operators.mp4
+-rwxrwxrwx 2 alex alex  46M sep 10 23:59 1 - HTML Form Basics.mp4
+-rwxrwxrwx 2 alex alex 46M mar  3  2016 005 Method Overriding.mp4
+-rwxrwxrwx 2 alex alex  46M feb 14  2016 Sanet.me_Meta Characters In Regular Expressions.mp4
+-rwxrwxrwx 1 alex alex  46K avg  4  2014 Bullet2.bmp
+-rwxrwxrwx 1 alex alex  46K avg  4  2014 Bullet2.bmp
+-rwxrwxrwx 2 alex alex 45M sep 11 00:07 1 - For Loops.mp4
+-rwxrwxrwx 2 alex alex  45M sep 11 00:07 013 Searchbar Styling  Animation.mp4
+-rwxrwxrwx 2 alex alex 45M sep 11 00:05 2 - Node Relationships.mp4
+-rwxrwxrwx 2 alex alex 45M feb  3  2016 6 - A Closer Look at The Games Code.mp4
+-rwxrwxrwx 2 alex alex  45M feb  3  2016 3 - Loaders and Exporters.mp4
+-rwxrwxrwx 1 alex alex  45M apr 12 21:43 004 Nested Statements and Scope.mp4
+-rwxrwxrwx 1 alex alex  45K avg  4  2014 GravPool.bmp
+-rwxrwxrwx 1 alex alex  45K avg  4  2014 GravPool.bmp
+-rwxrwxrwx 2 alex alex 44M sep 11 00:07 3 - Style.mp4
+-rwxrwxrwx 2 alex alex 44M mar  3  2016 003 Working With Dictionary.mp4
+-rwxrwxrwx 2 alex alex  44M mar 22 16:50 10. Managing Game Assets.mp4
+-rwxrwxrwx 1 alex alex  44M apr 12 21:31 005 Widget List.mp4
+-rwxrwxrwx 1 alex alex  44K jan 12  2016 002 resources for course.pdf
+-rwxrwxrwx 1 alex alex  44K avg  4  2014 numbers.bmp
+-rwxrwxrwx 1 alex alex  44K avg  4  2014 numbers.bmp
+-rwxrwxrwx 2 alex alex  43M sep 11 00:07 028 Thumbslider CSS.mp4
+-rwxrwxrwx 2 alex alex  43M okt 28  2015 010 10. Adding in the padding and changing the text size.mp4
+-rwxrwxrwx 2 alex alex 43M mar  3  2016 006 Exercise With Solution  Homework .mp4
+-rwxrwxrwx 2 alex alex 43M mar  3  2016 004 Understanding Variable Scope.mp4
+-rwxrwxrwx 2 alex alex 43M mar  3  2016 003 Break Continue And WhileElse.mp4
+-rwxrwxrwx 2 alex alex  43M mar 22 16:53 19. Game Object Logic.mp4
+-rwxrwxrwx 2 alex alex  43M mar 22 16:49 14. Player Input.mp4
+-rwxrwxrwx 1 alex alex  43K avg  4  2014 SpacStr2.bmp
+-rwxrwxrwx 1 alex alex  43K avg  4  2014 SpacStr2.bmp
+-rwxrwxrwx 1 alex alex  43K avg  4  2014 launcher.bmp
+-rwxrwxrwx 1 alex alex  43K avg  4  2014 launcher.bmp
+-rwxrwxrwx 1 alex alex  43K avg  4  2014 Jnkdrtst.bmp
+-rwxrwxrwx 1 alex alex  43K avg  4  2014 Jnkdrtst.bmp
+-rwxrwxrwx 2 alex alex 42M mar  3  2016 009 String Methods - Part 1.mp4
+-rwxrwxrwx 2 alex alex 42M mar  3  2016 005 More Built-In Functions.mp4
+-rwxrwxrwx 2 alex alex 42M mar  3  2016 002 List Methods.mp4
+-rwxrwxrwx 2 alex alex  42M mar 22 16:49 15. Thrust and Damping.mp4
+-rwxrwxrwx 2 alex alex  42M mar 22 16:38 21. Delaying Game Events.mp4
+-rwxrwxrwx 1 alex alex  42K avg  4  2014 Rock2a.bmp
+-rwxrwxrwx 1 alex alex  42K avg  4  2014 Rock2a.bmp
+-rwxrwxrwx 2 alex alex  41M okt 28  2015 009 09. Setting the other div tag images.mp4
+-rwxrwxrwx 1 alex alex  41M apr 12 21:46 003 Advanced Sets.mp4
+-rwxrwxrwx 1 alex alex  41M apr 12 21:41 005 range.mp4
+-rwxrwxrwx 1 alex alex  41K sep 10 23:22 cover.jpg
+-rwxrwxrwx 2 alex alex 40M sep 11 00:07 1 - The DOM - Basic Concepts.mp4
+-rwxrwxrwx 2 alex alex  40M sep 11 00:07 042 Adding Runs to LocalStorage.mp4
+-rwxrwxrwx 2 alex alex  40M sep 11 00:07 037 Image Categories.mp4
+-rwxrwxrwx 2 alex alex  40M sep 11 00:05 2 - Introduction to Events and Functions.mp4
+-rwxrwxrwx 2 alex alex 40M mar  3  2016 011 More String Slicing And Indexing.mp4
+-rwxrwxrwx 1 alex alex  40M apr 12 21:38 002 Milestone Project 1 -Assignment Overview.mp4
+-rwxrwxrwx 1 alex alex  40K avg  4  2014 lena.png
+-rwxrwxrwx 1 alex alex  40K avg  4  2014 lena.png
+-rwxrwxrwx 2 alex alex 39M sep 11 00:05 1 - An Example DOM Project.mp4
+-rwxrwxrwx 2 alex alex 39M sep 11 00:04 5 - Tables.mp4
+-rwxrwxrwx 2 alex alex 39M mar  3  2016 003 Create Your Own Methods.mp4
+-rwxrwxrwx 2 alex alex 39M mar  3  2016 002 Create Your Own Object.mp4
+-rwxrwxrwx 2 alex alex 39M mar  3  2016 001 Working With Comparators.mp4
+-rwxrwxrwx 2 alex alex 39M feb 16  2016 Sanet.me_Printing Line Numbers With The = Command.mp4
+-rwxrwxrwx 1 alex alex  39M apr 12 21:48 002 if, elif, and else Statements.mp4
+-rwxrwxrwx 1 alex alex  39M apr 12 21:35 003 Python 2 vs Python 3.mp4
+-rwxrwxrwx 1 alex alex  39M apr 12 21:18 007 Timing your code - timeit.mp4
+-rwxrwxrwx 2 alex alex  38M sep 11 00:07 008 jQuery Fundamentals.mp4
+-rwxrwxrwx 2 alex alex 38M mar  3  2016 006 Arithmetic Order Of Precedence.mp4
+-rwxrwxrwx 1 alex alex  38K avg  4  2014 MainMenu.bmp
+-rwxrwxrwx 1 alex alex  38K avg  4  2014 MainMenu.bmp
+-rwxrwxrwx 1 alex alex  38K avg  4  2014 Killer.bmp
+-rwxrwxrwx 1 alex alex  38K avg  4  2014 Killer.bmp
+-rwxrwxrwx 1 alex alex  38K avg  4  2014 Cargo1.bmp
+-rwxrwxrwx 1 alex alex  38K avg  4  2014 Cargo1.bmp
+-rwxrwxrwx 1 alex alex  38K avg  4  2014 Cargo1b.bmp
+-rwxrwxrwx 1 alex alex  38K avg  4  2014 Cargo1b.bmp
+-rwxrwxrwx 2 alex alex  37M sep 11 00:07 004 Quiz File Structure and  HTML.mp4
+-rwxrwxrwx 2 alex alex 37M mar  3  2016 008 Working With Strings.mp4
+-rwxrwxrwx 1 alex alex  37M apr 12 21:40 001 Collections Module - counter.mp4
+-rwxrwxrwx 1 alex alex  37K avg  4  2014 Wave.bmp
+-rwxrwxrwx 1 alex alex  37K avg  4  2014 Wave.bmp
+-rwxrwxrwx 2 alex alex 36M sep 11 00:15 lesson_10.mp4
+-rwxrwxrwx 2 alex alex  36M sep 11 00:05 018 FAQ Slider HTML.mp4
+-rwxrwxrwx 2 alex alex 36M sep 11 00:00 2 - Timer Events.mp4
+-rwxrwxrwx 2 alex alex 36M mar  3  2016 001 Understanding Objects  Classes.mp4
+-rwxrwxrwx 2 alex alex  36M mar 22 16:43 20. Game Event Logic.mp4
+-rwxrwxrwx 2 alex alex  36M feb  3  2016 3 - Inbuilt Geometry.mp4
+-rwxrwxrwx 2 alex alex 36M feb  3  2016 1 - Introduction.mp4
+-rwxrwxrwx 2 alex alex 35M sep 11 00:00 1 - Links.mp4
+-rwxrwxrwx 2 alex alex 35M mar  3  2016 004 Inheritance.mp4
+-rwxrwxrwx 2 alex alex 35M mar  3  2016 002 Finally And Else Block.mp4
+-rwxrwxrwx 1 alex alex  35M apr 12 21:42 003 Widget Basics.mp4
+-rwxrwxrwx 1 alex alex 35M apr 12 21:38 002 Decorators - Part 2.mp4
+-rwxrwxrwx 1 alex alex 35M apr 12 21:24 005 OOP - Part 5 - Special Methods.mp4
+-rwxrwxrwx 2 alex alex  34M sep 11 00:06 2 - Getting to Know HTML.mp4
+-rwxrwxrwx 2 alex alex 34M sep 11 00:05 1 - More On Arrays.mp4
+-rwxrwxrwx 2 alex alex 34M sep 11 00:04 1 - An Example JavaScript Project.mp4
+-rwxrwxrwx 2 alex alex 34M sep 10 23:02 07_03-Serving files.mp4
+-rwxrwxrwx 2 alex alex 34M mar  3  2016 002 Create Your Own Modules.mp4
+-rwxrwxrwx 2 alex alex  34M feb  3  2016 5 - Collision Detection.mp4
+-rwxrwxrwx 1 alex alex  34K avg  4  2014 names.bmp
+-rwxrwxrwx 1 alex alex  34K avg  4  2014 names.bmp
+-rwxrwxrwx 2 alex alex 33M sep 11 00:15 lesson_13.mp4
+-rwxrwxrwx 2 alex alex  33M sep 11 00:03 5 - Formatting HTML Text.mp4
+-rwxrwxrwx 2 alex alex 33M sep 10 23:03 07_01-Making a request.mp4
+-rwxrwxrwx 2 alex alex  33M okt 28  2015 009 09. Making the text pop out.mp4
+-rwxrwxrwx 2 alex alex 33M mar  3  2016 006 Using Range Function In For Loop.mp4
+-rwxrwxrwx 2 alex alex 33M mar  3  2016 002 Understanding Boolean Operators.mp4
+-rwxrwxrwx 2 alex alex 33M mar  3  2016 001 Understanding Methods.mp4
+-rwxrwxrwx 1 alex alex 33M apr 12 21:35 001 OOP - Part 1 - Objects.mp4
+-rwxrwxrwx 1 alex alex  33K avg  4  2014 Options3.bmp
+-rwxrwxrwx 1 alex alex  33K avg  4  2014 Options3.bmp
+-rwxrwxrwx 1 alex alex  33K avg  4  2014 Mouse.bmp
+-rwxrwxrwx 1 alex alex  33K avg  4  2014 Mouse.bmp
+-rwxrwxrwx 1 alex alex  33K avg  4  2014 Junkb.bmp
+-rwxrwxrwx 1 alex alex  33K avg  4  2014 Junkb.bmp
+-rwxrwxrwx 1 alex alex  33K avg  4  2014 ActGrid.bmp
+-rwxrwxrwx 1 alex alex  33K avg  4  2014 ActGrid.bmp
+-rwxrwxrwx 1 alex alex  33K avg  4  2014 ActGrid2.bmp
+-rwxrwxrwx 1 alex alex  33K avg  4  2014 ActGrid2.bmp
+-rwxrwxrwx 2 alex alex  32M sep 10 22:55 144203_03_09_XR151_math.mp4
+-rwxrwxrwx 2 alex alex  32M okt 28  2015 010 10. Adding in a graphic logo to the top.mp4
+-rwxrwxrwx 2 alex alex 32M mar  3  2016 005 Dictionary Methods.mp4
+-rwxrwxrwx 2 alex alex  32M feb  3  2016 2 - Modifying Position, Size, and Rotation.mp4
+-rwxrwxrwx 1 alex alex  32M apr 12 21:48 001 Numbers.mp4
+-rwxrwxrwx 1 alex alex  32M apr 12 21:44 005 Advanced Lists.mp4
+-rwxrwxrwx 1 alex alex  32K avg  4  2014 Keyboard.bmp
+-rwxrwxrwx 1 alex alex  32K avg  4  2014 Keyboard.bmp
+-rwxrwxrwx 2 alex alex 31M sep 11 00:15 lesson_12.mp4
+-rwxrwxrwx 2 alex alex  31M sep 11 00:07 043 Displaying Runs.mp4
+-rwxrwxrwx 2 alex alex  31M sep 11 00:04 027 Thumbslider HTML.mp4
+-rwxrwxrwx 2 alex alex 31M sep 11 00:03 1 - Making Decisions.mp4
+-rwxrwxrwx 2 alex alex  31M sep 10 23:00 01_01-Welcome.mp4
+-rwxrwxrwx 2 alex alex  31M okt 28  2015 012 12. Adjusting the Header 2.mp4
+-rwxrwxrwx 2 alex alex 31M mar  3  2016 010 String Methods - Part 2.mp4
+-rwxrwxrwx 2 alex alex 31M mar  3  2016 003 Exercise With Solution  Homework .mp4
+-rwxrwxrwx 2 alex alex 31M feb  3  2016 1 - History of WebGL and Three.js.mp4
+-rwxrwxrwx 1 alex alex  31M apr 12 21:47 005 Datetime.mp4
+-rwxrwxrwx 1 alex alex 31M apr 12 21:37 004 OOP - Part 4 - Inheritance.mp4
+-rwxrwxrwx 1 alex alex  31M apr 12 21:37 002 Advanced Strings.mp4
+-rwxrwxrwx 1 alex alex 31M apr 12 21:37 001 Decorators - Part 1.mp4
+-rwxrwxrwx 1 alex alex  31M apr 12 21:37 001 Advanced Numbers.mp4
+-rwxrwxrwx 2 alex alex 30M sep 11 00:07 3 - Arrays.mp4
+-rwxrwxrwx 2 alex alex 30M sep 11 00:07 2 - Array Functions.mp4
+-rwxrwxrwx 2 alex alex  30M sep 11 00:07 039 LightBox  Responsive Layout.mp4
+-rwxrwxrwx 2 alex alex  30M sep 11 00:06 045 Deleting Runs from localStorage.mp4
+-rwxrwxrwx 2 alex alex  30M sep 11 00:05 020 FAQ Slider JavaScript.mp4
+-rwxrwxrwx 2 alex alex  30M sep 10 22:54 144203_04_01_MM30_overview.mp4
+-rwxrwxrwx 2 alex alex  30M okt 28  2015 012 12. Adding in the other themes.mp4
+-rwxrwxrwx 2 alex alex  30M mar 22 16:44 04. Understanding Frame Rates.mp4
+-rwxrwxrwx 1 alex alex  30M jan 12  2016 029 HTML5 Game add a second enemy.mp4
+-rwxrwxrwx 1 alex alex  30M jan 12  2016 021 HTML5 Game adding powerup pill.mp4
+-rwxrwxrwx 1 alex alex  30K avg  4  2014 Spike.bmp
+-rwxrwxrwx 1 alex alex  30K avg  4  2014 Spike.bmp
+-rwxrwxrwx 2 alex alex  29M sep 11 00:06 4 - Some Common HTML Elements.mp4
+-rwxrwxrwx 2 alex alex  29M sep 11 00:05 024 jQuery Ajax POST Request.mp4
+-rwxrwxrwx 2 alex alex 29M sep 10 23:01 09_04-Express post bodies and params.mp4
+-rwxrwxrwx 2 alex alex 29M sep 10 22:58 11_06-Advanced testing Sinon stubs.mp4
+-rwxrwxrwx 2 alex alex 29M sep 10 22:57 05_02-Collecting information with Readline.mp4
+-rwxrwxrwx 2 alex alex  29M sep 10 22:55 144203_04_08_XR15_delegate.mp4
+-rwxrwxrwx 2 alex alex  29M okt 28  2015 012 12. Picking the colors of the website.mp4
+-rwxrwxrwx 2 alex alex  29M okt 28  2015 011 11. Adding in the rest of hte functions.mp4
+-rwxrwxrwx 2 alex alex 29M mar  3  2016 001 List And Accessing The Elements.mp4
+-rwxrwxrwx 2 alex alex  29M mar 22 16:41 31. Adding Sound.mp4
+-rwxrwxrwx 1 alex alex  29M jan 12  2016 018 HTML5 Game enemy moving.mp4
+-rwxrwxrwx 1 alex alex  29M apr 12 21:48 022 Objects and Data Structures Assessment - Solutions.mp4
+-rwxrwxrwx 1 alex alex 29M apr 12 21:35 001 Project Overview.mp4
+-rwxrwxrwx 1 alex alex  29K avg  4  2014 Exhaust1.bmp
+-rwxrwxrwx 1 alex alex  29K avg  4  2014 Exhaust1.bmp
+-rwxrwxrwx 2 alex alex 28M sep 11 00:07 4 - More on Style.mp4
+-rwxrwxrwx 2 alex alex  28M sep 11 00:07 1 - Variables.mp4
+-rwxrwxrwx 2 alex alex 28M sep 10 23:01 04_03-Standard input and standard output.mp4
+-rwxrwxrwx 2 alex alex  28M sep 10 22:57 10_03-Creating WebSockets with Socket.IO.mp4
+-rwxrwxrwx 2 alex alex  28M okt 28  2015 016 16. Formatting the h2 with a span tag.mp4
+-rwxrwxrwx 2 alex alex  28M okt 28  2015 007 07. Adding in images to the div tags.mp4
+-rwxrwxrwx 2 alex alex 28M mar  3  2016 003 Working With Positional  Optional Parameters.mp4
+-rwxrwxrwx 2 alex alex  28M feb  3  2016 3 - Creating Geometry.mp4
+-rwxrwxrwx 1 alex alex  28M jan 12  2016 022 HTML5 Game collision detection.mp4
+-rwxrwxrwx 1 alex alex 28M apr 12 21:46 002 Project 2 Solution.mp4
+-rwxrwxrwx 1 alex alex  28M apr 12 21:45 002 Map.mp4
+-rwxrwxrwx 1 alex alex  28K avg  4  2014 Factory2.bmp
+-rwxrwxrwx 1 alex alex  28K avg  4  2014 Factory2.bmp
+-rwxrwxrwx 2 alex alex  27M sep 11 00:04 2 - More on Forms.mp4
+-rwxrwxrwx 2 alex alex 27M sep 11 00:03 3 - Locating Nodes.mp4
+-rwxrwxrwx 2 alex alex 27M sep 10 23:03 04_04-Global timing functions.mp4
+-rwxrwxrwx 2 alex alex 27M sep 10 23:00 Ex_Files_Nodejs_EssT.zip
+-rwxrwxrwx 2 alex alex  27M sep 10 22:55 144203_05_04_XR15_options.mp4
+-rwxrwxrwx 2 alex alex  27M okt 28  2015 016 16. Adding in the white text and blue text.mp4
+-rwxrwxrwx 2 alex alex  27M okt 28  2015 008 08. Setting up the background image.mp4
+-rwxrwxrwx 2 alex alex 27M mar  3  2016 004 Numbers Data Type And Math Operations.mp4
+-rwxrwxrwx 2 alex alex 27M mar  3  2016 003 Boolean Operators - Order Of Precedence.mp4
+-rwxrwxrwx 2 alex alex  27M mar 22 16:28 08. Working with Images.mp4
+-rwxrwxrwx 2 alex alex 27M mar 22 14:15 06_01-pack.mp4
+-rwxrwxrwx 1 alex alex  27M jan 12  2016 026 HTML5 Game hit test ghost.mp4
+-rwxrwxrwx 1 alex alex  27M jan 12  2016 008 Setup GameBoard HTML5.mp4
+-rwxrwxrwx 1 alex alex 27K feb  7  2015 values.xml
+-rwxrwxrwx 1 alex alex 27K feb  7  2015 values.xml
+-rwxrwxrwx 2 alex alex 26M sep 11 00:15 lesson_11.mp4
+-rwxrwxrwx 2 alex alex 26M sep 11 00:00 5 - Deleting Nodes.mp4
+-rwxrwxrwx 2 alex alex  26M okt 28  2015 013 13. Formatting the images.mp4
+-rwxrwxrwx 2 alex alex 26M mar  3  2016 003 Variables Rules.mp4
+-rwxrwxrwx 2 alex alex 26M mar  3  2016 002 While Loop Demo.mp4
+-rwxrwxrwx 2 alex alex  26M mar 22 16:54 09. Image Processing.mp4
+-rwxrwxrwx 2 alex alex 26K sep 10 22:16 7 - Quiz.docx
+-rwxrwxrwx 1 alex alex  26M apr 12 21:48 017 Files.mp4
+-rwxrwxrwx 2 alex alex 25M sep 10 23:03 12_04-Rapid development with Grunt Watches.mp4
+-rwxrwxrwx 2 alex alex 25M sep 10 23:02 11_02-Asynchronous mocha testing.mp4
+-rwxrwxrwx 2 alex alex 25M sep 10 23:02 09_01-The package.json file.mp4
+-rwxrwxrwx 2 alex alex 25M sep 10 23:01 11_08-Testing HTTP endpoints with Supertest.mp4
+-rwxrwxrwx 2 alex alex 25M sep 10 23:01 07_04-Serving JSON data.mp4
+-rwxrwxrwx 2 alex alex  25M sep 10 22:56 06_07-Readable file streams.mp4
+-rwxrwxrwx 2 alex alex  25M sep 10 22:55 144203_03_11_XR15_innerHTML.mp4
+-rwxrwxrwx 2 alex alex  25M sep 10 22:51 144203_04_04_XR15_cactivate.mp4
+-rwxrwxrwx 2 alex alex  25M okt 28  2015 014 14. Adding in the orange text to a different header.mp4
+-rwxrwxrwx 2 alex alex  25M okt 28  2015 013 13. Adding in the colors to the project.mp4
+-rwxrwxrwx 2 alex alex  25M okt 28  2015 010 10. Adding in a semi transparent background to see the text.mp4
+-rwxrwxrwx 2 alex alex  25M okt 28  2015 008 08. Adding in a background to the columns.mp4
+-rwxrwxrwx 2 alex alex  25M okt 28  2015 006 06. Adding in the columns.mp4
+-rwxrwxrwx 2 alex alex 25M mar  3  2016 007 Boolean Data Type.mp4
+-rwxrwxrwx 2 alex alex  25M mar 22 16:48 02. Your First Game Loop.mp4
+-rwxrwxrwx 2 alex alex  25M mar 22 16:37 13. Simple Game Physics.mp4
+-rwxrwxrwx 1 alex alex  25M jan 12  2016 009 HTML5 drawimage selecting image pieces.mp4
+-rwxrwxrwx 1 alex alex  25M apr 12 21:50 021 Objects and Data Structures Assessment Test.mp4
+-rwxrwxrwx 1 alex alex  25M apr 12 21:45 004 Python Installation --- Mac OS and Linux.mp4
+-rwxrwxrwx 1 alex alex  25M apr 12 21:44 015 Tuples.mp4
+-rwxrwxrwx 1 alex alex  25M apr 12 21:28 005 Zip.mp4
+-rwxrwxrwx 1 alex alex  25K avg  4  2014 GravGrid.bmp
+-rwxrwxrwx 1 alex alex  25K avg  4  2014 GravGrid.bmp
+-rwxrwxrwx 1 alex alex  25K avg  4  2014 Formtest.bmp
+-rwxrwxrwx 1 alex alex  25K avg  4  2014 Formtest.bmp
+-rwxrwxrwx 1 alex alex  25K avg  4  2014 Factory1.bmp
+-rwxrwxrwx 1 alex alex  25K avg  4  2014 Factory1.bmp
+-rwxrwxrwx 2 alex alex 24M sep 11 00:04 4 - Creating and Adding Nodes.mp4
+-rwxrwxrwx 2 alex alex 24M sep 10 23:03 12_03-Bundling client scripts with Browserify.mp4
+-rwxrwxrwx 2 alex alex 24M sep 10 23:01 11_09-Checking server responses with Cheerio.mp4
+-rwxrwxrwx 2 alex alex  24M okt 28  2015 013 13. Changing the logo color.mp4
+-rwxrwxrwx 2 alex alex  24M okt 28  2015 013 13. Adding in the HR code.mp4
+-rwxrwxrwx 2 alex alex  24M okt 28  2015 012 12. Adding in cat pictures.mp4
+-rwxrwxrwx 2 alex alex  24M okt 28  2015 011 11. Formatting the text to fit the video.mp4
+-rwxrwxrwx 2 alex alex  24M okt 28  2015 007 07. Adding padding to the page.mp4
+-rwxrwxrwx 2 alex alex  24M okt 28  2015 006 06. Adding in the sections.mp4
+-rwxrwxrwx 2 alex alex  24M okt 28  2015 005 05. Adding in the logo formatting.mp4
+-rwxrwxrwx 2 alex alex 24M mar  3  2016 006 Working With Tuple.mp4
+-rwxrwxrwx 2 alex alex  24M mar 22 14:15 05_02-text_advanced.mp4
+-rwxrwxrwx 1 alex alex  24M jan 12  2016 016 HTML5 Game create an enemy.mp4
+-rwxrwxrwx 1 alex alex  24M apr 12 21:45 003 Reduce.mp4
+-rwxrwxrwx 1 alex alex  24M apr 12 21:20 008 Functions and Methods Homework - Solutions.mp4
+-rwxrwxrwx 1 alex alex  24M apr 12 21:16 006 Python Debugger - pdb.mp4
+-rwxrwxrwx 1 alex alex  24K avg  4  2014 Nebula1.bmp
+-rwxrwxrwx 1 alex alex  24K avg  4  2014 Nebula1.bmp
+-rwxrwxrwx 2 alex alex  23M sep 11 00:06 005 Quiz CSS.mp4
+-rwxrwxrwx 2 alex alex 23M sep 11 00:04 2 - While Loops.mp4
+-rwxrwxrwx 2 alex alex 23M sep 11 00:04 2 - Void Elements & Breaks.mp4
+-rwxrwxrwx 2 alex alex 23M sep 11 00:00 3 - Adding Events Using JavaScript.mp4
+-rwxrwxrwx 2 alex alex 23M sep 10 22:58 12_02-Converting LESS to CSS with Grunt.mp4
+-rwxrwxrwx 2 alex alex  23M sep 10 22:55 144203_05_02_XR15_start.mp4
+-rwxrwxrwx 2 alex alex  23M sep 10 22:54 144203_04_03_XR15_clickable.mp4
+-rwxrwxrwx 2 alex alex  23M okt 28  2015 017 17. Adding in the orange color.mp4
+-rwxrwxrwx 2 alex alex  23M okt 28  2015 010 10. Stretching the letters.mp4
+-rwxrwxrwx 2 alex alex  23M okt 28  2015 008 08. Formatting the section.mp4
+-rwxrwxrwx 2 alex alex 23M mar  3  2016 005 Numbers - Exponentiation And Modulo.mp4
+-rwxrwxrwx 2 alex alex 23M mar  3  2016 001 BONUS Whats Next and other cool free stuff.mp4
+-rwxrwxrwx 2 alex alex  23M mar 22 16:39 16. Collision Detection.mp4
+-rwxrwxrwx 2 alex alex  23M mar 22 16:12 03. A Simple Game Loop.mp4
+-rwxrwxrwx 2 alex alex  23M mar 22 14:14 05_05-menu.mp4
+-rwxrwxrwx 2 alex alex  23K sep 10 22:16 5 - Quiz.docx
+-rwxrwxrwx 1 alex alex  23M jan 12  2016 024 HTML5 Game powerup functions.mp4
+-rwxrwxrwx 1 alex alex  23M apr 12 21:50 018 Sets and Booleans.mp4
+-rwxrwxrwx 1 alex alex  23M apr 12 21:39 001 Methods.mp4
+-rwxrwxrwx 1 alex alex  23M apr 12 21:18 004 Collections Module - namedtuple.mp4
+-rwxrwxrwx 1 alex alex  23M apr 12 21:15 001 Comparison Operators.mp4
+-rwxrwxrwx 1 alex alex  23K avg  4  2014 Suntest.bmp
+-rwxrwxrwx 1 alex alex  23K avg  4  2014 Suntest.bmp
+-rwxrwxrwx 1 alex alex  23K avg  4  2014 Sun1b.bmp
+-rwxrwxrwx 1 alex alex  23K avg  4  2014 Sun1b.bmp
+-rwxrwxrwx 1 alex alex  23K avg  4  2014 Cargo2.bmp
+-rwxrwxrwx 1 alex alex  23K avg  4  2014 Cargo2.bmp
+-rwxrwxrwx 2 alex alex 22M sep 11 00:15 lesson_07.mp4
+-rwxrwxrwx 2 alex alex  22M sep 11 00:07 033 Creating The Manifest File.mp4
+-rwxrwxrwx 2 alex alex  22M sep 11 00:04 019 FAQ Slider CSS.mp4
+-rwxrwxrwx 2 alex alex  22M sep 10 23:54 2 - Getting To Know JavaScript.mp4
+-rwxrwxrwx 2 alex alex 22M sep 10 23:03 11_01-Testing with mocha and Chai.mp4
+-rwxrwxrwx 2 alex alex  22M sep 10 22:55 144203_03_10_XR15_sanitize.mp4
+-rwxrwxrwx 2 alex alex  22M sep 10 22:55 144203_03_08_XR15_collect.mp4
+-rwxrwxrwx 2 alex alex  22M sep 10 22:55 144203_03_06_XR15_submit.mp4
+-rwxrwxrwx 2 alex alex  22M sep 10 22:55 144203_03_02_XR15_text.mp4
+-rwxrwxrwx 2 alex alex  22M okt 28  2015 017 17. Adding in the second span tag.mp4
+-rwxrwxrwx 2 alex alex  22M okt 28  2015 011 11. Adding the colorful Letters to lorem Ipsum.mp4
+-rwxrwxrwx 2 alex alex  22M okt 28  2015 007 07. Adding in the images.mp4
+-rwxrwxrwx 2 alex alex  22M okt 28  2015 007 07. Adding in bright colors.mp4
+-rwxrwxrwx 2 alex alex 22M mar  3  2016 012 Strings Formatting.mp4
+-rwxrwxrwx 2 alex alex  22M mar 22 14:14 03_06-progressbar.mp4
+-rwxrwxrwx 2 alex alex  22M feb  3  2016 5 - Controls.mp4
+-rwxrwxrwx 2 alex alex  22M feb  3  2016 2 - Camera and Rendering Options.mp4
+-rwxrwxrwx 1 alex alex  22M apr 12 21:31 009 Built-in Functions Assessment Test.mp4
+-rwxrwxrwx 1 alex alex 22M apr 12 21:15 004 Decorators Homework.mp4
+-rwxrwxrwx 1 alex alex  22K avg  4  2014 Worm.bmp
+-rwxrwxrwx 1 alex alex  22K avg  4  2014 Worm.bmp
+-rwxrwxrwx 1 alex alex  22K avg  4  2014 SpacStor.bmp
+-rwxrwxrwx 1 alex alex  22K avg  4  2014 SpacStor.bmp
+-rwxrwxrwx 2 alex alex 21M sep 11 00:15 lesson_14.mp4
+-rwxrwxrwx 2 alex alex 21M sep 11 00:15 lesson_04.mp4
+-rwxrwxrwx 2 alex alex 21M sep 11 00:14 lesson_03.mp4
+-rwxrwxrwx 2 alex alex 21M sep 11 00:05 1 - Mouse Events.mp4
+-rwxrwxrwx 2 alex alex 21M sep 11 00:05 1 - More on Variables.mp4
+-rwxrwxrwx 2 alex alex 21M sep 10 23:02 07_05-Collecting POST data.mp4
+-rwxrwxrwx 2 alex alex  21M sep 10 23:00 06_03-Writing and appending files.mp4
+-rwxrwxrwx 2 alex alex  21M sep 10 22:55 144203_04_02_XR15_loaded.mp4
+-rwxrwxrwx 2 alex alex  21M okt 28  2015 017 17. Adding in the page jumps.mp4
+-rwxrwxrwx 2 alex alex  21M okt 28  2015 016 16. Adding in the other circles.mp4
+-rwxrwxrwx 2 alex alex  21M okt 28  2015 011 11. Changing the rest of the text.mp4
+-rwxrwxrwx 2 alex alex  21M okt 28  2015 011 11. Adding in the text color to the paragraph div.mp4
+-rwxrwxrwx 2 alex alex  21M okt 28  2015 003 03. Selecting a coffee bean image.mp4
+-rwxrwxrwx 2 alex alex  21M okt 28  2015 003 03. Adding in the background image.mp4
+-rwxrwxrwx 2 alex alex 21M mar  3  2016 004 Nested Dictionary.mp4
+-rwxrwxrwx 2 alex alex  21M mar 22 14:14 05_07-canvas_advanced.mp4
+-rwxrwxrwx 2 alex alex  21M avg  3 06:45 Sanet.me_FileListinginShellRESIZED.mp4
+-rwxrwxrwx 1 alex alex  21M jan 12  2016 011 HTML5 Draw Text setup dynamic variables.mp4
+-rwxrwxrwx 1 alex alex 21K feb  7  2015 values.xml
+-rwxrwxrwx 1 alex alex 21K feb  7  2015 values.xml
+-rwxrwxrwx 2 alex alex  20M sep 11 00:06 2 - Audio.mp4
+-rwxrwxrwx 2 alex alex 20M sep 11 00:00 2 - Loop Control.mp4
+-rwxrwxrwx 2 alex alex 20M sep 10 23:44 1 - More on Functions.mp4
+-rwxrwxrwx 2 alex alex  20M sep 10 23:02 06_02-Reading files.mp4
+-rwxrwxrwx 2 alex alex 20M sep 10 22:59 09_03-Express routing and CORS.mp4
+-rwxrwxrwx 2 alex alex 20M sep 10 22:56 09_02-Intro to Express.mp4
+-rwxrwxrwx 2 alex alex  20M sep 10 22:50 144203_03_07_XR151_required.mp4
+-rwxrwxrwx 2 alex alex  20M okt 28  2015 015 15. Adding in the blue text.mp4
+-rwxrwxrwx 2 alex alex  20M okt 28  2015 011 12. Adding color to the headers HTML.mp4
+-rwxrwxrwx 2 alex alex  20M mar 22 16:38 07. Surfaces.mp4
+-rwxrwxrwx 2 alex alex 20M mar 22 14:15 06_02-grid.mp4
+-rwxrwxrwx 2 alex alex  20M mar 22 14:14 05_01-text.mp4
+-rwxrwxrwx 2 alex alex  20M feb  3  2016 3 - Exporting Geometry and Scenes.mp4
+-rwxrwxrwx 2 alex alex 20K sep 10 22:16 7 - Quiz.docx
+-rwxrwxrwx 2 alex alex  20K feb  7  2015 abc_btn_switch_to_on_mtrl_00012.9.png
+-rwxrwxrwx 1 alex alex  20M apr 12 21:35 006 Functions and Methods - Homework Assignment.mp4
+-rwxrwxrwx 1 alex alex  20M apr 12 21:34 009 Git and Github Overview Optional.mp4
+-rwxrwxrwx 1 alex alex  20K avg  4  2014 SndMenu.bmp
+-rwxrwxrwx 1 alex alex  20K avg  4  2014 SndMenu.bmp
+-rwxrwxrwx 1 alex alex  20K avg  4  2014 GameMenu.bmp
+-rwxrwxrwx 1 alex alex  20K avg  4  2014 GameMenu.bmp
+-rwxrwxrwx 1 alex alex  20K avg  4  2014 Explode5.bmp
+-rwxrwxrwx 1 alex alex  20K avg  4  2014 Explode5.bmp
+-rwxrwxrwx 1 alex alex  20K avg  4  2014 Explode3.bmp
+-rwxrwxrwx 1 alex alex  20K avg  4  2014 Explode3.bmp
+-rwxrwxrwx 2 alex alex  19M sep 11 00:06 023 Connect PHP to MySQL.mp4
+-rwxrwxrwx 2 alex alex  19M sep 11 00:02 1 - About HTML.mp4
+-rwxrwxrwx 2 alex alex 19M sep 10 22:57 08_02-Installing npms globally on a Mac.mp4
+-rwxrwxrwx 2 alex alex  19M okt 28  2015 015 15. Setting up one word to be green.mp4
+-rwxrwxrwx 2 alex alex  19M okt 28  2015 014 14. Adding in the font awesome icons that make sense.mp4
+-rwxrwxrwx 2 alex alex  19M okt 28  2015 012 12. Playing around with color.mp4
+-rwxrwxrwx 2 alex alex  19M okt 28  2015 012 12. Adding in more text.mp4
+-rwxrwxrwx 2 alex alex  19M okt 28  2015 008 08. Adding in span tags.mp4
+-rwxrwxrwx 2 alex alex 19M mar  3  2016 005 Iterating Multiple Lists - Using the Zip Function.mp4
+-rwxrwxrwx 2 alex alex  19M mar 22 17:27 02. Styling the Project.mp4
+-rwxrwxrwx 2 alex alex  19M mar 22 14:14 08_04-layout.mp4
+-rwxrwxrwx 2 alex alex 19M mar 22 14:13 06_03-place.mp4
+-rwxrwxrwx 2 alex alex 19K sep 10 22:16 4 - Quiz.docx
+-rwxrwxrwx 2 alex alex  19K feb  7  2015 abc_btn_switch_to_on_mtrl_00012.9.png
+-rwxrwxrwx 2 alex alex  19K feb  7  2015 abc_btn_switch_to_on_mtrl_00001.9.png
+-rwxrwxrwx 2 alex alex  19K feb  7  2015 abc_btn_switch_to_on_mtrl_00001.9.png
+-rwxrwxrwx 1 alex alex  19M apr 12 21:39 002 Course Curriculum Overview.mp4
+-rwxrwxrwx 2 alex alex 18M sep 11 00:04 6 - Cloning Nodes.mp4
+-rwxrwxrwx 2 alex alex 18M sep 10 23:01 04_01-The global object.mp4
+-rwxrwxrwx 2 alex alex 18M sep 10 22:59 05_03-Handling events with EventEmitter.mp4
+-rwxrwxrwx 2 alex alex  18M sep 10 22:53 144203_03_04_XR15_radio.mp4
+-rwxrwxrwx 2 alex alex 18M sep 10 22:50 05_06-Creating child process with spawn.mp4
+-rwxrwxrwx 2 alex alex  18M okt 28  2015 013 13. Addingt in the orange text.mp4
+-rwxrwxrwx 2 alex alex  18M okt 28  2015 013 13. Adding in the colors to the sections.mp4
+-rwxrwxrwx 2 alex alex  18M okt 28  2015 012 13. Adding in the colors to the headers CSS.mp4
+-rwxrwxrwx 2 alex alex  18M okt 28  2015 012 12. Taking about solving problems and how to do it effectively.mp4
+-rwxrwxrwx 2 alex alex  18M okt 28  2015 012 12. Adding in the h2 code.mp4
+-rwxrwxrwx 2 alex alex  18M okt 28  2015 011 11. Making the 3 columns work.mp4
+-rwxrwxrwx 2 alex alex  18M okt 28  2015 011 11. Challange - Add in a footer.mp4
+-rwxrwxrwx 2 alex alex  18M okt 28  2015 010 10. Selecting the background color.mp4
+-rwxrwxrwx 2 alex alex  18M okt 28  2015 009 09. Adding in the margin to the header.mp4
+-rwxrwxrwx 2 alex alex  18M okt 28  2015 008 08. Adding a div tag to make the backgrounds work.mp4
+-rwxrwxrwx 2 alex alex  18M okt 28  2015 007 07. Adding in the three columns.mp4
+-rwxrwxrwx 2 alex alex  18M okt 28  2015 005 05. Adding in the body and header CSS.mp4
+-rwxrwxrwx 2 alex alex  18M okt 28  2015 004 04. Setting the resize features for the image.mp4
+-rwxrwxrwx 2 alex alex  18M mar 22 17:27 07. Using JSON to Represent Data.mp4
+-rwxrwxrwx 2 alex alex  18M mar 22 14:15 05_09-style.mp4
+-rwxrwxrwx 2 alex alex  18M mar 22 14:15 03_01-label.mp4
+-rwxrwxrwx 2 alex alex 18M mar 22 14:13 07_02-keyboard.mp4
+-rwxrwxrwx 2 alex alex  18M feb  3  2016 4 - Lighting  -  Ambient, Point, Directional, and Spot.mp4
+-rwxrwxrwx 2 alex alex 18M feb  3  2016 1 - Course Outline.mp4
+-rwxrwxrwx 2 alex alex  18M apr  7  2015 Android Studio Tutorial- Android Studio - Build an Android App in Less Than 1 Hour! - Skillfeed_2.MP4
+-rwxrwxrwx 2 alex alex  18K feb  7  2015 abc_btn_switch_to_on_mtrl_00012.9.png
+-rwxrwxrwx 2 alex alex  18K feb  7  2015 abc_btn_switch_to_on_mtrl_00001.9.png
+-rwxrwxrwx 1 alex alex  18M jan 12  2016 017 HTML5 Game random enemy creation.mp4
+-rwxrwxrwx 1 alex alex  18M jan 12  2016 012 HTML5 Game setting event listeners.mp4
+-rwxrwxrwx 1 alex alex  18M apr 12 21:28 002 Modules and Packages Assignment.mp4
+-rwxrwxrwx 1 alex alex  18M apr 12 19:51 004 Advanced Dictionaries.mp4
+-rwxrwxrwx 2 alex alex 17M sep 11 00:14 lesson_06.mp4
+-rwxrwxrwx 2 alex alex 17M sep 11 00:07 6 - Div and Span.mp4
+-rwxrwxrwx 2 alex alex 17M sep 10 23:02 07_02-Building a web server.mp4
+-rwxrwxrwx 2 alex alex 17M sep 10 23:01 11_05-Advanced testing Sinon spies.mp4
+-rwxrwxrwx 2 alex alex 17M sep 10 22:59 12_06-Debugging with npm.mp4
+-rwxrwxrwx 2 alex alex  17M okt 28  2015 015 16. Adding in the triangles part 2.mp4
+-rwxrwxrwx 2 alex alex  17M okt 28  2015 014 14. Fixing the columns.mp4
+-rwxrwxrwx 2 alex alex  17M okt 28  2015 014 14. Adding in the background paragraph color.mp4
+-rwxrwxrwx 2 alex alex  17M okt 28  2015 013 14. Adding the links to the list.mp4
+-rwxrwxrwx 2 alex alex  17M okt 28  2015 012 12. Setting up the other sections.mp4
+-rwxrwxrwx 2 alex alex  17M okt 28  2015 012 12. Adding in the logo and talking about busines.mp4
+-rwxrwxrwx 2 alex alex  17M okt 28  2015 007 07. Adding in the section CSS.mp4
+-rwxrwxrwx 2 alex alex  17M okt 28  2015 006 06. Adding in the container CSS.mp4
+-rwxrwxrwx 2 alex alex  17M okt 28  2015 004 04. Adding in the header code.mp4
+-rwxrwxrwx 2 alex alex  17M mar 22 17:27 06. User Input.mp4
+-rwxrwxrwx 2 alex alex  17M mar 22 14:14 05_04-treeview_advanced.mp4
+-rwxrwxrwx 2 alex alex  17K feb  7  2015 abc_btn_switch_to_on_mtrl_00012.9.png
+-rwxrwxrwx 2 alex alex  17K feb  7  2015 abc_btn_switch_to_on_mtrl_00012.9.png
+-rwxrwxrwx 2 alex alex  17K feb  7  2015 abc_btn_switch_to_on_mtrl_00001.9.png
+-rwxrwxrwx 2 alex alex  17K feb  7  2015 abc_btn_switch_to_on_mtrl_00001.9.png
+-rwxrwxrwx 1 alex alex  17M avg  4  2014 music.wav
+-rwxrwxrwx 1 alex alex  17M apr 12 20:59 009 StringIO.mp4
+-rwxrwxrwx 2 alex alex  16M sep 11 00:07 048 Tic Tac Toe CSS.mp4
+-rwxrwxrwx 2 alex alex  16M sep 11 00:05 047 Tic Tac Toe HTML.mp4
+-rwxrwxrwx 2 alex alex  16M sep 11 00:00 1 - About JavaScript.mp4
+-rwxrwxrwx 2 alex alex 16M sep 10 23:03 11_04-Injecting dependencies with rewire.mp4
+-rwxrwxrwx 2 alex alex 16M sep 10 23:02 11_03-Mocking a server with Nock.mp4
+-rwxrwxrwx 2 alex alex  16M sep 10 23:01 06_05-Renaming and removing files.mp4
+-rwxrwxrwx 2 alex alex  16M sep 10 23:00 06_08-Writable file streams.mp4
+-rwxrwxrwx 2 alex alex  16M sep 10 22:55 144203_05_06_XR15_popup.mp4
+-rwxrwxrwx 2 alex alex 16M sep 10 22:55 11_07-Code coverage with Istanbul.mp4
+-rwxrwxrwx 2 alex alex  16M sep 10 22:53 144203_04_07_XR15_solution.mp4
+-rwxrwxrwx 2 alex alex  16M okt 28  2015 014 14. Changing the H2 to look better.mp4
+-rwxrwxrwx 2 alex alex  16M okt 28  2015 014 14. Adding in the section code to format the page.mp4
+-rwxrwxrwx 2 alex alex  16M okt 28  2015 014 14. Adding in the CSS to the horizontal rule.mp4
+-rwxrwxrwx 2 alex alex  16M okt 28  2015 013 13. Final touches on text.mp4
+-rwxrwxrwx 2 alex alex  16M okt 28  2015 013 13. Adding in the paragraph and final touches.mp4
+-rwxrwxrwx 2 alex alex  16M okt 28  2015 013 13. Adding in some final touches.mp4
+-rwxrwxrwx 2 alex alex  16M okt 28  2015 011 11. Adding the white text to the blue items.mp4
+-rwxrwxrwx 2 alex alex  16M okt 28  2015 008 08. Formatting the text.mp4
+-rwxrwxrwx 2 alex alex  16M okt 28  2015 007 08. Adding in the full width colors.mp4
+-rwxrwxrwx 2 alex alex  16M okt 28  2015 006 07. Adding in the banner code.mp4
+-rwxrwxrwx 2 alex alex  16M okt 28  2015 006 06. Setting up the logo size.mp4
+-rwxrwxrwx 2 alex alex  16M okt 28  2015 005 05. Adding in the header code.mp4
+-rwxrwxrwx 2 alex alex  16M okt 28  2015 002 02. Adding in the sections.mp4
+-rwxrwxrwx 2 alex alex  16M mar 22 17:27 01. Project HTML Template.mp4
+-rwxrwxrwx 2 alex alex  16M mar 22 14:15 02_02-widgets.mp4
+-rwxrwxrwx 2 alex alex 16M mar 22 14:14 07_03-mouse.mp4
+-rwxrwxrwx 2 alex alex  16K sep 10 22:16 4 - Submit.docx
+-rwxrwxrwx 2 alex alex  16K feb  7  2015 R$styleable.class
+-rwxrwxrwx 2 alex alex  16K feb  7  2015 R$styleable.class
+-rwxrwxrwx 1 alex alex  16M jan 12  2016 013 HTML5 Game active keyboard.mp4
+-rwxrwxrwx 1 alex alex  16M apr 12 21:28 006 Enumerate.mp4
+-rwxrwxrwx 1 alex alex  16M apr 12 21:08 010 Built-in Functions Assessment Test Solutions.mp4
+-rwxrwxrwx 1 alex alex  16K avg  4  2014 Teleport.bmp
+-rwxrwxrwx 1 alex alex  16K avg  4  2014 Teleport.bmp
+-rwxrwxrwx 1 alex alex  16K avg  4  2014 ship2.bmp
+-rwxrwxrwx 1 alex alex  16K avg  4  2014 ship2.bmp
+-rwxrwxrwx 1 alex alex  16K avg  4  2014 Pship2.bmp
+-rwxrwxrwx 1 alex alex  16K avg  4  2014 Pship2.bmp
+-rwxrwxrwx 1 alex alex  16K avg  4  2014 Killer2.bmp
+-rwxrwxrwx 1 alex alex  16K avg  4  2014 Killer2.bmp
+-rwxrwxrwx 1 alex alex  16K avg  4  2014 Guard.bmp
+-rwxrwxrwx 1 alex alex  16K avg  4  2014 Guard.bmp
+-rwxrwxrwx 1 alex alex  16K avg  4  2014 Flamer.bmp
+-rwxrwxrwx 1 alex alex  16K avg  4  2014 Flamer.bmp
+-rwxrwxrwx 1 alex alex  16K avg  4  2014 Drone1.bmp
+-rwxrwxrwx 1 alex alex  16K avg  4  2014 Drone1.bmp
+-rwxrwxrwx 2 alex alex 15M sep 11 00:06 1 - Generating Random Numbers.mp4
+-rwxrwxrwx 2 alex alex 15M sep 10 22:58 12_05-Automation with npm.mp4
+-rwxrwxrwx 2 alex alex  15M sep 10 22:55 10_01-Creating a WebSocket server.mp4
+-rwxrwxrwx 2 alex alex  15M okt 28  2015 013 13. Changing the text to yellow.mp4
+-rwxrwxrwx 2 alex alex  15M okt 28  2015 010 10. Adding a background to the image text.mp4
+-rwxrwxrwx 2 alex alex  15M okt 28  2015 009 10. Formatting the section text.mp4
+-rwxrwxrwx 2 alex alex  15M okt 28  2015 009 09. Changing the second color.mp4
+-rwxrwxrwx 2 alex alex  15M okt 28  2015 009 09. Adding full width to the paragraph sections.mp4
+-rwxrwxrwx 2 alex alex  15M okt 28  2015 007 07. Changing the header of the columns.mp4
+-rwxrwxrwx 2 alex alex  15M okt 28  2015 007 07. Adding in the logo CSS.mp4
+-rwxrwxrwx 2 alex alex  15M okt 28  2015 007 07. Adding in a full width background color.mp4
+-rwxrwxrwx 2 alex alex  15M okt 28  2015 006 06. Adding in a symbol to the horizontal rulke.mp4
+-rwxrwxrwx 2 alex alex  15M okt 28  2015 005 05. Adding in the text formats for the headers.mp4
+-rwxrwxrwx 2 alex alex  15M okt 28  2015 004 04. Adding in the video CSS.mp4
+-rwxrwxrwx 2 alex alex  15M mar 22 17:27 09. Implementing Filtering.mp4
+-rwxrwxrwx 2 alex alex  15M mar 22 17:27 08. HTML Templates per User.mp4
+-rwxrwxrwx 2 alex alex  15M mar 22 14:14 08_06-style.mp4
+-rwxrwxrwx 2 alex alex  15M mar 22 14:14 04_02-toplevel.mp4
+-rwxrwxrwx 2 alex alex  15M feb  3  2016 5 - Introduction and Page Events.mp4
+-rwxrwxrwx 2 alex alex  15M apr  7  2015 Android Studio Tutorial- Android Studio - Build an Android App in Less Than 1 Hour! - Skillfeed_3.MP4
+-rwxrwxrwx 2 alex alex  15K sep 10 22:16 4 - Submit.docx
+-rwxrwxrwx 2 alex alex  15K feb  7  2015 R$style.class
+-rwxrwxrwx 2 alex alex  15K feb  7  2015 R$style.class
+-rwxrwxrwx 2 alex alex  15K avg  4  2014 gameobjects.py
+-rwxrwxrwx 2 alex alex   15 feb  7  2015 settings.gradle
+-rwxrwxrwx 1 alex alex  15M jan 12  2016 015 HTML5 Game movement.mp4
+-rwxrwxrwx 1 alex alex  15M apr 12 20:26 003 Collections Module - OrderedDict.mp4
+-rwxrwxrwx 2 alex alex 14M sep 11 00:15 lesson_08.mp4
+-rwxrwxrwx 2 alex alex  14M sep 10 23:03 06_06-Renaming and removing directories.mp4
+-rwxrwxrwx 2 alex alex  14M sep 10 23:03 06_01-Listing directory files.mp4
+-rwxrwxrwx 2 alex alex 14M sep 10 23:02 08_03-Installing npms globally on a PC.mp4
+-rwxrwxrwx 2 alex alex 14M sep 10 23:00 04_02-Argument variables with process.argv.mp4
+-rwxrwxrwx 2 alex alex 14M sep 10 22:53 05_05-Creating child process with exec.mp4
+-rwxrwxrwx 2 alex alex  14M okt 28  2015 017 17. Fixing a div tag and making the text justified.mp4
+-rwxrwxrwx 2 alex alex  14M okt 28  2015 016 16. Adding a span to the title.mp4
+-rwxrwxrwx 2 alex alex  14M okt 28  2015 015 15. Adding in the colors to the list items.mp4
+-rwxrwxrwx 2 alex alex  14M okt 28  2015 014 15. Adding in the triangles part 1.mp4
+-rwxrwxrwx 2 alex alex  14M okt 28  2015 014 14. Challenge - find a different color scheme that works with this background.mp4
+-rwxrwxrwx 2 alex alex  14M okt 28  2015 013 13. Changing the text and talking about the letters.mp4
+-rwxrwxrwx 2 alex alex  14M okt 28  2015 012 12. Adding in the section HTML.mp4
+-rwxrwxrwx 2 alex alex  14M okt 28  2015 011 11. Changing the header 2.mp4
+-rwxrwxrwx 2 alex alex  14M okt 28  2015 010 10. Adding in the logo CSS.mp4
+-rwxrwxrwx 2 alex alex  14M okt 28  2015 009 09. Fixing the background video so that it doesnt stretch.mp4
+-rwxrwxrwx 2 alex alex  14M okt 28  2015 008 08. Adding the dimensions to the paragraphs.mp4
+-rwxrwxrwx 2 alex alex  14M okt 28  2015 008 08. Adding in the color of the text.mp4
+-rwxrwxrwx 2 alex alex  14M okt 28  2015 006 06. Adding in the section content logic.mp4
+-rwxrwxrwx 2 alex alex  14M okt 28  2015 005 05. Adding in the div section formatting.mp4
+-rwxrwxrwx 2 alex alex  14M mar 22 14:15 08_05-events.mp4
+-rwxrwxrwx 2 alex alex 14M mar 22 14:15 07_04-virtual.mp4
+-rwxrwxrwx 2 alex alex  14M mar 22 14:15 05_08-scrollbar.mp4
+-rwxrwxrwx 2 alex alex  14M mar 22 14:15 01_02-mac_install.mp4
+-rwxrwxrwx 2 alex alex  14M mar 22 14:14 05_03-treeview.mp4
+-rwxrwxrwx 2 alex alex  14M mar 22 14:14 03_03-selection_buttons.mp4
+-rwxrwxrwx 2 alex alex  14M mar 22 14:13 04_04-notebook.mp4
+-rwxrwxrwx 2 alex alex  14M mar 22 14:12 08_03-widgets.mp4
+-rwxrwxrwx 2 alex alex  14M apr  7  2015 Android Studio Tutorial- Android Studio - Build an Android App in Less Than 1 Hour! - Skillfeed_4.MP4
+-rwxrwxrwx 2 alex alex  14K sep 10 22:16 2 - FAQ for html css assessment task.docx
+-rwxrwxrwx 2 alex alex 14K sep 10 22:16 1 - Further Resources.docx
+-rwxrwxrwx 2 alex alex 14K sep 10 22:16 1 - Further Resources.docx
+-rwxrwxrwx 1 alex alex  14M jan 12  2016 028 HTML5 Game tweaking the game.mp4
+-rwxrwxrwx 1 alex alex  14M apr 12 21:46 002 Chained Comparison Operators.mp4
+-rwxrwxrwx 1 alex alex  14M apr 12 21:25 004 Filter.mp4
+-rwxrwxrwx 1 alex alex 14M apr 12 21:16 008 OOP Homework Solution.mp4
+-rwxrwxrwx 1 alex alex  14M apr 12 21:05 002 Collections Module - defaultdict.mp4
+-rwxrwxrwx 2 alex alex 13M sep 11 00:15 lesson_05.mp4
+-rwxrwxrwx 2 alex alex 13M sep 11 00:14 lesson_02.mp4
+-rwxrwxrwx 2 alex alex 13M sep 10 23:03 08_04-File servers with httpster.mp4
+-rwxrwxrwx 2 alex alex 13M sep 10 22:59 12_01-Hinting your code with Grunt.mp4
+-rwxrwxrwx 2 alex alex  13M sep 10 22:55 144203_03_13_XR15_solution.mp4
+-rwxrwxrwx 2 alex alex  13M sep 10 22:55 144203_03_01_XR15_start.mp4
+-rwxrwxrwx 2 alex alex  13M okt 28  2015 020 20. Challenge - Add in some font awesome icons.mp4
+-rwxrwxrwx 2 alex alex  13M okt 28  2015 015 15. Fixing the title.mp4
+-rwxrwxrwx 2 alex alex  13M okt 28  2015 015 15. Changing the paragraph text.mp4
+-rwxrwxrwx 2 alex alex  13M okt 28  2015 014 14. Challenge - Add links to the website.mp4
+-rwxrwxrwx 2 alex alex  13M okt 28  2015 013 13. Setting up the header 2.mp4
+-rwxrwxrwx 2 alex alex  13M okt 28  2015 012 12. Fixing the image.mp4
+-rwxrwxrwx 2 alex alex  13M okt 28  2015 012 12. Adding in the yellow and white text HTML.mp4
+-rwxrwxrwx 2 alex alex  13M okt 28  2015 006 06. Adding in the section colors.mp4
+-rwxrwxrwx 2 alex alex  13M okt 28  2015 006 06. Adding in the columns.mp4
+-rwxrwxrwx 2 alex alex  13M okt 28  2015 005 05. Adding in the columns.mp4
+-rwxrwxrwx 2 alex alex  13M okt 28  2015 004 04. Adding in the header css.mp4
+-rwxrwxrwx 2 alex alex  13M okt 28  2015 003 03. Adding in the other sections.mp4
+-rwxrwxrwx 2 alex alex  13M okt 28  2015 003 03. Adding in the buttons and the list itmes.mp4
+-rwxrwxrwx 2 alex alex  13M okt 28  2015 003 03. Adding in a background image.mp4
+-rwxrwxrwx 2 alex alex  13M okt 28  2015 002 02. Adding in the div tags.mp4
+-rwxrwxrwx 2 alex alex  13M mar 22 17:27 05. Modifying the DOM.mp4
+-rwxrwxrwx 2 alex alex  13M mar 22 17:27 04. Selecting.mp4
+-rwxrwxrwx 2 alex alex  13M mar 22 14:14 08_01-requirements.mp4
+-rwxrwxrwx 2 alex alex 13M feb  3  2016 6 - Introduction.mp4
+-rwxrwxrwx 2 alex alex  13M apr  7  2015 Android Studio Tutorial- Android Studio - Build an Android App in Less Than 1 Hour! - Skillfeed.MP4
+-rwxrwxrwx 2 alex alex  13K sep 10 22:16 3 - Module Outcomes.docx
+-rwxrwxrwx 2 alex alex  13K sep 10 22:16 1 - Module Outcomes.docx
+-rwxrwxrwx 2 alex alex  13K sep 10 22:16 1 - Module outcomes.docx
+-rwxrwxrwx 2 alex alex  13K avg  4  2014 gameobjects.py
+-rwxrwxrwx 2 alex alex 13K apr  8 08:54 gameobjects.cpython-34.pyc
+-rwxrwxrwx 1 alex alex  13M jan 12  2016 001 HTML5 Game Course Introduction.mp4
+-rwxrwxrwx 1 alex alex  13M apr 12 20:41 009 Statements Assessment Solutions.mp4
+-rwxrwxrwx 1 alex alex  13K avg  4  2014 WormTst.bmp
+-rwxrwxrwx 1 alex alex  13K avg  4  2014 WormTst.bmp
+-rwxrwxrwx 1 alex alex  13K avg  4  2014 Font2.bmp
+-rwxrwxrwx 1 alex alex  13K avg  4  2014 Font2.bmp
+-rwxrwxrwx 1 alex alex  13K avg  4  2014 Crystal2.bmp
+-rwxrwxrwx 1 alex alex  13K avg  4  2014 Crystal2.bmp
+-rwxrwxrwx 2 alex alex 12M sep 11 00:15 lesson_09.mp4
+-rwxrwxrwx 2 alex alex 12M sep 11 00:15 lesson_01.mp4
+-rwxrwxrwx 2 alex alex  12M sep 11 00:05 3 - Video.mp4
+-rwxrwxrwx 2 alex alex  12M sep 11 00:05 3 - Handling File Upload.mp4
+-rwxrwxrwx 2 alex alex 12M sep 10 23:03 08_01-Installing npms locally.mp4
+-rwxrwxrwx 2 alex alex 12M sep 10 23:03 05_04-Exporting custom modules.mp4
+-rwxrwxrwx 2 alex alex 12M sep 10 23:03 05_01-Core modules.mp4
+-rwxrwxrwx 2 alex alex  12M sep 10 22:55 144203_05_03_XR15_center.mp4
+-rwxrwxrwx 2 alex alex  12M sep 10 22:55 144203_04_05_XR15_switch.mp4
+-rwxrwxrwx 2 alex alex  12M sep 10 22:55 144203_02_03_XR15_console.mp4
+-rwxrwxrwx 2 alex alex  12M sep 10 22:53 144203_05_08_XR15_solution.mp4
+-rwxrwxrwx 2 alex alex  12M okt 28  2015 018 18. Challenge - Make a different theme to work with the black and white images.mp4
+-rwxrwxrwx 2 alex alex  12M okt 28  2015 017 17. Challenge - Add another 9 photo section.mp4
+-rwxrwxrwx 2 alex alex  12M okt 28  2015 016 16. Adding in the HR code.mp4
+-rwxrwxrwx 2 alex alex  12M okt 28  2015 015 15. Setting up the header 2.mp4
+-rwxrwxrwx 2 alex alex  12M okt 28  2015 013 13. Adding in a splash of color and span tags.mp4
+-rwxrwxrwx 2 alex alex  12M okt 28  2015 012 12. Changing the margins of the entire page and talking about color.mp4
+-rwxrwxrwx 2 alex alex  12M okt 28  2015 012 12. Changing the background color with javascript.mp4
+-rwxrwxrwx 2 alex alex  12M okt 28  2015 012 12. Challenge - Add in columns and FontAwesome icons.mp4
+-rwxrwxrwx 2 alex alex  12M okt 28  2015 010 10. Setting up the function before we copy and paste.mp4
+-rwxrwxrwx 2 alex alex  12M okt 28  2015 010 10. Adding in the columns.mp4
+-rwxrwxrwx 2 alex alex  12M okt 28  2015 009 09. Making the picture bigger.mp4
+-rwxrwxrwx 2 alex alex  12M okt 28  2015 009 09. Adding in the spans to change the color.mp4
+-rwxrwxrwx 2 alex alex  12M okt 28  2015 008 08. Adding in the colors to the menu bar.mp4
+-rwxrwxrwx 2 alex alex  12M okt 28  2015 007 07. Adding in the code for the fontawesome.mp4
+-rwxrwxrwx 2 alex alex  12M okt 28  2015 005 05. Adding in the horizontal rule.mp4
+-rwxrwxrwx 2 alex alex  12M okt 28  2015 004 04. Adding in the header code.mp4
+-rwxrwxrwx 2 alex alex 12M okt 28  2015 001 Promo Video.mp4
+-rwxrwxrwx 2 alex alex 12M mar 22 14:14 07_01-callback.mp4
+-rwxrwxrwx 2 alex alex  12M mar 22 14:14 05_10-dialog.mp4
+-rwxrwxrwx 2 alex alex  12M mar 22 14:14 03_02-button.mp4
+-rwxrwxrwx 2 alex alex  12M mar 22 14:11 04_03-panedwindow.mp4
+-rwxrwxrwx 2 alex alex  12M feb  3  2016 4 - Materials  -  MeshBasic, MeshLambert, and MeshPhong.mp4
+-rwxrwxrwx 2 alex alex  12M feb  3  2016 2 - Object3D.mp4
+-rwxrwxrwx 2 alex alex  12M avg  3 06:32 Sanet.me_ChangingFilePermissionsRESIZED.mp4
+-rwxrwxrwx 2 alex alex  12K sep 10 22:16 2 - FAQ for Introduction to JavaScript Assessment.docx
+-rwxrwxrwx 2 alex alex  12K sep 10 22:16 2 - FAQ for Advanced JavaScript - Assessment Task.docx
+-rwxrwxrwx 2 alex alex 12K sep 10 22:16 1 - Further Resources.docx
+-rwxrwxrwx 1 alex alex  12M apr 12 21:50 004 How to Approach This Course.mp4
+-rwxrwxrwx 1 alex alex  12M apr 12 21:37 001 Errors and Exceptions.mp4
+-rwxrwxrwx 1 alex alex  12M apr 12 21:34 007 FAQ - Notebooks.mp4
+-rwxrwxrwx 1 alex alex  12M apr 12 21:17 004 Iterators and Generators Homework  - Solutions.mp4
+-rwxrwxrwx 1 alex alex  12K avg  4  2014 Gun.bmp
+-rwxrwxrwx 1 alex alex  12K avg  4  2014 Gun.bmp
+-rwxrwxrwx 2 alex alex  11M sep 10 23:01 02_02-How Node.js works.mp4
+-rwxrwxrwx 2 alex alex  11M sep 10 22:55 144203_02_01_XR15_editors.mp4
+-rwxrwxrwx 2 alex alex  11M sep 10 22:55 144203_01_02_XR15_live.mp4
+-rwxrwxrwx 2 alex alex  11M sep 10 22:48 144203_05_05_XR15_marker.mp4
+-rwxrwxrwx 2 alex alex  11M okt 28  2015 018 18. Formatting the top bar color.mp4
+-rwxrwxrwx 2 alex alex  11M okt 28  2015 015 15. Challenge - Add in the background to the text area.mp4
+-rwxrwxrwx 2 alex alex  11M okt 28  2015 015 15. Adding in the circle part 1.mp4
+-rwxrwxrwx 2 alex alex  11M okt 28  2015 013 13. Challenge - Think like a business.mp4
+-rwxrwxrwx 2 alex alex  11M okt 28  2015 012 12. Adding in the font awesome SVG graphics.mp4
+-rwxrwxrwx 2 alex alex  11M okt 28  2015 011 11. Adding in the header CSS.mp4
+-rwxrwxrwx 2 alex alex  11M okt 28  2015 011 11. Adding in the colors of the circles.mp4
+-rwxrwxrwx 2 alex alex  11M okt 28  2015 010 10. Fixing the top circle.mp4
+-rwxrwxrwx 2 alex alex  11M okt 28  2015 010 10. Adding in the css to make the letters a different color.mp4
+-rwxrwxrwx 2 alex alex  11M okt 28  2015 008 09. Formatting the sections to the right width.mp4
+-rwxrwxrwx 2 alex alex  11M okt 28  2015 008 08. Adding in the H2 CSS.mp4
+-rwxrwxrwx 2 alex alex  11M okt 28  2015 007 07. Formatting the paragraph tag.mp4
+-rwxrwxrwx 2 alex alex  11M okt 28  2015 006 06. Testing boundaries and fixing the logo.mp4
+-rwxrwxrwx 2 alex alex  11M okt 28  2015 006 06. Setting up the banner and paragraph CSS.mp4
+-rwxrwxrwx 2 alex alex  11M okt 28  2015 006 06. Learning about font juxtaposition.mp4
+-rwxrwxrwx 2 alex alex  11M okt 28  2015 006 06. Adding in test colors.mp4
+-rwxrwxrwx 2 alex alex  11M okt 28  2015 004 04. Setting up a column.mp4
+-rwxrwxrwx 2 alex alex  11M okt 28  2015 004 04. Adding in the other sections.mp4
+-rwxrwxrwx 2 alex alex  11M okt 28  2015 004 04. Adding in the button and body CSS.mp4
+-rwxrwxrwx 2 alex alex  11M okt 28  2015 003 03. Adding the body CSS.mp4
+-rwxrwxrwx 2 alex alex  11M okt 28  2015 002 02. Adding in the sections.mp4
+-rwxrwxrwx 2 alex alex  11M okt 28  2015 002 02. Adding in the 6 columns.mp4
+-rwxrwxrwx 2 alex alex 11M mar 22 14:10 07_05-multiple.mp4
+-rwxrwxrwx 2 alex alex  11M mar 22 14:10 03_05-selection_boxse.mp4
+-rwxrwxrwx 2 alex alex 11M feb  3  2016 6 - Game Components.mp4
+-rwxrwxrwx 1 alex alex  11M apr 12 21:23 001 Introduction to Python Statements.mp4
+-rwxrwxrwx 1 alex alex 11M apr 12 21:14 007 OOP Homework Assignment.mp4
+-rwxrwxrwx 1 alex alex  11M apr 12 20:59 007 all and any.mp4
+-rwxrwxrwx 1 alex alex  11K avg  4  2014 Ship.bmp
+-rwxrwxrwx 1 alex alex  11K avg  4  2014 Ship.bmp
+-rwxrwxrwx 1 alex alex  11K avg  4  2014 Logo.bmp
+-rwxrwxrwx 1 alex alex  11K avg  4  2014 Logo.bmp
+-rwxrwxrwx 2 alex alex  10M okt 28  2015 011 11. Adding in a specific span tag.mp4
+-rwxrwxrwx 2 alex alex  10M okt 28  2015 009 09. Adding in the circle.mp4
+-rwxrwxrwx 2 alex alex  10M okt 28  2015 008 08. Formatting the top image.mp4
+-rwxrwxrwx 2 alex alex  10M okt 28  2015 006 06. Setting up the body CSS.mp4
+-rwxrwxrwx 2 alex alex  10M okt 28  2015 005 05. Adding in latin text and the other columns.mp4
+-rwxrwxrwx 2 alex alex 9,9M avg  3 06:23 Sanet.me_BasicDirectoriesCommandsRESIZED.mp4
+-rwxrwxrwx 1 alex alex 9,9K avg  4  2014 Canister.bmp
+-rwxrwxrwx 1 alex alex 9,9K avg  4  2014 Canister.bmp
+-rwxrwxrwx 2 alex alex 9,8M okt 28  2015 009 09. Adding in a span tag.mp4
+-rwxrwxrwx 2 alex alex 9,8M okt 28  2015 002 02. Adding in the sections.mp4
+-rwxrwxrwx 2 alex alex 9,7M sep 10 23:47 1 - Element Grouping.mp4
+-rwxrwxrwx 2 alex alex 9,7M okt 28  2015 007 07. Adding in the link values.mp4
+-rwxrwxrwx 2 alex alex 9,7M okt 28  2015 004 04. Adding in the nav code.mp4
+-rwxrwxrwx 2 alex alex 9,6M sep 10 22:52 10_02-Broadcasting messages with WebSockets.mp4
+-rwxrwxrwx 2 alex alex 9,6M sep 10 22:46 144203_03_03_XR15_selects.mp4
+-rwxrwxrwx 2 alex alex 9,5M okt 28  2015 011 11. Adding in the font awesome logic.mp4
+-rwxrwxrwx 2 alex alex 9,5M okt 28  2015 002 02. Adding in the section div tags.mp4
+-rwxrwxrwx 2 alex alex 9,4M sep 11 00:05 3 - Handling Bugs.mp4
+-rwxrwxrwx 2 alex alex 9,4M okt 28  2015 011 11. Justifying the text.mp4
+-rwxrwxrwx 2 alex alex 9,4M mar 22 14:14 04_01-frame.mp4
+-rwxrwxrwx 2 alex alex 9,4M mar 22 14:14 00_01-welcome.mp4
+-rwxrwxrwx 1 alex alex 9,4M jan 12  2016 004 HTML5 Game connect canvas to Javascript.mp4
+-rwxrwxrwx 2 alex alex 9,3M okt 28  2015 008 08. Formatting the titles of the 3 columns.mp4
+-rwxrwxrwx 2 alex alex 9,3M okt 28  2015 002 02. Adding in the text.mp4
+-rwxrwxrwx 1 alex alex 9,3M apr 12 21:43 008 Statements Assessment Test.mp4
+-rwxrwxrwx 2 alex alex 9,2M okt 28  2015 009 09. Adding in an item using FontAwesome.mp4
+-rwxrwxrwx 2 alex alex 9,2M okt 28  2015 003 03. Adding in the logo section.mp4
+-rwxrwxrwx 2 alex alex 9,2M mar 22 14:14 02_01-background.mp4
+-rwxrwxrwx 1 alex alex 9,2M apr 12 21:23 004 Errors and Exceptions Homework.mp4
+-rwxrwxrwx 2 alex alex 9,1M okt 28  2015 011 11. Separating the title into 3 header tags.mp4
+-rwxrwxrwx 2 alex alex 9,1M okt 28  2015 009 09. Adding in the logo text.mp4
+-rwxrwxrwx 2 alex alex 9,1M mar 22 14:14 05_06-canvas.mp4
+-rwxrwxrwx 1 alex alex 9,1M apr 12 21:09 001 Iteration vs Generation.mp4
+-rwxrwxrwx 2 alex alex 9,0M sep 11 00:07 1 - Images.mp4
+-rwxrwxrwx 2 alex alex 9,0M okt 28  2015 014 14. Adding in an outline.mp4
+-rwxrwxrwx 2 alex alex 9,0M okt 28  2015 007 07. Setting up font awesome.mp4
+-rwxrwxrwx 2 alex alex 8,9M sep 10 22:50 144203_00_01_WX301_welcome.mp4
+-rwxrwxrwx 2 alex alex 8,9M okt 28  2015 010 10. Formatting the video.mp4
+-rwxrwxrwx 2 alex alex 8,9M okt 28  2015 010 10. Adding in the icons to the columns.mp4
+-rwxrwxrwx 2 alex alex 8,9M okt 28  2015 005 05. Adding in the class settings.mp4
+-rwxrwxrwx 1 alex alex 8,9K apr 12 18:32 003 Comparison Operators Quiz Quiz.html
+-rwxrwxrwx 2 alex alex 8,8M okt 28  2015 007 07. Fixing the menu bar.mp4
+-rwxrwxrwx 2 alex alex 8,8M okt 28  2015 005 05. Adding in the class content.mp4
+-rwxrwxrwx 2 alex alex 8,8M mar 22 16:44 18. Intro- Exploring Event Logic.mp4
+-rwxrwxrwx 2 alex alex 8,8M avg  3 06:51 Sanet.me_FilePermissionsRESIZED.mp4
+-rwxrwxrwx 1 alex alex 8,8K apr 12 18:35 003 Numbers Quiz Quiz.html
+-rwxrwxrwx 2 alex alex 8,7M okt 28  2015 010 10. Setting up the title.mp4
+-rwxrwxrwx 2 alex alex 8,6M okt 28  2015 011 11. Adding in the width of the sections.mp4
+-rwxrwxrwx 2 alex alex 8,6M okt 28  2015 002 03. Adding in the top list.mp4
+-rwxrwxrwx 2 alex alex 8,5M okt 28  2015 010 10. Adding in a stroke.mp4
+-rwxrwxrwx 2 alex alex 8,5M okt 28  2015 006 06. Fixing the font.mp4
+-rwxrwxrwx 2 alex alex 8,5M okt 28  2015 005 05. Adding in the section CSS.mp4
+-rwxrwxrwx 2 alex alex 8,5M okt 28  2015 004 04. Adding in a class to the sections.mp4
+-rwxrwxrwx 2 alex alex 8,5M okt 28  2015 003 03. Setting up the background color.mp4
+-rwxrwxrwx 2 alex alex 8,5M okt 28  2015 003 03. Adding in the body CSS.mp4
+-rwxrwxrwx 2 alex alex 8,5M mar 22 14:14 03_04-entry.mp4
+-rwxrwxrwx 2 alex alex 8,4M sep 11 00:07 050 Summary.mp4
+-rwxrwxrwx 2 alex alex 8,4M okt 28  2015 003 03. Adding in a background color.mp4
+-rwxrwxrwx 1 alex alex 8,4M apr 12 21:19 003 Iterators and Generators Homework.mp4
+-rwxrwxrwx 2 alex alex 8,3M sep 11 00:15 lesson_15.mp4
+-rwxrwxrwx 2 alex alex 8,3M sep 10 23:03 06_04-Directory creation.mp4
+-rwxrwxrwx 2 alex alex 8,3M okt 28  2015 013 13. Setting up the title.mp4
+-rwxrwxrwx 2 alex alex 8,3M okt 28  2015 002 02. Adding in the columns.mp4
+-rwxrwxrwx 2 alex alex 8,2M okt 28  2015 011 11. Changing the header2 text.mp4
+-rwxrwxrwx 2 alex alex 8,2M okt 28  2015 008 08. Finding public domain  HD videos.mp4
+-rwxrwxrwx 2 alex alex 8,2M mar 22 14:14 02_05-revisit.mp4
+-rwxrwxrwx 2 alex alex 8,2M feb  3  2016 2 - Three.js Building Blocks.mp4
+-rwxrwxrwx 1 alex alex 8,2K avg  4  2014 Warp.bmp
+-rwxrwxrwx 1 alex alex 8,2K avg  4  2014 Warp.bmp
+-rwxrwxrwx 1 alex alex 8,2K avg  4  2014 ship6.bmp
+-rwxrwxrwx 1 alex alex 8,2K avg  4  2014 ship6.bmp
+-rwxrwxrwx 1 alex alex 8,2K avg  4  2014 Doomday.bmp
+-rwxrwxrwx 1 alex alex 8,2K avg  4  2014 Doomday.bmp
+-rwxrwxrwx 1 alex alex 8,2K avg  4  2014 bubble.bmp
+-rwxrwxrwx 1 alex alex 8,2K avg  4  2014 bubble.bmp
+-rwxrwxrwx 2 alex alex 8,1M okt 28  2015 009 09. Setting up the columns.mp4
+-rwxrwxrwx 2 alex alex 8,1M okt 28  2015 006 06. Formatting the text.mp4
+-rwxrwxrwx 2 alex alex 8,1M okt 28  2015 006 06. Adding in the columns.mp4
+-rwxrwxrwx 1 alex alex 8,1M apr 12 21:28 001 Course Introduction.mp4
+-rwxrwxrwx 1 alex alex 8,1M apr 12 20:19 006 Advanced Python Objects Assessment Test.mp4
+-rwxrwxrwx 2 alex alex 8,0M okt 28  2015 010 10. Adjusting the header text.mp4
+-rwxrwxrwx 2 alex alex 7,9M sep 10 22:51 144203_03_05_XR15_checkboxes.mp4
+-rwxrwxrwx 2 alex alex 7,9M okt 28  2015 009 09. Making the top menu bar.mp4
+-rwxrwxrwx 2 alex alex 7,9M okt 28  2015 009 09. Adding in the h2 CSS.mp4
+-rwxrwxrwx 1 alex alex 7,9K avg  4  2014 Crystal1.bmp
+-rwxrwxrwx 1 alex alex 7,9K avg  4  2014 Crystal1.bmp
+-rwxrwxrwx 1 alex alex 7,9K apr 12 18:41 019 Sets and Booleans Quiz Quiz.html
+-rwxrwxrwx 1 alex alex 7,9K apr 12 18:31 016 Tuples Quiz Quiz.html
+-rwxrwxrwx 2 alex alex 7,8M okt 28  2015 010 11. Adding in the h2 CSS.mp4
+-rwxrwxrwx 2 alex alex 7,8M okt 28  2015 009 09. Formating the header tag.mp4
+-rwxrwxrwx 2 alex alex 7,8M okt 28  2015 004 05. Adding in the list items.mp4
+-rwxrwxrwx 1 alex alex 7,8M jan 12  2016 020 HTML5 Game calculation adjustments.mp4
+-rwxrwxrwx 1 alex alex 7,8K apr 12 18:31 011 Lists Quiz Quiz.html
+-rwxrwxrwx 1 alex alex 7,8K apr 12 18:23 014 Dictionaries Quiz Quiz.html
+-rwxrwxrwx 1 alex alex 7,8K apr 12 18:23 006 Strings Quiz Quiz.html
+-rwxrwxrwx 2 alex alex 7,7M sep 10 22:53 144203_02_02_XR15_inspectors.mp4
+-rwxrwxrwx 2 alex alex 7,7M okt 28  2015 007 07. Adding in the h1 and h2 css.mp4
+-rwxrwxrwx 2 alex alex 7,7M okt 28  2015 002 02. Adding in the rest of the HTML.mp4
+-rwxrwxrwx 2 alex alex 7,6K feb  7  2015 ic_launcher.png
+-rwxrwxrwx 2 alex alex 7,5M okt 28  2015 008 08. Setting up the logos in the page.mp4
+-rwxrwxrwx 2 alex alex 7,4M okt 28  2015 009 09. Adding in a div and a class container.mp4
+-rwxrwxrwx 2 alex alex 7,4M okt 28  2015 003 04. Adding in some more HTML and adding hte body CSS.mp4
+-rwxrwxrwx 2 alex alex 7,4M mar 22 16:30 23. Intro- Adding Enemies.mp4
+-rwxrwxrwx 2 alex alex 7,3M okt 28  2015 008 08. Setting up the background text with padding.mp4
+-rwxrwxrwx 2 alex alex 7,3M okt 28  2015 005 05. Adding in the header 2 logic.mp4
+-rwxrwxrwx 2 alex alex 7,3M okt 28  2015 002 02. Adding in the photograph sections.mp4
+-rwxrwxrwx 2 alex alex 7,2M sep 10 22:59 13_01-Next steps.mp4
+-rwxrwxrwx 2 alex alex 7,2M mar 22 16:23 22. Section Summary.mp4
+-rwxrwxrwx 2 alex alex 7,2K feb  7  2015 R$attr.class
+-rwxrwxrwx 2 alex alex 7,2K feb  7  2015 R$attr.class
+-rwxrwxrwx 1 alex alex 7,2M apr 12 20:29 008 Complex.mp4
+-rwxrwxrwx 2 alex alex 7,1M okt 28  2015 013 13. Changing the icons.mp4
+-rwxrwxrwx 2 alex alex 7,1M okt 28  2015 010 10. Adding in the banner tag.mp4
+-rwxrwxrwx 2 alex alex 7,1M okt 28  2015 005 05. Putting in the circles into columns.mp4
+-rwxrwxrwx 2 alex alex 7,1M mar 22 14:14 01_01-windows_install.mp4
+-rwxrwxrwx 1 alex alex 7,1M jan 12  2016 006 HTML5 Game Use JavaScript to create canvas.mp4
+-rwxrwxrwx 2 alex alex 7,0M sep 10 22:51 144203_02_05_XR15_jargon.mp4
+-rwxrwxrwx 2 alex alex 7,0M okt 28  2015 019 19. Fixing up the header paragraph.mp4
+-rwxrwxrwx 2 alex alex 7,0M okt 28  2015 003 03. Adding in the body and header CSS.mp4
+-rwxrwxrwx 2 alex alex 7,0M okt 28  2015 002 02. Adding in the columns.mp4
+-rwxrwxrwx 1 alex alex 7,0K feb  7  2015 app.iml
+-rwxrwxrwx 2 alex alex 6,9M okt 28  2015 008 08. Adding in the HTML to make FontAwesome work.mp4
+-rwxrwxrwx 2 alex alex 6,9M okt 28  2015 003 03. Adding in the video.mp4
+-rwxrwxrwx 2 alex alex 6,9K feb  7  2015 ic_launcher.png
+-rwxrwxrwx 1 alex alex 6,9K avg  4  2014 Face1.bmp
+-rwxrwxrwx 1 alex alex 6,9K avg  4  2014 Face1.bmp
+-rwxrwxrwx 2 alex alex 6,8M sep 11 00:07 1 - Introduction to JavaScript - Assessment.mp4
+-rwxrwxrwx 2 alex alex 6,8M sep 10 22:55 Ex_Files_JS_for_WD.zip
+-rwxrwxrwx 2 alex alex 6,8M okt 28  2015 009 09. Testing the JavaScript.mp4
+-rwxrwxrwx 2 alex alex 6,8M okt 28  2015 007 07. Formatting the logo.mp4
+-rwxrwxrwx 2 alex alex 6,8M okt 28  2015 005 06. Adding more CSS to the nav feature.mp4
+-rwxrwxrwx 2 alex alex 6,8M mar 22 15:47 05. Section Summary.mp4
+-rwxrwxrwx 1 alex alex 6,8M apr 12 21:14 005 Errors and Exceptions - Solutions.mp4
+-rwxrwxrwx 2 alex alex 6,7M okt 28  2015 004 04. Adding in the H1 CSS.mp4
+-rwxrwxrwx 2 alex alex 6,7M mar 22 16:43 12. Intro- Physics-Collision Detection.mp4
+-rwxrwxrwx 2 alex alex 6,7M mar 22 16:22 01. Intro- Thinking Like A Game Developer.mp4
+-rwxrwxrwx 1 alex alex 6,7M jan 12  2016 025 HTML5 Game runaway ghost.mp4
+-rwxrwxrwx 2 alex alex 6,6M okt 28  2015 010 10. Adding in a function to the buttons.mp4
+-rwxrwxrwx 2 alex alex 6,6M okt 28  2015 009 09. Adding in javascript buttons.mp4
+-rwxrwxrwx 2 alex alex 6,6M okt 28  2015 006 06. Setting up the menu bar.mp4
+-rwxrwxrwx 2 alex alex 6,6K feb  7  2015 abc_search_view.xml
+-rwxrwxrwx 1 alex alex 6,6M apr 12 20:12 007 Advanced Python Objects Test - Solutions.mp4
+-rwxrwxrwx 2 alex alex 6,5M okt 28  2015 003 03. Adding in the h1 and h2 CSS.mp4
+-rwxrwxrwx 2 alex alex 6,5M mar 22 17:27 03. Load Event.mp4
+-rwxrwxrwx 2 alex alex 6,5K feb  7  2015 abc_search_view.xml
+-rwxrwxrwx 1 alex alex 6,5K avg  4  2014 Sun2.bmp
+-rwxrwxrwx 1 alex alex 6,5K avg  4  2014 Sun2.bmp
+-rwxrwxrwx 1 alex alex 6,5K avg  4  2014 Sun1.bmp
+-rwxrwxrwx 1 alex alex 6,5K avg  4  2014 Sun1.bmp
+-rwxrwxrwx 1 alex alex 6,5K avg  4  2014 ShipGun2.bmp
+-rwxrwxrwx 1 alex alex 6,5K avg  4  2014 ShipGun2.bmp
+-rwxrwxrwx 1 alex alex 6,5K avg  4  2014 ShipGun1.bmp
+-rwxrwxrwx 1 alex alex 6,5K avg  4  2014 ShipGun1.bmp
+-rwxrwxrwx 1 alex alex 6,5K avg  4  2014 Hunter2.bmp
+-rwxrwxrwx 1 alex alex 6,5K avg  4  2014 Hunter2.bmp
+-rwxrwxrwx 1 alex alex 6,5K avg  4  2014 Hunter1.bmp
+-rwxrwxrwx 1 alex alex 6,5K avg  4  2014 Hunter1.bmp
+-rwxrwxrwx 1 alex alex 6,5K avg  4  2014 Exhaust3.bmp
+-rwxrwxrwx 1 alex alex 6,5K avg  4  2014 Exhaust3.bmp
+-rwxrwxrwx 2 alex alex 6,4M sep 10 22:50 144203_05_01_XR15_API.m4a
+-rwxrwxrwx 1 alex alex 6,4K apr 12 18:39 003 Milestone Project Help.html
+-rwxrwxrwx 2 alex alex 6,3M okt 28  2015 004 04. Changing the header CSS.mp4
+-rwxrwxrwx 2 alex alex 6,3M okt 28  2015 004 04. Adding int he body text.mp4
+-rwxrwxrwx 2 alex alex 6,2M sep 11 00:07 001 Course Intro.mp4
+-rwxrwxrwx 2 alex alex 6,2M okt 28  2015 004 04. Optimizing the circle CSS.mp4
+-rwxrwxrwx 2 alex alex 6,2M okt 28  2015 002 02. Adding in the text.mp4
+-rwxrwxrwx 2 alex alex 6,1M okt 28  2015 007 07. Adding in the header logo.mp4
+-rwxrwxrwx 2 alex alex 6,1M okt 28  2015 003 03. Adding in the body code and the header code.mp4
+-rwxrwxrwx 2 alex alex 6,1M mar 22 16:32 28. Intro- Bringing a Game Together.mp4
+-rwxrwxrwx 2 alex alex 6,0M sep 11 00:01 4 - Some New HTML5 Input Elements.mp4
+-rwxrwxrwx 2 alex alex 6,0M okt 28  2015 003 03. Adding in the body text.mp4
+-rwxrwxrwx 2 alex alex 6,0M mar 22 16:40 06. Intro- Graphics to Sprites.mp4
+-rwxrwxrwx 2 alex alex 6,0M feb  3  2016 4 - Introducing Lighting and Materials.mp4
+-rwxrwxrwx 1 alex alex 6,0K avg  4  2014 Beacon2.bmp
+-rwxrwxrwx 1 alex alex 6,0K avg  4  2014 Beacon2.bmp
+-rwxrwxrwx 1 alex alex 5,9K avg  4  2014 Explode1.bmp
+-rwxrwxrwx 1 alex alex 5,9K avg  4  2014 Explode1.bmp
+-rwxrwxrwx 2 alex alex 5,8M sep 11 00:07 3 - Using A Code Editor For JavaScript.mp4
+-rwxrwxrwx 2 alex alex 5,8M okt 28  2015 004 04. Formatting the headers.mp4
+-rwxrwxrwx 2 alex alex 5,8M okt 28  2015 003 03. Adding in the text sections.mp4
+-rwxrwxrwx 2 alex alex 5,8M okt 28  2015 002 02. Adding in the menu div tags.mp4
+-rwxrwxrwx 2 alex alex 5,7M okt 28  2015 005 05. Adding in the header code and the logo code.mp4
+-rwxrwxrwx 2 alex alex 5,7M okt 28  2015 004 04. Adding in the logo CSS.mp4
+-rwxrwxrwx 2 alex alex 5,7M feb  3  2016 3 - Introducing Meshes and Geometry.mp4
+-rwxrwxrwx 2 alex alex 5,6M okt 28  2015 016 16. Making the menu center.mp4
+-rwxrwxrwx 2 alex alex 5,5M okt 28  2015 007 07. Adding in the top menu.mp4
+-rwxrwxrwx 2 alex alex 5,5M okt 28  2015 003 03. Formatting the body.mp4
+-rwxrwxrwx 2 alex alex 5,4M okt 28  2015 008 08. Adding in the body and a tag CSS.mp4
+-rwxrwxrwx 2 alex alex 5,3M okt 28  2015 014 14. Adjusting the logo.mp4
+-rwxrwxrwx 2 alex alex 5,3M okt 28  2015 007 07. Adding in the HTML 5 video code.mp4
+-rwxrwxrwx 2 alex alex 5,3M okt 28  2015 005 05. Setting up the buttons.mp4
+-rwxrwxrwx 1 alex alex 5,3K avg  4  2014 Blood1.bmp
+-rwxrwxrwx 1 alex alex 5,3K avg  4  2014 Blood1.bmp
+-rwxrwxrwx 2 alex alex 5,2M okt 28  2015 011 11. Adding in images.mp4
+-rwxrwxrwx 2 alex alex 5,2M mar 22 16:40 17. Section Summary.mp4
+-rwxrwxrwx 2 alex alex 5,1M sep 11 00:06 1 - HTML & CSS - Assessment.mp4
+-rwxrwxrwx 2 alex alex 5,1M okt 28  2015 004 04. Adding in the HTML to change.mp4
+-rwxrwxrwx 2 alex alex 5,1M okt 28  2015 003 03. Adding in the body CSS code.mp4
+-rwxrwxrwx 2 alex alex 5,1M okt 28  2015 001 01. Introduction to the basic one page website.mp4
+-rwxrwxrwx 2 alex alex 5 feb  7  2015 dependency.store
+-rwxrwxrwx 2 alex alex 5 feb  7  2015 dependency.store
+-rwxrwxrwx 2 alex alex 5,0M sep 11 00:02 4 - Learning About HTML.mp4
+-rwxrwxrwx 2 alex alex 5,0M okt 28  2015 019 19. Challenge - add in fancy horizontal rules.mp4
+-rwxrwxrwx 2 alex alex 5,0M okt 28  2015 004 04. Adding in the logo CSS.mp4
+-rwxrwxrwx 1 alex alex 5,0K feb  7  2015 gradlew
+-rwxrwxrwx 2 alex alex 4,9M sep 10 23:03 03_02-Installing Node.js on a PC.mp4
+-rwxrwxrwx 2 alex alex 4,9M okt 28  2015 016 16. Challange - Make a website for a business.mp4
+-rwxrwxrwx 2 alex alex 4,9M okt 28  2015 002 02. Adding in the text to the title.mp4
+-rwxrwxrwx 2 alex alex 4,9M mar 22 14:11 02_03-geometry.mp4
+-rwxrwxrwx 2 alex alex 4,8M mar 22 16:11 32. Section Summary.mp4
+-rwxrwxrwx 2 alex alex 4,8K feb  7  2015 ic_launcher.png
+-rwxrwxrwx 1 alex alex 4,8K avg  4  2014 Missle1.bmp
+-rwxrwxrwx 1 alex alex 4,8K avg  4  2014 Missle1.bmp
+-rwxrwxrwx 2 alex alex 4,7M sep 11 00:07 011 Project Intro.mp4
+-rwxrwxrwx 2 alex alex 4,7M sep 10 22:53 144203_02_04_XR15_help.mp4
+-rwxrwxrwx 2 alex alex 4,7M feb  3  2016 2 - Coordinates Refresher.mp4
+-rwxrwxrwx 2 alex alex 4,7M avg  3 07:03 Sanet.me_StartingwithTerminalRESIZED.mp4
+-rwxrwxrwx 1 alex alex 4,7K sep 10 23:22 3-files.zip
+-rwxrwxrwx 1 alex alex 4,7K avg  4  2014 Explode4.bmp
+-rwxrwxrwx 1 alex alex 4,7K avg  4  2014 Explode4.bmp
+-rwxrwxrwx 1 alex alex 4,7K avg  4  2014 Debris3.bmp
+-rwxrwxrwx 1 alex alex 4,7K avg  4  2014 Debris3.bmp
+-rwxrwxrwx 1 alex alex 4,7K avg  4  2014 Debris2.bmp
+-rwxrwxrwx 1 alex alex 4,7K avg  4  2014 Debris2.bmp
+-rwxrwxrwx 1 alex alex 4,7K avg  4  2014 Debris1.bmp
+-rwxrwxrwx 1 alex alex 4,7K avg  4  2014 Debris1.bmp
+-rwxrwxrwx 2 alex alex 4,6M sep 11 00:04 2 - Full Stack Web Development Specialization.mp4
+-rwxrwxrwx 2 alex alex 4,6M sep 10 22:53 144203_04_06_XR15_challenge.m4a
+-rwxrwxrwx 2 alex alex 4,6M okt 28  2015 005 05. Putting the text in the center.mp4
+-rwxrwxrwx 2 alex alex 4,6M mar 22 15:45 11. Summary.mp4
+-rwxrwxrwx 2 alex alex 4,6M mar 22 14:12 02_04-events.mp4
+-rwxrwxrwx 2 alex alex 4,5M okt 28  2015 015 15. Challange - Find a different color scheme.mp4
+-rwxrwxrwx 2 alex alex 4,5K feb  7  2015 abc_btn_switch_to_on_mtrl_00012.9.png
+-rwxrwxrwx 2 alex alex 4,4M okt 28  2015 008 08. Formatting the banner.mp4
+-rwxrwxrwx 2 alex alex 4,4M okt 28  2015 008 08. Changing the header.mp4
+-rwxrwxrwx 2 alex alex 4,4M okt 28  2015 006 06. Fitting the text onto one page.mp4
+-rwxrwxrwx 2 alex alex 4,4M okt 28  2015 001 01. Introduction to the extended video background website.mp4
+-rwxrwxrwx 2 alex alex 4,3M sep 11 00:02 3 - Using a Code Editor For HTML.mp4
+-rwxrwxrwx 2 alex alex 4,3M sep 10 22:53 144203_02_06_XR15_dom.mp4
+-rwxrwxrwx 2 alex alex 4,3M okt 28  2015 010 10. Fixing the circle text.mp4
+-rwxrwxrwx 2 alex alex 4,3M okt 28  2015 005 05. Adding more unordered list CSS code.mp4
+-rwxrwxrwx 2 alex alex 4,3M okt 28  2015 004 04. Changing the h1 and h2.mp4
+-rwxrwxrwx 2 alex alex 4,3K feb  7  2015 ic_launcher.png
+-rwxrwxrwx 2 alex alex 4,2M okt 28  2015 003 03. Adding in the circles and doing some math.mp4
+-rwxrwxrwx 1 alex alex 4,2K avg  4  2014 Exhaust2.bmp
+-rwxrwxrwx 1 alex alex 4,2K avg  4  2014 Exhaust2.bmp
+-rwxrwxrwx 2 alex alex 4,1M sep 11 00:04 1 - Introduction to the Course.mp4
+-rwxrwxrwx 2 alex alex 4,1M okt 28  2015 018 18. Challenge - Add another div tag to the project.mp4
+-rwxrwxrwx 2 alex alex 4,0M okt 28  2015 018 18. Changing the paragraph color for the green text.mp4
+-rwxrwxrwx 2 alex alex 4,0M okt 28  2015 002 02. Setting up the unordered list.mp4
+-rwxrwxrwx 2 alex alex 4,0K feb  7  2015 abc_search_dropdown_item_icons_2line.xml
+-rwxrwxrwx 2 alex alex 4,0K feb  7  2015 abc_btn_switch_to_on_mtrl_00012.9.png
+-rwxrwxrwx 2 alex alex 4,0K feb  7  2015 abc_btn_switch_to_on_mtrl_00001.9.png
+-rwxrwxrwx 2 alex alex 3,9M sep 11 00:06 040 Project Intro.mp4
+-rwxrwxrwx 2 alex alex 3,9M sep 10 23:03 03_01-Installing Node.js on a Mac.mp4
+-rwxrwxrwx 2 alex alex 3,9M okt 28  2015 012 12. Setting the size for the titles.mp4
+-rwxrwxrwx 2 alex alex 3,9M okt 28  2015 006 06. Puttin the text in the center.mp4
+-rwxrwxrwx 2 alex alex 3,9M okt 28  2015 002 02. Setting up the column HTML.mp4
+-rwxrwxrwx 2 alex alex 3,9M mar 22 15:44 27. Section Summary.mp4
+-rwxrwxrwx 1 alex alex 3,9M jan 12  2016 003 Setup HTML5 Game template.mp4
+-rwxrwxrwx 2 alex alex 3,8M okt 28  2015 002 02.Adding in the three columns.mp4
+-rwxrwxrwx 2 alex alex 3,8M okt 28  2015 001 01. Making a basic minimalist site.mp4
+-rwxrwxrwx 2 alex alex 3,8K feb  7  2015 abc_search_dropdown_item_icons_2line.xml
+-rwxrwxrwx 2 alex alex 3,7M okt 28  2015 001 01. Introduction.mp4
+-rwxrwxrwx 2 alex alex 3,6M sep 10 22:48 144203_03_12_XR15_challenge.mp4
+-rwxrwxrwx 2 alex alex 3,6M okt 28  2015 014 14. Challenge - expand upon this website.mp4
+-rwxrwxrwx 2 alex alex 3,6M okt 28  2015 005 05. Changing the header.mp4
+-rwxrwxrwx 2 alex alex 3,6M okt 28  2015 001 01. Introduction to menu bars.mp4
+-rwxrwxrwx 2 alex alex 3,6M mar 22 14:12 01_03-hello.mp4
+-rwxrwxrwx 2 alex alex 3,6K feb  7  2015 abc_popup_background_mtrl_mult.9.png
+-rwxrwxrwx 2 alex alex 3,6K feb  7  2015 abc_btn_switch_to_on_mtrl_00001.9.png
+-rwxrwxrwx 1 alex alex 3,6K avg  4  2014 Mine.bmp
+-rwxrwxrwx 1 alex alex 3,6K avg  4  2014 Mine.bmp
+-rwxrwxrwx 1 alex alex 3,6K avg  4  2014 GravBcon.bmp
+-rwxrwxrwx 1 alex alex 3,6K avg  4  2014 GravBcon.bmp
+-rwxrwxrwx 2 alex alex 3,5M sep 11 00:05 017 Project Intro.mp4
+-rwxrwxrwx 2 alex alex 3,5M okt 28  2015 002 02. Adding in the un ordered list.mp4
+-rwxrwxrwx 2 alex alex 3,5K feb  7  2015 R$color.class
+-rwxrwxrwx 2 alex alex 3,5K feb  7  2015 R$color.class
+-rwxrwxrwx 1 alex alex 3,5K avg  4  2014 ship5.bmp
+-rwxrwxrwx 1 alex alex 3,5K avg  4  2014 ship5.bmp
+-rwxrwxrwx 1 alex alex 3,5K avg  4  2014 Logo2.bmp
+-rwxrwxrwx 1 alex alex 3,5K avg  4  2014 Logo2.bmp
+-rwxrwxrwx 2 alex alex 3,4M sep 11 00:06 007 Project Intro.mp4
+-rwxrwxrwx 2 alex alex 3,4M okt 28  2015 001 01. Introduction to the background image website.mp4
+-rwxrwxrwx 2 alex alex 3,4M okt 28  2015 001 01. Introduction to making a six column website.mp4
+-rwxrwxrwx 2 alex alex 3,4M okt 28  2015 001 01. Introduction.mp4
+-rwxrwxrwx 2 alex alex 3,4M okt 28  2015 001 01. Introduction.mp4
+-rwxrwxrwx 2 alex alex 3,4M okt 28  2015 001 01. Introduction.mp4
+-rwxrwxrwx 2 alex alex 3,4K feb  7  2015 R$drawable.class
+-rwxrwxrwx 2 alex alex 3,4K feb  7  2015 ic_launcher.png
+-rwxrwxrwx 1 alex alex 3,4K avg  4  2014 Selected.bmp
+-rwxrwxrwx 1 alex alex 3,4K avg  4  2014 Selected.bmp
+-rwxrwxrwx 2 alex alex 3,3M sep 11 00:07 030 Project Intro.mp4
+-rwxrwxrwx 2 alex alex 3,3M sep 10 22:53 144203_01_03_XR15_anti.mp4
+-rwxrwxrwx 2 alex alex 3,3M okt 28  2015 001 01. Making a minimalist website.mp4
+-rwxrwxrwx 2 alex alex 3,2M sep 11 00:07 035 Project Intro.mp4
+-rwxrwxrwx 2 alex alex 3,2M sep 10 22:51 144203_01_01_XR15_whatis.mp4
+-rwxrwxrwx 2 alex alex 3,2M okt 28  2015 001 01. Introduction to the project.mp4
+-rwxrwxrwx 1 alex alex 3,2K sep 10 23:22 6-files.zip
+-rwxrwxrwx 1 alex alex 3,2K apr 12 18:26 001 Installation Notes.html
+-rwxrwxrwx 2 alex alex 3,1M sep 10 23:02 02_01-Node.js history.mp4
+-rwxrwxrwx 2 alex alex 3,1K feb  7  2015 R$drawable.class
+-rwxrwxrwx 2 alex alex 3,1K feb  7  2015 ic_launcher.png
+-rwxrwxrwx 2 alex alex 3,0M okt 28  2015 002 02. Setting up an image.mp4
+-rwxrwxrwx 2 alex alex 3,0K feb  7  2015 abc_spinner_mtrl_am_alpha.9.png
+-rwxrwxrwx 1 alex alex 3,0K sep 10 23:22 15-files.zip
+-rwxrwxrwx 1 alex alex 3,0K avg  4  2014 spaceman.bmp
+-rwxrwxrwx 1 alex alex 3,0K avg  4  2014 spaceman.bmp
+-rwxrwxrwx 1 alex alex 3,0K avg  4  2014 ship4.bmp
+-rwxrwxrwx 1 alex alex 3,0K avg  4  2014 ship4.bmp
+-rwxrwxrwx 1 alex alex 3,0K avg  4  2014 ship3.bmp
+-rwxrwxrwx 1 alex alex 3,0K avg  4  2014 ship3.bmp
+-rwxrwxrwx 1 alex alex 3,0K avg  4  2014 Flame.bmp
+-rwxrwxrwx 1 alex alex 3,0K avg  4  2014 Flame.bmp
+-rwxrwxrwx 1 alex alex 3,0K avg  4  2014 bomb1.bmp
+-rwxrwxrwx 1 alex alex 3,0K avg  4  2014 bomb1.bmp
+-rwxrwxrwx 1 alex alex 3,0K apr 12 18:34 007 Hints and Tips for Functions and Methods Assignment.html
+-rwxrwxrwx 2 alex alex 2,9M sep 10 22:50 144203_05_07_XR15_challenge.m4a
+-rwxrwxrwx 2 alex alex 2,9M okt 28  2015 016 17. Challenge - Add a triangle to the top.mp4
+-rwxrwxrwx 2 alex alex 2,9M okt 28  2015 005 05. Setting up the body color.mp4
+-rwxrwxrwx 2 alex alex 2,9M okt 28  2015 001 01. Introduction to the video background.mp4
+-rwxrwxrwx 2 alex alex 2,9M okt 28  2015 001 01. Introduction to the photography website.mp4
+-rwxrwxrwx 2 alex alex 2,9M okt 28  2015 001 01. Introduction.mp4
+-rwxrwxrwx 2 alex alex 2,9M mar 22 14:11 09_01-conclusion.mp4
+-rwxrwxrwx 2 alex alex 2,9K feb  7  2015 R$id.class
+-rwxrwxrwx 2 alex alex 2,9K feb  7  2015 R$dimen.class
+-rwxrwxrwx 2 alex alex 2,9K feb  7  2015 abc_popup_menu_item_layout.xml
+-rwxrwxrwx 2 alex alex 2,9K feb  7  2015 abc_btn_switch_to_on_mtrl_00012.9.png
+-rwxrwxrwx 2 alex alex 2,9K feb  7  2015 abc_ab_share_pack_holo_light.9.png
+-rwxrwxrwx 2 alex alex 2,9K feb  7  2015 abc_ab_share_pack_holo_dark.9.png
+-rwxrwxrwx 2 alex alex 2,8M sep 10 22:43 144203_06_03_XR15_friends.m4a
+-rwxrwxrwx 2 alex alex 2,8M okt 28  2015 001 01. Introduction to multiple div tag website.mp4
+-rwxrwxrwx 2 alex alex 2,8M okt 28  2015 001 01. Introduction to making a bigger website.mp4
+-rwxrwxrwx 2 alex alex 2,8K feb  7  2015 R$dimen.class
+-rwxrwxrwx 2 alex alex 2,8K feb  7  2015 activity_main.xml
+-rwxrwxrwx 2 alex alex 2,8K feb  7  2015 abc_popup_background_mtrl_mult.9.png
+-rwxrwxrwx 2 alex alex 2,8K feb  7  2015 abc_btn_switch_to_on_mtrl_00001.9.png
+-rwxrwxrwx 2 alex alex 2,8K feb  7  2015 abc_ab_share_pack_holo_light.9.png
+-rwxrwxrwx 2 alex alex 2,8K feb  7  2015 abc_ab_share_pack_holo_dark.9.png
+-rwxrwxrwx 2 alex alex 2,8K feb  7  2015 abc_ab_share_pack_holo_dark.9.png
+-rwxrwxrwx 1 alex alex 2,8K sep 10 23:22 12-files.zip
+-rwxrwxrwx 1 alex alex 2,8K avg  4  2014 main.py
+-rwxrwxrwx 2 alex alex 2,7M sep 11 00:05 021 Project Intro.mp4
+-rwxrwxrwx 2 alex alex 2,7M okt 28  2015 001 01. Introduction to the website.mp4
+-rwxrwxrwx 2 alex alex 2,7M okt 28  2015 001 01. Introduction to the website.mp4
+-rwxrwxrwx 2 alex alex 2,7K feb  7  2015 R$id.class
+-rwxrwxrwx 2 alex alex 2,7K feb  7  2015 abc_popup_menu_item_layout.xml
+-rwxrwxrwx 2 alex alex 2,7K feb  7  2015 abc_list_menu_item_layout.xml
+-rwxrwxrwx 1 alex alex 2,7K feb  7  2015 values.xml
+-rwxrwxrwx 1 alex alex 2,7K feb  7  2015 values.xml
+-rwxrwxrwx 1 alex alex 2,7K apr 12 18:20 001 Introduction to GUIs.html
+-rwxrwxrwx 2 alex alex 2,6M sep 11 00:03 1 - Walkthrough Video for Matching Game.mp4
+-rwxrwxrwx 2 alex alex 2,6M mar 22 14:08 00_02-prerequisites.mp4
+-rwxrwxrwx 2 alex alex 2,6K feb  7  2015 MainActivity.class
+-rwxrwxrwx 2 alex alex 2,6K feb  7  2015 activity_main.xml
+-rwxrwxrwx 1 alex alex 2,6K feb  7  2015 values.xml
+-rwxrwxrwx 2 alex alex 2,5K feb  7  2015 abc_list_menu_item_layout.xml
+-rwxrwxrwx 2 alex alex 2,5K feb  7  2015 abc_activity_chooser_view_include.xml
+-rwxrwxrwx 1 alex alex 2,5K feb  7  2015 values.xml
+-rwxrwxrwx 1 alex alex 2,5K feb  7  2015 values.xml
+-rwxrwxrwx 2 alex alex 2,4M sep 10 22:46 01_03-Installing dependencies.mp4
+-rwxrwxrwx 2 alex alex 2,4K feb  7  2015 abc_screen_toolbar.xml
+-rwxrwxrwx 2 alex alex 2,4K feb  7  2015 abc_popup_background_mtrl_mult.9.png
+-rwxrwxrwx 2 alex alex 2,4K feb  7  2015 abc_ic_search_api_mtrl_alpha.png
+-rwxrwxrwx 1 alex alex 2,4K sep 10 23:22 4-files.zip
+-rwxrwxrwx 1 alex alex 2,4K sep 10 23:22 13-files.zip
+-rwxrwxrwx 1 alex alex 2,4K feb  7  2015 values.xml
+-rwxrwxrwx 1 alex alex 2,4K feb  7  2015 values.xml
+-rwxrwxrwx 1 alex alex 2,4K feb  7  2015 gradlew.bat
+-rwxrwxrwx 2 alex alex 2,3M sep 11 00:06 026 Project Intro.mp4
+-rwxrwxrwx 2 alex alex 2,3M feb  3  2016 4 - Summary.mp4
+-rwxrwxrwx 2 alex alex 2,3M avg  7  2014 Game Dev with Python_Lab06.pdf
+-rwxrwxrwx 2 alex alex 2,3M avg  7  2014 Game Dev with Python_Lab05.pdf
+-rwxrwxrwx 2 alex alex 2,3M avg  7  2014 Game Dev with Python_Lab04.pdf
+-rwxrwxrwx 2 alex alex 2,3M avg  7  2014 Game Dev with Python_Lab03.pdf
+-rwxrwxrwx 2 alex alex 2,3M avg  7  2014 Game Dev with Python_Lab02.pdf
+-rwxrwxrwx 2 alex alex 2,3M avg  7  2014 Game Dev with Python_Lab01.pdf
+-rwxrwxrwx 2 alex alex 2,3K feb  7  2015 MainActivity.java
+-rwxrwxrwx 2 alex alex 2,3K feb  7  2015 abc_activity_chooser_view_list_item.xml
+-rwxrwxrwx 2 alex alex 2,3K feb  7  2015 abc_activity_chooser_view_include.xml
+-rwxrwxrwx 1 alex alex 2,3K feb  7  2015 values.xml
+-rwxrwxrwx 1 alex alex 2,3K feb  7  2015 values.xml
+-rwxrwxrwx 1 alex alex 2,3K feb  7  2015 values.xml
+-rwxrwxrwx 1 alex alex 2,3K feb  7  2015 values.xml
+-rwxrwxrwx 1 alex alex 2,3K avg  4  2014 knife.bmp
+-rwxrwxrwx 1 alex alex 2,3K avg  4  2014 knife.bmp
+-rwxrwxrwx 2 alex alex 2,2M sep 11 00:07 002 Project Intro.mp4
+-rwxrwxrwx 2 alex alex 2,2M sep 10 22:36 2 - Learning JavaScript.mp4
+-rwxrwxrwx 2 alex alex 2,2M mar 22 14:15 08_02-design.mp4
+-rwxrwxrwx 2 alex alex 2,2K feb  7  2015 ic_launcher.png
+-rwxrwxrwx 2 alex alex 2,2K feb  7  2015 abc_screen_toolbar.xml
+-rwxrwxrwx 2 alex alex 2,2K feb  7  2015 abc_ic_search_api_mtrl_alpha.png
+-rwxrwxrwx 1 alex alex 2,2K sep 10 23:22 8-files.zip
+-rwxrwxrwx 1 alex alex 2,2K feb  7  2015 values.xml
+-rwxrwxrwx 1 alex alex 2,2K feb  7  2015 values.xml
+-rwxrwxrwx 1 alex alex 2,2K feb  7  2015 values.xml
+-rwxrwxrwx 1 alex alex 2,2K feb  7  2015 values.xml
+-rwxrwxrwx 1 alex alex 2,2K feb  7  2015 values.xml
+-rwxrwxrwx 1 alex alex 2,2K feb  7  2015 values.xml
+-rwxrwxrwx 1 alex alex 2,2K feb  7  2015 values.xml
+-rwxrwxrwx 1 alex alex 2,2K feb  7  2015 values.xml
+-rwxrwxrwx 1 alex alex 2,2K avg  4  2014 Explode2.bmp
+-rwxrwxrwx 1 alex alex 2,2K avg  4  2014 Explode2.bmp
+-rwxrwxrwx 1 alex alex 2,2K avg  3  2014 Lab1.py
+-rwxrwxrwx 1 alex alex 2,2K apr 12 18:24 008 Print Formatting FAQs.html
+-rwxrwxrwx 2 alex alex 2,1M sep 10 22:37 144203_06_01_XR15_morejs.m4a
+-rwxrwxrwx 2 alex alex 2,1M okt 28  2015 001 01. Introduction.mp4
+-rwxrwxrwx 2 alex alex 2,1M feb  3  2016 2 - Common Problems.mp4
+-rwxrwxrwx 2 alex alex 2,1K feb  7  2015 abc_list_selector_holo_light.xml
+-rwxrwxrwx 2 alex alex 2,1K feb  7  2015 abc_list_selector_holo_dark.xml
+-rwxrwxrwx 2 alex alex 2,1K feb  7  2015 abc_item_background_holo_light.xml
+-rwxrwxrwx 2 alex alex 2,1K feb  7  2015 abc_item_background_holo_dark.xml
+-rwxrwxrwx 2 alex alex 2,1K feb  7  2015 abc_btn_switch_to_on_mtrl_00012.9.png
+-rwxrwxrwx 2 alex alex 2,1K feb  7  2015 abc_btn_radio_to_on_mtrl_015.png
+-rwxrwxrwx 2 alex alex 2,1K feb  7  2015 abc_activity_chooser_view_list_item.xml
+-rwxrwxrwx 1 alex alex 2,1M feb  7  2015 classes.dex
+-rwxrwxrwx 1 alex alex 2,1K feb  7  2015 values.xml
+-rwxrwxrwx 1 alex alex 2,1K feb  7  2015 values.xml
+-rwxrwxrwx 1 alex alex 2,1K feb  7  2015 values.xml
+-rwxrwxrwx 1 alex alex 2,1K feb  7  2015 values.xml
+-rwxrwxrwx 1 alex alex 2,1K feb  7  2015 values.xml
+-rwxrwxrwx 1 alex alex 2,1K feb  7  2015 values.xml
+-rwxrwxrwx 1 alex alex 2,1K feb  7  2015 values.xml
+-rwxrwxrwx 1 alex alex 2,1K feb  7  2015 values.xml
+-rwxrwxrwx 1 alex alex 2,1K feb  7  2015 values.xml
+-rwxrwxrwx 1 alex alex 2,1K feb  7  2015 values.xml
+-rwxrwxrwx 2 alex alex 2,0M sep 11 00:06 046 Project Intro.mp4
+-rwxrwxrwx 2 alex alex 2,0M feb  3  2016 5 - Summary.mp4
+-rwxrwxrwx 2 alex alex 2,0K feb  7  2015 ic_launcher.png
+-rwxrwxrwx 2 alex alex 2,0K feb  7  2015 abc_menu_hardkey_panel_mtrl_mult.9.png
+-rwxrwxrwx 2 alex alex 2,0K feb  7  2015 abc_btn_switch_to_on_mtrl_00001.9.png
+-rwxrwxrwx 1 alex alex 2,0K feb  7  2015 values.xml
+-rwxrwxrwx 1 alex alex 2,0K feb  7  2015 values.xml
+-rwxrwxrwx 1 alex alex 2,0K feb  7  2015 values.xml
+-rwxrwxrwx 1 alex alex 2,0K feb  7  2015 values.xml
+-rwxrwxrwx 1 alex alex 2,0K feb  7  2015 values.xml
+-rwxrwxrwx 1 alex alex 2,0K feb  7  2015 values.xml
+-rwxrwxrwx 1 alex alex 2,0K feb  7  2015 values.xml
+-rwxrwxrwx 1 alex alex 2,0K feb  7  2015 values.xml
+-rwxrwxrwx 1 alex alex 2,0K feb  7  2015 values.xml
+-rwxrwxrwx 1 alex alex 2,0K feb  7  2015 values.xml
+-rwxrwxrwx 1 alex alex 2,0K feb  7  2015 values.xml
+-rwxrwxrwx 1 alex alex 2,0K feb  7  2015 values.xml
+-rwxrwxrwx 1 alex alex 2,0K feb  7  2015 values.xml
+-rwxrwxrwx 1 alex alex 2,0K feb  7  2015 values.xml
+-rwxrwxrwx 1 alex alex 2,0K feb  7  2015 values.xml
+-rwxrwxrwx 1 alex alex 2,0K feb  7  2015 values.xml
+-rwxrwxrwx 1 alex alex 2,0K feb  7  2015 values.xml
+-rwxrwxrwx 1 alex alex 2,0K feb  7  2015 values.xml
+-rwxrwxrwx 1 alex alex 2,0K feb  7  2015 values.xml
+-rwxrwxrwx 1 alex alex 2,0K feb  7  2015 values.xml
+-rwxrwxrwx 1 alex alex 2,0K feb  7  2015 cache.xml
+-rwxrwxrwx 1 alex alex 2,0K avg  4  2014 pointer.bmp
+-rwxrwxrwx 1 alex alex 2,0K avg  4  2014 pointer.bmp
+-rwxrwxrwx 2 alex alex 1,9M sep 10 22:21 1 - Concluding Message.mp4
+-rwxrwxrwx 2 alex alex 1,9M mar 22 14:14 00_03-exercisefiles.mp4
+-rwxrwxrwx 2 alex alex 1,9K feb  7  2015 abc_switch_track_mtrl_alpha.9.png
+-rwxrwxrwx 2 alex alex 1,9K feb  7  2015 abc_menu_hardkey_panel_mtrl_mult.9.png
+-rwxrwxrwx 2 alex alex 1,9K feb  7  2015 abc_list_selector_holo_light.xml
+-rwxrwxrwx 2 alex alex 1,9K feb  7  2015 abc_list_selector_holo_dark.xml
+-rwxrwxrwx 2 alex alex 1,9K feb  7  2015 abc_item_background_holo_light.xml
+-rwxrwxrwx 2 alex alex 1,9K feb  7  2015 abc_item_background_holo_dark.xml
+-rwxrwxrwx 2 alex alex 1,9K feb  7  2015 abc_ic_search_api_mtrl_alpha.png
+-rwxrwxrwx 1 alex alex 1,9K sep 10 23:22 14-files.zip
+-rwxrwxrwx 1 alex alex 1,9K feb  7  2015 values.xml
+-rwxrwxrwx 1 alex alex 1,9K feb  7  2015 values.xml
+-rwxrwxrwx 1 alex alex 1,9K feb  7  2015 values.xml
+-rwxrwxrwx 1 alex alex 1,9K feb  7  2015 values.xml
+-rwxrwxrwx 1 alex alex 1,9K feb  7  2015 values.xml
+-rwxrwxrwx 1 alex alex 1,9K feb  7  2015 values.xml
+-rwxrwxrwx 1 alex alex 1,9K feb  7  2015 values.xml
+-rwxrwxrwx 1 alex alex 1,9K feb  7  2015 values.xml
+-rwxrwxrwx 1 alex alex 1,9K feb  7  2015 values.xml
+-rwxrwxrwx 1 alex alex 1,9K feb  7  2015 values.xml
+-rwxrwxrwx 1 alex alex 1,9K feb  7  2015 values.xml
+-rwxrwxrwx 1 alex alex 1,9K feb  7  2015 values.xml
+-rwxrwxrwx 1 alex alex 1,9K feb  7  2015 values.xml
+-rwxrwxrwx 1 alex alex 1,9K feb  7  2015 values.xml
+-rwxrwxrwx 1 alex alex 1,9K feb  7  2015 values.xml
+-rwxrwxrwx 1 alex alex 1,9K feb  7  2015 values.xml
+-rwxrwxrwx 1 alex alex 1,9K feb  7  2015 values.xml
+-rwxrwxrwx 1 alex alex 1,9K feb  7  2015 values.xml
+-rwxrwxrwx 1 alex alex 1,9K feb  7  2015 values.xml
+-rwxrwxrwx 1 alex alex 1,9K feb  7  2015 values.xml
+-rwxrwxrwx 1 alex alex 1,9K feb  7  2015 values.xml
+-rwxrwxrwx 1 alex alex 1,9K feb  7  2015 values.xml
+-rwxrwxrwx 1 alex alex 1,9K feb  7  2015 values.xml
+-rwxrwxrwx 1 alex alex 1,9K feb  7  2015 values.xml
+-rwxrwxrwx 1 alex alex 1,9K feb  7  2015 values.xml
+-rwxrwxrwx 1 alex alex 1,9K feb  7  2015 values.xml
+-rwxrwxrwx 1 alex alex 1,9K feb  7  2015 values.xml
+-rwxrwxrwx 1 alex alex 1,9K feb  7  2015 values.xml
+-rwxrwxrwx 1 alex alex 1,9K feb  7  2015 values.xml
+-rwxrwxrwx 1 alex alex 1,9K feb  7  2015 values.xml
+-rwxrwxrwx 1 alex alex 1,9K feb  7  2015 values.xml
+-rwxrwxrwx 1 alex alex 1,9K feb  7  2015 values.xml
+-rwxrwxrwx 1 alex alex 1,9K feb  7  2015 values.xml
+-rwxrwxrwx 1 alex alex 1,9K feb  7  2015 values.xml
+-rwxrwxrwx 1 alex alex 1,9K feb  7  2015 values.xml
+-rwxrwxrwx 1 alex alex 1,9K feb  7  2015 values.xml
+-rwxrwxrwx 1 alex alex 1,9K feb  7  2015 values.xml
+-rwxrwxrwx 1 alex alex 1,9K feb  7  2015 values.xml
+-rwxrwxrwx 1 alex alex 1,9K feb  7  2015 values.xml
+-rwxrwxrwx 1 alex alex 1,9K feb  7  2015 values.xml
+-rwxrwxrwx 1 alex alex 1,9K feb  7  2015 values.xml
+-rwxrwxrwx 1 alex alex 1,9K feb  7  2015 values.xml
+-rwxrwxrwx 1 alex alex 1,9K feb  7  2015 values.xml
+-rwxrwxrwx 1 alex alex 1,9K feb  7  2015 values.xml
+-rwxrwxrwx 1 alex alex 1,9K feb  7  2015 values.xml
+-rwxrwxrwx 1 alex alex 1,9K avg  4  2014 Lab4.py
+-rwxrwxrwx 2 alex alex 1,8M sep 10 22:56 01_02-What you should know.mp4
+-rwxrwxrwx 2 alex alex 1,8M okt 28  2015 013 13. Challenge - find a good colorscheme.mp4
+-rwxrwxrwx 2 alex alex 1,8M feb  7  2015 app-debug-unaligned.apk
+-rwxrwxrwx 2 alex alex 1,8M feb  7  2015 app-debug.apk
+-rwxrwxrwx 2 alex alex 1,8K feb  7  2015 manifest-merger-debug-report.txt
+-rwxrwxrwx 2 alex alex 1,8K feb  7  2015 abc_popup_background_mtrl_mult.9.png
+-rwxrwxrwx 2 alex alex 1,8K feb  7  2015 abc_btn_radio_to_on_mtrl_015.png
+-rwxrwxrwx 2 alex alex 1,8K feb  7  2015 abc_btn_radio_to_on_mtrl_000.png
+-rwxrwxrwx 2 alex alex 1,8K feb  7  2015 abc_action_bar_title_item.xml
+-rwxrwxrwx 1 alex alex 1,8K feb  7  2015 values.xml
+-rwxrwxrwx 1 alex alex 1,8K feb  7  2015 values.xml
+-rwxrwxrwx 1 alex alex 1,8K feb  7  2015 values.xml
+-rwxrwxrwx 1 alex alex 1,8K feb  7  2015 values.xml
+-rwxrwxrwx 1 alex alex 1,8K feb  7  2015 values.xml
+-rwxrwxrwx 1 alex alex 1,8K feb  7  2015 values.xml
+-rwxrwxrwx 1 alex alex 1,8K feb  7  2015 values.xml
+-rwxrwxrwx 1 alex alex 1,8K feb  7  2015 values.xml
+-rwxrwxrwx 1 alex alex 1,8K feb  7  2015 values.xml
+-rwxrwxrwx 1 alex alex 1,8K feb  7  2015 values.xml
+-rwxrwxrwx 1 alex alex 1,8K feb  7  2015 values.xml
+-rwxrwxrwx 1 alex alex 1,8K feb  7  2015 values.xml
+-rwxrwxrwx 1 alex alex 1,8K feb  7  2015 values.xml
+-rwxrwxrwx 1 alex alex 1,8K feb  7  2015 values.xml
+-rwxrwxrwx 1 alex alex 1,8K feb  7  2015 values.xml
+-rwxrwxrwx 1 alex alex 1,8K avg  4  2014 temp.pal
+-rwxrwxrwx 1 alex alex 1,8K avg  4  2014 temp.pal
+-rwxrwxrwx 2 alex alex 1,7K feb  7  2015 R$layout.class
+-rwxrwxrwx 2 alex alex 1,7K feb  7  2015 abc_screen_simple_overlay_action_mode.xml
+-rwxrwxrwx 2 alex alex 1,7K feb  7  2015 abc_edit_text_material.xml
+-rwxrwxrwx 1 alex alex 1,7K sep 10 23:22 9-files.zip
+-rwxrwxrwx 1 alex alex 1,7K feb  7  2015 values.xml
+-rwxrwxrwx 1 alex alex 1,7K feb  7  2015 values.xml
+-rwxrwxrwx 1 alex alex 1,7K feb  7  2015 values.xml
+-rwxrwxrwx 1 alex alex 1,7K feb  7  2015 values.xml
+-rwxrwxrwx 1 alex alex 1,7K feb  7  2015 values.xml
+-rwxrwxrwx 1 alex alex 1,7K feb  7  2015 values.xml
+-rwxrwxrwx 1 alex alex 1,7K feb  7  2015 values.xml
+-rwxrwxrwx 1 alex alex 1,7K feb  7  2015 values.xml
+-rwxrwxrwx 1 alex alex 1,7K feb  7  2015 values.xml
+-rwxrwxrwx 1 alex alex 1,7K feb  7  2015 values.xml
+-rwxrwxrwx 1 alex alex 1,7K feb  7  2015 values.xml
+-rwxrwxrwx 1 alex alex 1,7K feb  7  2015 values.xml
+-rwxrwxrwx 1 alex alex 1,7K feb  7  2015 values.xml
+-rwxrwxrwx 1 alex alex 1,7K feb  7  2015 values.xml
+-rwxrwxrwx 1 alex alex 1,7K feb  7  2015 values.xml
+-rwxrwxrwx 1 alex alex 1,7K feb  7  2015 values.xml
+-rwxrwxrwx 1 alex alex 1,7K feb  7  2015 values.xml
+-rwxrwxrwx 1 alex alex 1,7K feb  7  2015 values.xml
+-rwxrwxrwx 1 alex alex 1,7K feb  7  2015 values.xml
+-rwxrwxrwx 1 alex alex 1,7K feb  7  2015 values.xml
+-rwxrwxrwx 1 alex alex 1,7K feb  7  2015 values.xml
+-rwxrwxrwx 1 alex alex 1,7K feb  7  2015 values.xml
+-rwxrwxrwx 1 alex alex 1,7K feb  7  2015 values.xml
+-rwxrwxrwx 1 alex alex 1,7K feb  7  2015 values.xml
+-rwxrwxrwx 1 alex alex 1,7K feb  7  2015 values.xml
+-rwxrwxrwx 1 alex alex 1,7K feb  7  2015 values.xml
+-rwxrwxrwx 1 alex alex 1,7K feb  7  2015 values.xml
+-rwxrwxrwx 1 alex alex 1,7K feb  7  2015 values.xml
+-rwxrwxrwx 1 alex alex 1,7K feb  7  2015 values.xml
+-rwxrwxrwx 1 alex alex 1,7K feb  7  2015 values.xml
+-rwxrwxrwx 1 alex alex 1,7K feb  7  2015 values.xml
+-rwxrwxrwx 1 alex alex 1,7K feb  7  2015 values.xml
+-rwxrwxrwx 1 alex alex 1,7K feb  7  2015 values.xml
+-rwxrwxrwx 1 alex alex 1,7K feb  7  2015 values.xml
+-rwxrwxrwx 1 alex alex 1,7K feb  7  2015 values.xml
+-rwxrwxrwx 1 alex alex 1,7K feb  7  2015 values.xml
+-rwxrwxrwx 1 alex alex 1,7K feb  7  2015 values.xml
+-rwxrwxrwx 1 alex alex 1,7K apr 12 18:26 005 Course FAQs.html
+-rwxrwxrwx 2 alex alex 1,6M sep 10 22:46 144203_00_04_XR15_iestinks.mp4
+-rwxrwxrwx 2 alex alex 1,6K feb  7  2015 support-annotations-21.0.3-45518f261bb815b506f4dba12a02ad268165fbc1.jar
+-rwxrwxrwx 2 alex alex 1,6K feb  7  2015 R$layout.class
+-rwxrwxrwx 2 alex alex 1,6K feb  7  2015 abc_spinner_mtrl_am_alpha.9.png
+-rwxrwxrwx 2 alex alex 1,6K feb  7  2015 abc_screen_simple.xml
+-rwxrwxrwx 2 alex alex 1,6K feb  7  2015 abc_action_menu_item_layout.xml
+-rwxrwxrwx 2 alex alex 1,6K feb  7  2015 abc_action_bar_title_item.xml
+-rwxrwxrwx 1 alex alex 1,6K feb  7  2015 values.xml
+-rwxrwxrwx 1 alex alex 1,6K feb  7  2015 values.xml
+-rwxrwxrwx 1 alex alex 1,6K avg  4  2014 main.py
+-rwxrwxrwx 1 alex alex 1,6K apr 12 18:41 020 Resources for More Basic Practice.html
+-rwxrwxrwx 1 alex alex 1,6K apr 12 18:34 003 Create your own Python modules..html
+-rwxrwxrwx 2 alex alex 1,5M sep 10 22:54 144203_00_03_XR15_exfiles.mp4
+-rwxrwxrwx 2 alex alex 1,5K feb  7  2015 R$string.class
+-rwxrwxrwx 2 alex alex 1,5K feb  7  2015 abc_screen_simple_overlay_action_mode.xml
+-rwxrwxrwx 2 alex alex 1,5K feb  7  2015 abc_menu_hardkey_panel_mtrl_mult.9.png
+-rwxrwxrwx 2 alex alex 1,5K feb  7  2015 abc_ic_search_api_mtrl_alpha.png
+-rwxrwxrwx 2 alex alex 1,5K feb  7  2015 abc_ic_ab_back_mtrl_am_alpha.png
+-rwxrwxrwx 2 alex alex 1,5K feb  7  2015 abc_edit_text_material.xml
+-rwxrwxrwx 2 alex alex 1,5K feb  7  2015 abc_btn_radio_to_on_mtrl_015.png
+-rwxrwxrwx 2 alex alex 1,5K feb  7  2015 abc_btn_radio_to_on_mtrl_000.png
+-rwxrwxrwx 1 alex alex 1,5K avg  4  2014 Ship.py
+-rwxrwxrwx 2 alex alex 1,4K feb  7  2015 abc_textfield_search_material.xml
+-rwxrwxrwx 2 alex alex 1,4K feb  7  2015 abc_screen_simple.xml
+-rwxrwxrwx 2 alex alex 1,4K feb  7  2015 abc_list_menu_item_icon.xml
+-rwxrwxrwx 2 alex alex 1,4K feb  7  2015 abc_ic_search_api_mtrl_alpha.png
+-rwxrwxrwx 2 alex alex 1,4K feb  7  2015 abc_btn_switch_to_on_mtrl_00012.9.png
+-rwxrwxrwx 2 alex alex 1,4K feb  7  2015 abc_btn_switch_to_on_mtrl_00001.9.png
+-rwxrwxrwx 2 alex alex 1,4K feb  7  2015 abc_btn_radio_to_on_mtrl_015.png
+-rwxrwxrwx 2 alex alex 1,4K feb  7  2015 abc_action_mode_close_item_material.xml
+-rwxrwxrwx 2 alex alex 1,4K feb  7  2015 abc_action_menu_item_layout.xml
+-rwxrwxrwx 1 alex alex 1,4K apr 12 18:26 002 Quick Note on Jupyter Notebooks.html
+-rwxrwxrwx 2 alex alex 1,3M sep 10 22:54 144203_06_02_XR15_jquery1.m4a
+-rwxrwxrwx 2 alex alex 1,3M feb  7  2015 resources-debug.ap_
+-rwxrwxrwx 2 alex alex 1,3K feb  7  2015 support_simple_spinner_dropdown_item.xml
+-rwxrwxrwx 2 alex alex 1,3K feb  7  2015 R$string.class
+-rwxrwxrwx 2 alex alex 1,3K feb  7  2015 MainActivity$2.class
+-rwxrwxrwx 2 alex alex 1,3K feb  7  2015 INotificationSideChannel.aidl
+-rwxrwxrwx 2 alex alex 1,3K feb  7  2015 abc_screen_content_include.xml
+-rwxrwxrwx 2 alex alex 1,3K feb  7  2015 abc_screen_content_include.xml
+-rwxrwxrwx 2 alex alex 1,3K feb  7  2015 abc_popup_background_mtrl_mult.9.png
+-rwxrwxrwx 2 alex alex 1,3K feb  7  2015 abc_popup_background_mtrl_mult.9.png
+-rwxrwxrwx 2 alex alex 1,3K feb  7  2015 abc_list_menu_item_radio.xml
+-rwxrwxrwx 2 alex alex 1,3K feb  7  2015 abc_list_menu_item_checkbox.xml
+-rwxrwxrwx 2 alex alex 1,3K feb  7  2015 abc_ic_voice_search_api_mtrl_alpha.png
+-rwxrwxrwx 2 alex alex 1,3K feb  7  2015 abc_ic_menu_share_mtrl_alpha.png
+-rwxrwxrwx 2 alex alex 1,3K feb  7  2015 abc_ic_menu_cut_mtrl_alpha.png
+-rwxrwxrwx 2 alex alex 1,3K feb  7  2015 abc_btn_radio_to_on_mtrl_000.png
+-rwxrwxrwx 2 alex alex 1,3K feb  7  2015 abc_activity_chooser_view.xml
+-rwxrwxrwx 2 alex alex 1,3K feb  7  2015 abc_action_menu_layout.xml
+-rwxrwxrwx 2 alex alex 1,3K feb  7  2015 abc_action_bar_view_list_nav_layout.xml
+-rwxrwxrwx 1 alex alex 1,3M sep 11 00:15 10-files.zip
+-rwxrwxrwx 1 alex alex 1,3K sep 10 23:22 Info.txt
+-rwxrwxrwx 1 alex alex 1,3K sep 10 23:22 1-files.zip
+-rwxrwxrwx 1 alex alex 1,3K apr 12 18:21 001 Bonus Offers.html
+-rwxrwxrwx 2 alex alex 1,2M sep 10 22:29 144203_00_02_XR15_know.mp4
+-rwxrwxrwx 2 alex alex 1,2K feb  7  2015 R.class
+-rwxrwxrwx 2 alex alex 1,2K feb  7  2015 abc_textfield_search_material.xml
+-rwxrwxrwx 2 alex alex 1,2K feb  7  2015 abc_switch_thumb_material.xml
+-rwxrwxrwx 2 alex alex 1,2K feb  7  2015 abc_slide_out_top.xml
+-rwxrwxrwx 2 alex alex 1,2K feb  7  2015 abc_slide_out_bottom.xml
+-rwxrwxrwx 2 alex alex 1,2K feb  7  2015 abc_slide_in_top.xml
+-rwxrwxrwx 2 alex alex 1,2K feb  7  2015 abc_slide_in_bottom.xml
+-rwxrwxrwx 2 alex alex 1,2K feb  7  2015 abc_simple_dropdown_hint.xml
+-rwxrwxrwx 2 alex alex 1,2K feb  7  2015 abc_secondary_text_material_light.xml
+-rwxrwxrwx 2 alex alex 1,2K feb  7  2015 abc_secondary_text_material_dark.xml
+-rwxrwxrwx 2 alex alex 1,2K feb  7  2015 abc_search_url_text.xml
+-rwxrwxrwx 2 alex alex 1,2K feb  7  2015 abc_primary_text_material_light.xml
+-rwxrwxrwx 2 alex alex 1,2K feb  7  2015 abc_primary_text_material_dark.xml
+-rwxrwxrwx 2 alex alex 1,2K feb  7  2015 abc_primary_text_disable_only_material_light.xml
+-rwxrwxrwx 2 alex alex 1,2K feb  7  2015 abc_primary_text_disable_only_material_dark.xml
+-rwxrwxrwx 2 alex alex 1,2K feb  7  2015 abc_menu_hardkey_panel_mtrl_mult.9.png
+-rwxrwxrwx 2 alex alex 1,2K feb  7  2015 abc_list_menu_item_icon.xml
+-rwxrwxrwx 2 alex alex 1,2K feb  7  2015 abc_ic_search_api_mtrl_alpha.png
+-rwxrwxrwx 2 alex alex 1,2K feb  7  2015 abc_ic_search_api_mtrl_alpha.png
+-rwxrwxrwx 2 alex alex 1,2K feb  7  2015 abc_ic_menu_share_mtrl_alpha.png
+-rwxrwxrwx 2 alex alex 1,2K feb  7  2015 abc_ic_menu_cut_mtrl_alpha.png
+-rwxrwxrwx 2 alex alex 1,2K feb  7  2015 abc_ic_menu_cut_mtrl_alpha.png
+-rwxrwxrwx 2 alex alex 1,2K feb  7  2015 abc_expanded_menu_layout.xml
+-rwxrwxrwx 2 alex alex 1,2K feb  7  2015 abc_cab_background_top_material.xml
+-rwxrwxrwx 2 alex alex 1,2K feb  7  2015 abc_cab_background_internal_bg.xml
+-rwxrwxrwx 2 alex alex 1,2K feb  7  2015 abc_btn_radio_to_on_mtrl_015.png
+-rwxrwxrwx 2 alex alex 1,2K feb  7  2015 abc_btn_radio_to_on_mtrl_000.png
+-rwxrwxrwx 2 alex alex 1,2K feb  7  2015 abc_btn_check_to_on_mtrl_015.png
+-rwxrwxrwx 2 alex alex 1,2K feb  7  2015 abc_action_mode_close_item_material.xml
+-rwxrwxrwx 2 alex alex 1,2K feb  7  2015 abc_action_mode_bar.xml
+-rwxrwxrwx 2 alex alex 1,2K feb  7  2015 abc_action_bar_up_container.xml
+-rwxrwxrwx 1 alex alex 1,2K avg  4  2014 Lab3.py
+-rwxrwxrwx 1 alex alex 1,2K apr 12 18:37 001 Milestone Project 1 Section.html
+-rwxrwxrwx 1 alex alex 1,2K apr 12 18:34 001 Python 3 Notes for Map, Reduce, and Filter.html
+-rwxrwxrwx 1 alex alex 1,2K apr 12 18:23 013 Dictionaries - FAQ.html
+-rwxrwxrwx 2 alex alex 1,1K feb  7  2015 MainActivity$1.class
+-rwxrwxrwx 2 alex alex 1,1K feb  7  2015 abc_tab_indicator_material.xml
+-rwxrwxrwx 2 alex alex 1,1K feb  7  2015 abc_switch_track_mtrl_alpha.9.png
+-rwxrwxrwx 2 alex alex 1,1K feb  7  2015 abc_switch_track_mtrl_alpha.9.png
+-rwxrwxrwx 2 alex alex 1,1K feb  7  2015 abc_switch_track_mtrl_alpha.9.png
+-rwxrwxrwx 2 alex alex 1,1K feb  7  2015 abc_simple_dropdown_hint.xml
+-rwxrwxrwx 2 alex alex 1,1K feb  7  2015 abc_screen_content_include.xml
+-rwxrwxrwx 2 alex alex 1,1K feb  7  2015 abc_screen_content_include.xml
+-rwxrwxrwx 2 alex alex 1,1K feb  7  2015 abc_list_selector_background_transition_holo_light.xml
+-rwxrwxrwx 2 alex alex 1,1K feb  7  2015 abc_list_selector_background_transition_holo_dark.xml
+-rwxrwxrwx 2 alex alex 1,1K feb  7  2015 abc_list_pressed_holo_light.9.png
+-rwxrwxrwx 2 alex alex 1,1K feb  7  2015 abc_list_pressed_holo_dark.9.png
+-rwxrwxrwx 2 alex alex 1,1K feb  7  2015 abc_list_menu_item_radio.xml
+-rwxrwxrwx 2 alex alex 1,1K feb  7  2015 abc_list_menu_item_checkbox.xml
+-rwxrwxrwx 2 alex alex 1,1K feb  7  2015 abc_list_longpressed_holo.9.png
+-rwxrwxrwx 2 alex alex 1,1K feb  7  2015 abc_list_focused_holo.9.png
+-rwxrwxrwx 2 alex alex 1,1K feb  7  2015 abc_ic_menu_cut_mtrl_alpha.png
+-rwxrwxrwx 2 alex alex 1,1K feb  7  2015 abc_ic_menu_cut_mtrl_alpha.png
+-rwxrwxrwx 2 alex alex 1,1K feb  7  2015 abc_fade_out.xml
+-rwxrwxrwx 2 alex alex 1,1K feb  7  2015 abc_fade_in.xml
+-rwxrwxrwx 2 alex alex 1,1K feb  7  2015 abc_btn_radio_to_on_mtrl_015.png
+-rwxrwxrwx 2 alex alex 1,1K feb  7  2015 abc_btn_radio_material.xml
+-rwxrwxrwx 2 alex alex 1,1K feb  7  2015 abc_btn_check_material.xml
+-rwxrwxrwx 2 alex alex 1,1K feb  7  2015 abc_background_cache_hint_selector_material_light.xml
+-rwxrwxrwx 2 alex alex 1,1K feb  7  2015 abc_background_cache_hint_selector_material_dark.xml
+-rwxrwxrwx 2 alex alex 1,1K feb  7  2015 abc_activity_chooser_view.xml
+-rwxrwxrwx 2 alex alex 1,1K feb  7  2015 abc_action_menu_layout.xml
+-rwxrwxrwx 2 alex alex 1,1K feb  7  2015 abc_action_bar_view_list_nav_layout.xml
+-rwxrwxrwx 1 alex alex 1,1K feb  7  2015 values.xml
+-rwxrwxrwx 1 alex alex 1,1K apr 12 18:35 002 Numbers - FAQ.html
+-rwxrwxrwx 1 alex alex 1,1K apr 12 18:24 009 Lists - FAQ.html
+-rwxrwxrwx 1 alex alex    0 sep 18 12:27 searchResult.txt

@@ -1,0 +1,832 @@
+./An Introduction to Node.js/1-Introduction/lesson_01.mp4
+./An Introduction to Node.js/1-Introduction/lesson_02.mp4
+./An Introduction to Node.js/2-Node.js/lesson_03.mp4
+./An Introduction to Node.js/2-Node.js/lesson_04.mp4
+./An Introduction to Node.js/2-Node.js/lesson_05.mp4
+./An Introduction to Node.js/2-Node.js/lesson_06.mp4
+./An Introduction to Node.js/2-Node.js/lesson_07.mp4
+./An Introduction to Node.js/2-Node.js/lesson_08.mp4
+./An Introduction to Node.js/2-Node.js/lesson_09.mp4
+./An Introduction to Node.js/2-Node.js/lesson_10.mp4
+./An Introduction to Node.js/2-Node.js/lesson_11.mp4
+./An Introduction to Node.js/2-Node.js/lesson_12.mp4
+./An Introduction to Node.js/2-Node.js/lesson_13.mp4
+./An Introduction to Node.js/2-Node.js/lesson_14.mp4
+./An Introduction to Node.js/3-Conclusion/lesson_15.mp4
+./Complete Linux Shell Training for Beginners/1 - Introduction to Shell/Sanet.me_BasicDirectoriesCommandsRESIZED.mp4
+./Complete Linux Shell Training for Beginners/1 - Introduction to Shell/Sanet.me_ChangingFilePermissionsRESIZED.mp4
+./Complete Linux Shell Training for Beginners/1 - Introduction to Shell/Sanet.me_FileListinginShellRESIZED.mp4
+./Complete Linux Shell Training for Beginners/1 - Introduction to Shell/Sanet.me_FilePermissionsRESIZED.mp4
+./Complete Linux Shell Training for Beginners/1 - Introduction to Shell/Sanet.me_StartingwithTerminalRESIZED.mp4
+./Complete Linux Shell Training for Beginners/2 - Directories, Wilcards and More/Sanet.me_File Operations.mp4
+./Complete Linux Shell Training for Beginners/2 - Directories, Wilcards and More/Sanet.me_Making and Removing Directories.mp4
+./Complete Linux Shell Training for Beginners/2 - Directories, Wilcards and More/Sanet.me_Redirection and Piping.mp4
+./Complete Linux Shell Training for Beginners/2 - Directories, Wilcards and More/Sanet.me_Removing Non Empty Directories.mp4
+./Complete Linux Shell Training for Beginners/2 - Directories, Wilcards and More/Sanet.me_Usage of Wildcards.mp4
+./Complete Linux Shell Training for Beginners/3 - Exploring Shell Environment/Sanet.me_Intro to Variables.mp4
+./Complete Linux Shell Training for Beginners/3 - Exploring Shell Environment/Sanet.me_Removing the ._ Resolution.mp4
+./Complete Linux Shell Training for Beginners/3 - Exploring Shell Environment/Sanet.me_Running Scripts in the Current Open Shell.mp4
+./Complete Linux Shell Training for Beginners/3 - Exploring Shell Environment/Sanet.me_Saving Shell State in .bashrc.mp4
+./Complete Linux Shell Training for Beginners/3 - Exploring Shell Environment/Sanet.me_Writing and Running a Hello World Script.mp4
+./Complete Linux Shell Training for Beginners/4 - Shell Commands/Sanet.me_Command Line Arguments.mp4
+./Complete Linux Shell Training for Beginners/4 - Shell Commands/Sanet.me_Exit Status of Shell Commands.mp4
+./Complete Linux Shell Training for Beginners/4 - Shell Commands/Sanet.me_Guessing Game.mp4
+./Complete Linux Shell Training for Beginners/4 - Shell Commands/Sanet.me_Loops.mp4
+./Complete Linux Shell Training for Beginners/4 - Shell Commands/Sanet.me_Tests and the if Statement.mp4
+./Complete Linux Shell Training for Beginners/4 - Shell Commands/Sanet.me_The Case Statement.mp4
+./Complete Linux Shell Training for Beginners/5 - Regex with Grep and Sed/Sanet.me_Example Of Validating E-mail Addresses.mp4
+./Complete Linux Shell Training for Beginners/5 - Regex with Grep and Sed/Sanet.me_Example Of Validating US Phone Numbers.mp4
+./Complete Linux Shell Training for Beginners/5 - Regex with Grep and Sed/Sanet.me_Intro to Regex.mp4
+./Complete Linux Shell Training for Beginners/5 - Regex with Grep and Sed/Sanet.me_Learn Switches  - -i, -v, -c.mp4
+./Complete Linux Shell Training for Beginners/5 - Regex with Grep and Sed/Sanet.me_Meta Characters In Regular Expressions.mp4
+./Complete Linux Shell Training for Beginners/5 - Regex with Grep and Sed/Sanet.me_More on Switches  - -l, -L, -n, -h.mp4
+./Complete Linux Shell Training for Beginners/5 - Regex with Grep and Sed/Sanet.me_Other Command Line Switches.mp4
+./Complete Linux Shell Training for Beginners/5 - Regex with Grep and Sed/Sanet.me_Piping Other Commands To Grep.mp4
+./Complete Linux Shell Training for Beginners/6 - Intro to Sed/Sanet.me_Address Notation.mp4
+./Complete Linux Shell Training for Beginners/6 - Intro to Sed/Sanet.me_Other Commands And Scripting Sed.mp4
+./Complete Linux Shell Training for Beginners/6 - Intro to Sed/Sanet.me_Printing Line Numbers With The = Command.mp4
+./Complete Linux Shell Training for Beginners/6 - Intro to Sed/Sanet.me_Sed Introduction.mp4
+./Complete Linux Shell Training for Beginners/6 - Intro to Sed/Sanet.me_Suppressing Output With -n, And Back Expressions.mp4
+./Course 1 - HTML CSS Javascript/Week 1 - HTML & CSS/Lesson 1 - Welcome/1 - Introduction to the Course.mp4
+./Course 1 - HTML CSS Javascript/Week 1 - HTML & CSS/Lesson 1 - Welcome/2 - Full Stack Web Development Specialization.mp4
+./Course 1 - HTML CSS Javascript/Week 1 - HTML & CSS/Lesson 1 - Welcome/4 - Learning About HTML.mp4
+./Course 1 - HTML CSS Javascript/Week 1 - HTML & CSS/Lesson 2 - The Basics of HTML/1 - About HTML.mp4
+./Course 1 - HTML CSS Javascript/Week 1 - HTML & CSS/Lesson 2 - The Basics of HTML/2 - Getting to Know HTML.mp4
+./Course 1 - HTML CSS Javascript/Week 1 - HTML & CSS/Lesson 2 - The Basics of HTML/3 - Using a Code Editor For HTML.mp4
+./Course 1 - HTML CSS Javascript/Week 1 - HTML & CSS/Lesson 2 - The Basics of HTML/4 - Some Common HTML Elements.mp4
+./Course 1 - HTML CSS Javascript/Week 1 - HTML & CSS/Lesson 2 - The Basics of HTML/5 - Formatting HTML Text.mp4
+./Course 1 - HTML CSS Javascript/Week 1 - HTML & CSS/Lesson 3 - Multimedia/1 - Images.mp4
+./Course 1 - HTML CSS Javascript/Week 1 - HTML & CSS/Lesson 3 - Multimedia/2 - Audio.mp4
+./Course 1 - HTML CSS Javascript/Week 1 - HTML & CSS/Lesson 3 - Multimedia/3 - Video.mp4
+./Course 1 - HTML CSS Javascript/Week 1 - HTML & CSS/Lesson 4 - Strengthening Your Knowledge of HTML/1 - Links.mp4
+./Course 1 - HTML CSS Javascript/Week 1 - HTML & CSS/Lesson 4 - Strengthening Your Knowledge of HTML/2 - Void Elements & Breaks.mp4
+./Course 1 - HTML CSS Javascript/Week 1 - HTML & CSS/Lesson 4 - Strengthening Your Knowledge of HTML/3 - Style.mp4
+./Course 1 - HTML CSS Javascript/Week 1 - HTML & CSS/Lesson 4 - Strengthening Your Knowledge of HTML/4 - More on Style.mp4
+./Course 1 - HTML CSS Javascript/Week 1 - HTML & CSS/Lesson 4 - Strengthening Your Knowledge of HTML/5 - Tables.mp4
+./Course 1 - HTML CSS Javascript/Week 1 - HTML & CSS/Lesson 4 - Strengthening Your Knowledge of HTML/6 - Div and Span.mp4
+./Course 1 - HTML CSS Javascript/Week 1 - HTML & CSS/Lesson 5 - Handling Forms/1 - HTML Form Basics.mp4
+./Course 1 - HTML CSS Javascript/Week 1 - HTML & CSS/Lesson 5 - Handling Forms/2 - More on Forms.mp4
+./Course 1 - HTML CSS Javascript/Week 1 - HTML & CSS/Lesson 5 - Handling Forms/3 - Handling File Upload.mp4
+./Course 1 - HTML CSS Javascript/Week 1 - HTML & CSS/Lesson 5 - Handling Forms/4 - Some New HTML5 Input Elements.mp4
+./Course 1 - HTML CSS Javascript/Week 1 - HTML & CSS/Lesson 6 - Grouping/1 - Element Grouping.mp4
+./Course 1 - HTML CSS Javascript/Week 1 - HTML & CSS/Lesson 8 - HTML & CSS - Assessment Task/1 - HTML & CSS - Assessment.mp4
+./Course 1 - HTML CSS Javascript/Week 2 - Introduction to JavaScript/Lesson 1 - Learning JavaScript in This Course/2 - Learning JavaScript.mp4
+./Course 1 - HTML CSS Javascript/Week 2 - Introduction to JavaScript/Lesson 2 - Introduction to JavaScript/1 - About JavaScript.mp4
+./Course 1 - HTML CSS Javascript/Week 2 - Introduction to JavaScript/Lesson 2 - Introduction to JavaScript/2 - Getting To Know JavaScript.mp4
+./Course 1 - HTML CSS Javascript/Week 2 - Introduction to JavaScript/Lesson 2 - Introduction to JavaScript/3 - Using A Code Editor For JavaScript.mp4
+./Course 1 - HTML CSS Javascript/Week 2 - Introduction to JavaScript/Lesson 3 - Basics of JavaScript/1 - Variables.mp4
+./Course 1 - HTML CSS Javascript/Week 2 - Introduction to JavaScript/Lesson 3 - Basics of JavaScript/2 - Introduction to Events and Functions.mp4
+./Course 1 - HTML CSS Javascript/Week 2 - Introduction to JavaScript/Lesson 3 - Basics of JavaScript/3 - Handling Bugs.mp4
+./Course 1 - HTML CSS Javascript/Week 2 - Introduction to JavaScript/Lesson 4 - Decisions and Loops/1 - Making Decisions.mp4
+./Course 1 - HTML CSS Javascript/Week 2 - Introduction to JavaScript/Lesson 4 - Decisions and Loops/2 - While Loops.mp4
+./Course 1 - HTML CSS Javascript/Week 2 - Introduction to JavaScript/Lesson 5 - Handling Data/1 - More on Variables.mp4
+./Course 1 - HTML CSS Javascript/Week 2 - Introduction to JavaScript/Lesson 5 - Handling Data/2 - Logical Operators.mp4
+./Course 1 - HTML CSS Javascript/Week 2 - Introduction to JavaScript/Lesson 5 - Handling Data/3 - Arrays.mp4
+./Course 1 - HTML CSS Javascript/Week 2 - Introduction to JavaScript/Lesson 6 - Generating Random Numbers/1 - Generating Random Numbers.mp4
+./Course 1 - HTML CSS Javascript/Week 2 - Introduction to JavaScript/Lesson 7 - An Example JavaScript Project - Guessing Game/1 - An Example JavaScript Project.mp4
+./Course 1 - HTML CSS Javascript/Week 2 - Introduction to JavaScript/Lesson 9 - Introduction to JavaScript - Assessment Task/1 - Introduction to JavaScript - Assessment.mp4
+./Course 1 - HTML CSS Javascript/Week 3 - Advanced JavaScript/Lesson 10 - End of the Course Message/1 - Concluding Message.mp4
+./Course 1 - HTML CSS Javascript/Week 3 - Advanced JavaScript/Lesson 2 - More on Loops/1 - For Loops.mp4
+./Course 1 - HTML CSS Javascript/Week 3 - Advanced JavaScript/Lesson 2 - More on Loops/2 - Loop Control.mp4
+./Course 1 - HTML CSS Javascript/Week 3 - Advanced JavaScript/Lesson 3 - More on Arrays/1 - More On Arrays.mp4
+./Course 1 - HTML CSS Javascript/Week 3 - Advanced JavaScript/Lesson 3 - More on Arrays/2 - Array Functions.mp4
+./Course 1 - HTML CSS Javascript/Week 3 - Advanced JavaScript/Lesson 4 - The DOM (Document Object Model)/1 - The DOM - Basic Concepts.mp4
+./Course 1 - HTML CSS Javascript/Week 3 - Advanced JavaScript/Lesson 4 - The DOM (Document Object Model)/2 - Node Relationships.mp4
+./Course 1 - HTML CSS Javascript/Week 3 - Advanced JavaScript/Lesson 4 - The DOM (Document Object Model)/3 - Locating Nodes.mp4
+./Course 1 - HTML CSS Javascript/Week 3 - Advanced JavaScript/Lesson 4 - The DOM (Document Object Model)/4 - Creating and Adding Nodes.mp4
+./Course 1 - HTML CSS Javascript/Week 3 - Advanced JavaScript/Lesson 4 - The DOM (Document Object Model)/5 - Deleting Nodes.mp4
+./Course 1 - HTML CSS Javascript/Week 3 - Advanced JavaScript/Lesson 4 - The DOM (Document Object Model)/6 - Cloning Nodes.mp4
+./Course 1 - HTML CSS Javascript/Week 3 - Advanced JavaScript/Lesson 5 - More on Events/1 - Mouse Events.mp4
+./Course 1 - HTML CSS Javascript/Week 3 - Advanced JavaScript/Lesson 5 - More on Events/2 - Timer Events.mp4
+./Course 1 - HTML CSS Javascript/Week 3 - Advanced JavaScript/Lesson 5 - More on Events/3 - Adding Events Using JavaScript.mp4
+./Course 1 - HTML CSS Javascript/Week 3 - Advanced JavaScript/Lesson 6 - Advanced Use of Functions/1 - More on Functions.mp4
+./Course 1 - HTML CSS Javascript/Week 3 - Advanced JavaScript/Lesson 7 - An Example DOM Project/1 - An Example DOM Project.mp4
+./Course 1 - HTML CSS Javascript/Week 3 - Advanced JavaScript/Lesson 9 - Advanced JavaScript - Assessment Task/1 - Walkthrough Video for Matching Game.mp4
+./HTML5 Game from scratch step by step learning JavaScript/017 HTML5 Game random enemy creation.mp4
+./HTML5 Game from scratch step by step learning JavaScript/001 HTML5 Game Course Introduction.mp4
+./HTML5 Game from scratch step by step learning JavaScript/003 Setup HTML5 Game template.mp4
+./HTML5 Game from scratch step by step learning JavaScript/004 HTML5 Game connect canvas to Javascript.mp4
+./HTML5 Game from scratch step by step learning JavaScript/006 HTML5 Game Use JavaScript to create canvas.mp4
+./HTML5 Game from scratch step by step learning JavaScript/008 Setup GameBoard HTML5.mp4
+./HTML5 Game from scratch step by step learning JavaScript/009 HTML5 drawimage selecting image pieces.mp4
+./HTML5 Game from scratch step by step learning JavaScript/011 HTML5 Draw Text setup dynamic variables.mp4
+./HTML5 Game from scratch step by step learning JavaScript/012 HTML5 Game setting event listeners.mp4
+./HTML5 Game from scratch step by step learning JavaScript/013 HTML5 Game active keyboard.mp4
+./HTML5 Game from scratch step by step learning JavaScript/015 HTML5 Game movement.mp4
+./HTML5 Game from scratch step by step learning JavaScript/016 HTML5 Game create an enemy.mp4
+./HTML5 Game from scratch step by step learning JavaScript/018 HTML5 Game enemy moving.mp4
+./HTML5 Game from scratch step by step learning JavaScript/020 HTML5 Game calculation adjustments.mp4
+./HTML5 Game from scratch step by step learning JavaScript/021 HTML5 Game adding powerup pill.mp4
+./HTML5 Game from scratch step by step learning JavaScript/022 HTML5 Game collision detection.mp4
+./HTML5 Game from scratch step by step learning JavaScript/024 HTML5 Game powerup functions.mp4
+./HTML5 Game from scratch step by step learning JavaScript/025 HTML5 Game runaway ghost.mp4
+./HTML5 Game from scratch step by step learning JavaScript/026 HTML5 Game hit test ghost.mp4
+./HTML5 Game from scratch step by step learning JavaScript/028 HTML5 Game tweaking the game.mp4
+./HTML5 Game from scratch step by step learning JavaScript/029 HTML5 Game add a second enemy.mp4
+./Lynda Node Js Essential Training Updated 12 2015 Tutorial/01. Introduction/01_01-Welcome.mp4
+./Lynda Node Js Essential Training Updated 12 2015 Tutorial/01. Introduction/01_02-What you should know.mp4
+./Lynda Node Js Essential Training Updated 12 2015 Tutorial/01. Introduction/01_03-Installing dependencies.mp4
+./Lynda Node Js Essential Training Updated 12 2015 Tutorial/02. What Is Node.js/02_01-Node.js history.mp4
+./Lynda Node Js Essential Training Updated 12 2015 Tutorial/02. What Is Node.js/02_02-How Node.js works.mp4
+./Lynda Node Js Essential Training Updated 12 2015 Tutorial/03. Installing Node.js/03_01-Installing Node.js on a Mac.mp4
+./Lynda Node Js Essential Training Updated 12 2015 Tutorial/03. Installing Node.js/03_02-Installing Node.js on a PC.mp4
+./Lynda Node Js Essential Training Updated 12 2015 Tutorial/04. Node Core/04_01-The global object.mp4
+./Lynda Node Js Essential Training Updated 12 2015 Tutorial/04. Node Core/04_02-Argument variables with process.argv.mp4
+./Lynda Node Js Essential Training Updated 12 2015 Tutorial/04. Node Core/04_03-Standard input and standard output.mp4
+./Lynda Node Js Essential Training Updated 12 2015 Tutorial/04. Node Core/04_04-Global timing functions.mp4
+./Lynda Node Js Essential Training Updated 12 2015 Tutorial/05. Node Modules/05_01-Core modules.mp4
+./Lynda Node Js Essential Training Updated 12 2015 Tutorial/05. Node Modules/05_02-Collecting information with Readline.mp4
+./Lynda Node Js Essential Training Updated 12 2015 Tutorial/05. Node Modules/05_03-Handling events with EventEmitter.mp4
+./Lynda Node Js Essential Training Updated 12 2015 Tutorial/05. Node Modules/05_04-Exporting custom modules.mp4
+./Lynda Node Js Essential Training Updated 12 2015 Tutorial/05. Node Modules/05_05-Creating child process with exec.mp4
+./Lynda Node Js Essential Training Updated 12 2015 Tutorial/05. Node Modules/05_06-Creating child process with spawn.mp4
+./Lynda Node Js Essential Training Updated 12 2015 Tutorial/06. The File System/06_01-Listing directory files.mp4
+./Lynda Node Js Essential Training Updated 12 2015 Tutorial/06. The File System/06_02-Reading files.mp4
+./Lynda Node Js Essential Training Updated 12 2015 Tutorial/06. The File System/06_03-Writing and appending files.mp4
+./Lynda Node Js Essential Training Updated 12 2015 Tutorial/06. The File System/06_04-Directory creation.mp4
+./Lynda Node Js Essential Training Updated 12 2015 Tutorial/06. The File System/06_05-Renaming and removing files.mp4
+./Lynda Node Js Essential Training Updated 12 2015 Tutorial/06. The File System/06_06-Renaming and removing directories.mp4
+./Lynda Node Js Essential Training Updated 12 2015 Tutorial/06. The File System/06_07-Readable file streams.mp4
+./Lynda Node Js Essential Training Updated 12 2015 Tutorial/06. The File System/06_08-Writable file streams.mp4
+./Lynda Node Js Essential Training Updated 12 2015 Tutorial/07. The HTTP Module/07_01-Making a request.mp4
+./Lynda Node Js Essential Training Updated 12 2015 Tutorial/07. The HTTP Module/07_02-Building a web server.mp4
+./Lynda Node Js Essential Training Updated 12 2015 Tutorial/07. The HTTP Module/07_03-Serving files.mp4
+./Lynda Node Js Essential Training Updated 12 2015 Tutorial/07. The HTTP Module/07_04-Serving JSON data.mp4
+./Lynda Node Js Essential Training Updated 12 2015 Tutorial/07. The HTTP Module/07_05-Collecting POST data.mp4
+./Lynda Node Js Essential Training Updated 12 2015 Tutorial/08. Node Package Manager/08_01-Installing npms locally.mp4
+./Lynda Node Js Essential Training Updated 12 2015 Tutorial/08. Node Package Manager/08_02-Installing npms globally on a Mac.mp4
+./Lynda Node Js Essential Training Updated 12 2015 Tutorial/08. Node Package Manager/08_03-Installing npms globally on a PC.mp4
+./Lynda Node Js Essential Training Updated 12 2015 Tutorial/08. Node Package Manager/08_04-File servers with httpster.mp4
+./Lynda Node Js Essential Training Updated 12 2015 Tutorial/09. Web Servers/09_01-The package.json file.mp4
+./Lynda Node Js Essential Training Updated 12 2015 Tutorial/09. Web Servers/09_02-Intro to Express.mp4
+./Lynda Node Js Essential Training Updated 12 2015 Tutorial/09. Web Servers/09_03-Express routing and CORS.mp4
+./Lynda Node Js Essential Training Updated 12 2015 Tutorial/09. Web Servers/09_04-Express post bodies and params.mp4
+./Lynda Node Js Essential Training Updated 12 2015 Tutorial/10. WebSockets/10_01-Creating a WebSocket server.mp4
+./Lynda Node Js Essential Training Updated 12 2015 Tutorial/10. WebSockets/10_02-Broadcasting messages with WebSockets.mp4
+./Lynda Node Js Essential Training Updated 12 2015 Tutorial/10. WebSockets/10_03-Creating WebSockets with Socket.IO.mp4
+./Lynda Node Js Essential Training Updated 12 2015 Tutorial/11. Testing and Debugging/11_01-Testing with mocha and Chai.mp4
+./Lynda Node Js Essential Training Updated 12 2015 Tutorial/11. Testing and Debugging/11_02-Asynchronous mocha testing.mp4
+./Lynda Node Js Essential Training Updated 12 2015 Tutorial/11. Testing and Debugging/11_03-Mocking a server with Nock.mp4
+./Lynda Node Js Essential Training Updated 12 2015 Tutorial/11. Testing and Debugging/11_04-Injecting dependencies with rewire.mp4
+./Lynda Node Js Essential Training Updated 12 2015 Tutorial/11. Testing and Debugging/11_05-Advanced testing Sinon spies.mp4
+./Lynda Node Js Essential Training Updated 12 2015 Tutorial/11. Testing and Debugging/11_06-Advanced testing Sinon stubs.mp4
+./Lynda Node Js Essential Training Updated 12 2015 Tutorial/11. Testing and Debugging/11_07-Code coverage with Istanbul.mp4
+./Lynda Node Js Essential Training Updated 12 2015 Tutorial/11. Testing and Debugging/11_08-Testing HTTP endpoints with Supertest.mp4
+./Lynda Node Js Essential Training Updated 12 2015 Tutorial/11. Testing and Debugging/11_09-Checking server responses with Cheerio.mp4
+./Lynda Node Js Essential Training Updated 12 2015 Tutorial/12. Automation and Deployment/12_01-Hinting your code with Grunt.mp4
+./Lynda Node Js Essential Training Updated 12 2015 Tutorial/12. Automation and Deployment/12_02-Converting LESS to CSS with Grunt.mp4
+./Lynda Node Js Essential Training Updated 12 2015 Tutorial/12. Automation and Deployment/12_03-Bundling client scripts with Browserify.mp4
+./Lynda Node Js Essential Training Updated 12 2015 Tutorial/12. Automation and Deployment/12_04-Rapid development with Grunt Watches.mp4
+./Lynda Node Js Essential Training Updated 12 2015 Tutorial/12. Automation and Deployment/12_05-Automation with npm.mp4
+./Lynda Node Js Essential Training Updated 12 2015 Tutorial/12. Automation and Deployment/12_06-Debugging with npm.mp4
+./Lynda Node Js Essential Training Updated 12 2015 Tutorial/13. Conclusion/13_01-Next steps.mp4
+./Lynda. JavaScript for Web Designers/0. Introduction/144203_00_01_WX301_welcome.mp4
+./Lynda. JavaScript for Web Designers/0. Introduction/144203_00_02_XR15_know.mp4
+./Lynda. JavaScript for Web Designers/0. Introduction/144203_00_03_XR15_exfiles.mp4
+./Lynda. JavaScript for Web Designers/0. Introduction/144203_00_04_XR15_iestinks.mp4
+./Lynda. JavaScript for Web Designers/1. JavaScript in Use/144203_01_01_XR15_whatis.mp4
+./Lynda. JavaScript for Web Designers/1. JavaScript in Use/144203_01_02_XR15_live.mp4
+./Lynda. JavaScript for Web Designers/1. JavaScript in Use/144203_01_03_XR15_anti.mp4
+./Lynda. JavaScript for Web Designers/2. Writing and Debugging/144203_02_01_XR15_editors.mp4
+./Lynda. JavaScript for Web Designers/2. Writing and Debugging/144203_02_02_XR15_inspectors.mp4
+./Lynda. JavaScript for Web Designers/2. Writing and Debugging/144203_02_03_XR15_console.mp4
+./Lynda. JavaScript for Web Designers/2. Writing and Debugging/144203_02_04_XR15_help.mp4
+./Lynda. JavaScript for Web Designers/2. Writing and Debugging/144203_02_05_XR15_jargon.mp4
+./Lynda. JavaScript for Web Designers/2. Writing and Debugging/144203_02_06_XR15_dom.mp4
+./Lynda. JavaScript for Web Designers/3. Using JavaScript with HTML Forms/144203_03_01_XR15_start.mp4
+./Lynda. JavaScript for Web Designers/3. Using JavaScript with HTML Forms/144203_03_02_XR15_text.mp4
+./Lynda. JavaScript for Web Designers/3. Using JavaScript with HTML Forms/144203_03_03_XR15_selects.mp4
+./Lynda. JavaScript for Web Designers/3. Using JavaScript with HTML Forms/144203_03_04_XR15_radio.mp4
+./Lynda. JavaScript for Web Designers/3. Using JavaScript with HTML Forms/144203_03_05_XR15_checkboxes.mp4
+./Lynda. JavaScript for Web Designers/3. Using JavaScript with HTML Forms/144203_03_06_XR15_submit.mp4
+./Lynda. JavaScript for Web Designers/3. Using JavaScript with HTML Forms/144203_03_07_XR151_required.mp4
+./Lynda. JavaScript for Web Designers/3. Using JavaScript with HTML Forms/144203_03_08_XR15_collect.mp4
+./Lynda. JavaScript for Web Designers/3. Using JavaScript with HTML Forms/144203_03_09_XR151_math.mp4
+./Lynda. JavaScript for Web Designers/3. Using JavaScript with HTML Forms/144203_03_10_XR15_sanitize.mp4
+./Lynda. JavaScript for Web Designers/3. Using JavaScript with HTML Forms/144203_03_11_XR15_innerHTML.mp4
+./Lynda. JavaScript for Web Designers/3. Using JavaScript with HTML Forms/144203_03_12_XR15_challenge.mp4
+./Lynda. JavaScript for Web Designers/3. Using JavaScript with HTML Forms/144203_03_13_XR15_solution.mp4
+./Lynda. JavaScript for Web Designers/4. Creating Navigation Tabs with JavaScript/144203_04_01_MM30_overview.mp4
+./Lynda. JavaScript for Web Designers/4. Creating Navigation Tabs with JavaScript/144203_04_02_XR15_loaded.mp4
+./Lynda. JavaScript for Web Designers/4. Creating Navigation Tabs with JavaScript/144203_04_03_XR15_clickable.mp4
+./Lynda. JavaScript for Web Designers/4. Creating Navigation Tabs with JavaScript/144203_04_04_XR15_cactivate.mp4
+./Lynda. JavaScript for Web Designers/4. Creating Navigation Tabs with JavaScript/144203_04_05_XR15_switch.mp4
+./Lynda. JavaScript for Web Designers/4. Creating Navigation Tabs with JavaScript/144203_04_07_XR15_solution.mp4
+./Lynda. JavaScript for Web Designers/4. Creating Navigation Tabs with JavaScript/144203_04_08_XR15_delegate.mp4
+./Lynda. JavaScript for Web Designers/5. Using the Google Maps API/144203_05_02_XR15_start.mp4
+./Lynda. JavaScript for Web Designers/5. Using the Google Maps API/144203_05_03_XR15_center.mp4
+./Lynda. JavaScript for Web Designers/5. Using the Google Maps API/144203_05_04_XR15_options.mp4
+./Lynda. JavaScript for Web Designers/5. Using the Google Maps API/144203_05_05_XR15_marker.mp4
+./Lynda. JavaScript for Web Designers/5. Using the Google Maps API/144203_05_06_XR15_popup.mp4
+./Lynda. JavaScript for Web Designers/5. Using the Google Maps API/144203_05_08_XR15_solution.mp4
+./py3/lernPy3/03 Understanding Variables And Data Type/001 Python Terminal Walkthrough.mp4
+./py3/lernPy3/03 Understanding Variables And Data Type/002 Understanding Objects And References.mp4
+./py3/lernPy3/03 Understanding Variables And Data Type/003 Variables Rules.mp4
+./py3/lernPy3/03 Understanding Variables And Data Type/004 Numbers Data Type And Math Operations.mp4
+./py3/lernPy3/03 Understanding Variables And Data Type/005 Numbers - Exponentiation And Modulo.mp4
+./py3/lernPy3/03 Understanding Variables And Data Type/006 Arithmetic Order Of Precedence.mp4
+./py3/lernPy3/03 Understanding Variables And Data Type/007 Boolean Data Type.mp4
+./py3/lernPy3/03 Understanding Variables And Data Type/008 Working With Strings.mp4
+./py3/lernPy3/03 Understanding Variables And Data Type/009 String Methods - Part 1.mp4
+./py3/lernPy3/03 Understanding Variables And Data Type/010 String Methods - Part 2.mp4
+./py3/lernPy3/03 Understanding Variables And Data Type/011 More String Slicing And Indexing.mp4
+./py3/lernPy3/03 Understanding Variables And Data Type/012 Strings Formatting.mp4
+./py3/lernPy3/04 Advanced Data Types/001 List And Accessing The Elements.mp4
+./py3/lernPy3/04 Advanced Data Types/002 List Methods.mp4
+./py3/lernPy3/04 Advanced Data Types/003 Working With Dictionary.mp4
+./py3/lernPy3/04 Advanced Data Types/004 Nested Dictionary.mp4
+./py3/lernPy3/04 Advanced Data Types/005 Dictionary Methods.mp4
+./py3/lernPy3/04 Advanced Data Types/006 Working With Tuple.mp4
+./py3/lernPy3/05 Comparison And Boolean Operators/001 Working With Comparators.mp4
+./py3/lernPy3/05 Comparison And Boolean Operators/002 Understanding Boolean Operators.mp4
+./py3/lernPy3/05 Comparison And Boolean Operators/003 Boolean Operators - Order Of Precedence.mp4
+./py3/lernPy3/06 Program Control Flow/001 Conditional Logic - If Else Conditions.mp4
+./py3/lernPy3/06 Program Control Flow/002 While Loop Demo.mp4
+./py3/lernPy3/06 Program Control Flow/003 Break Continue And WhileElse.mp4
+./py3/lernPy3/06 Program Control Flow/004 For Loop Demo.mp4
+./py3/lernPy3/06 Program Control Flow/005 Iterating Multiple Lists - Using the Zip Function.mp4
+./py3/lernPy3/06 Program Control Flow/006 Using Range Function In For Loop.mp4
+./py3/lernPy3/07 Methods - Working With Reusable Code/001 Understanding Methods.mp4
+./py3/lernPy3/07 Methods - Working With Reusable Code/002 Working With Return Values.mp4
+./py3/lernPy3/07 Methods - Working With Reusable Code/003 Working With Positional  Optional Parameters.mp4
+./py3/lernPy3/07 Methods - Working With Reusable Code/004 Understanding Variable Scope.mp4
+./py3/lernPy3/07 Methods - Working With Reusable Code/005 More Built-In Functions.mp4
+./py3/lernPy3/07 Methods - Working With Reusable Code/006 Exercise With Solution  Homework .mp4
+./py3/lernPy3/08 Classes - Object Oriented Programming/001 Understanding Objects  Classes.mp4
+./py3/lernPy3/08 Classes - Object Oriented Programming/002 Create Your Own Object.mp4
+./py3/lernPy3/08 Classes - Object Oriented Programming/003 Create Your Own Methods.mp4
+./py3/lernPy3/08 Classes - Object Oriented Programming/004 Inheritance.mp4
+./py3/lernPy3/08 Classes - Object Oriented Programming/005 Method Overriding.mp4
+./py3/lernPy3/08 Classes - Object Oriented Programming/006 Exercise With Solution  Homework .mp4
+./py3/lernPy3/09 Exception Handling/001 Exception Handling Demo.mp4
+./py3/lernPy3/09 Exception Handling/002 Finally And Else Block.mp4
+./py3/lernPy3/09 Exception Handling/003 Exercise With Solution  Homework .mp4
+./py3/lernPy3/10 Modules/001 Builtin Modules.mp4
+./py3/lernPy3/10 Modules/002 Create Your Own Modules.mp4
+./py3/lernPy3/11 Conclusion/001 BONUS Whats Next and other cool free stuff.mp4
+./Python GUI Development with Tkinter - 2014/00. Introduction/00_01-welcome.mp4
+./Python GUI Development with Tkinter - 2014/00. Introduction/00_02-prerequisites.mp4
+./Python GUI Development with Tkinter - 2014/00. Introduction/00_03-exercisefiles.mp4
+./Python GUI Development with Tkinter - 2014/01. Getting Started with Python and Tkinter/01_01-windows_install.mp4
+./Python GUI Development with Tkinter - 2014/01. Getting Started with Python and Tkinter/01_02-mac_install.mp4
+./Python GUI Development with Tkinter - 2014/01. Getting Started with Python and Tkinter/01_03-hello.mp4
+./Python GUI Development with Tkinter - 2014/02. Tkinter Concepts/02_01-background.mp4
+./Python GUI Development with Tkinter - 2014/02. Tkinter Concepts/02_02-widgets.mp4
+./Python GUI Development with Tkinter - 2014/02. Tkinter Concepts/02_03-geometry.mp4
+./Python GUI Development with Tkinter - 2014/02. Tkinter Concepts/02_04-events.mp4
+./Python GUI Development with Tkinter - 2014/02. Tkinter Concepts/02_05-revisit.mp4
+./Python GUI Development with Tkinter - 2014/03. Basic Widgets/03_01-label.mp4
+./Python GUI Development with Tkinter - 2014/03. Basic Widgets/03_02-button.mp4
+./Python GUI Development with Tkinter - 2014/03. Basic Widgets/03_03-selection_buttons.mp4
+./Python GUI Development with Tkinter - 2014/03. Basic Widgets/03_04-entry.mp4
+./Python GUI Development with Tkinter - 2014/03. Basic Widgets/03_05-selection_boxse.mp4
+./Python GUI Development with Tkinter - 2014/03. Basic Widgets/03_06-progressbar.mp4
+./Python GUI Development with Tkinter - 2014/04. Organizational Widgets/04_01-frame.mp4
+./Python GUI Development with Tkinter - 2014/04. Organizational Widgets/04_02-toplevel.mp4
+./Python GUI Development with Tkinter - 2014/04. Organizational Widgets/04_03-panedwindow.mp4
+./Python GUI Development with Tkinter - 2014/04. Organizational Widgets/04_04-notebook.mp4
+./Python GUI Development with Tkinter - 2014/05. Advanced Widgets/05_01-text.mp4
+./Python GUI Development with Tkinter - 2014/05. Advanced Widgets/05_02-text_advanced.mp4
+./Python GUI Development with Tkinter - 2014/05. Advanced Widgets/05_03-treeview.mp4
+./Python GUI Development with Tkinter - 2014/05. Advanced Widgets/05_04-treeview_advanced.mp4
+./Python GUI Development with Tkinter - 2014/05. Advanced Widgets/05_05-menu.mp4
+./Python GUI Development with Tkinter - 2014/05. Advanced Widgets/05_06-canvas.mp4
+./Python GUI Development with Tkinter - 2014/05. Advanced Widgets/05_07-canvas_advanced.mp4
+./Python GUI Development with Tkinter - 2014/05. Advanced Widgets/05_08-scrollbar.mp4
+./Python GUI Development with Tkinter - 2014/05. Advanced Widgets/05_09-style.mp4
+./Python GUI Development with Tkinter - 2014/05. Advanced Widgets/05_10-dialog.mp4
+./Python GUI Development with Tkinter - 2014/06. Geometry Management/06_01-pack.mp4
+./Python GUI Development with Tkinter - 2014/06. Geometry Management/06_02-grid.mp4
+./Python GUI Development with Tkinter - 2014/06. Geometry Management/06_03-place.mp4
+./Python GUI Development with Tkinter - 2014/07. Event Handling/07_01-callback.mp4
+./Python GUI Development with Tkinter - 2014/07. Event Handling/07_02-keyboard.mp4
+./Python GUI Development with Tkinter - 2014/07. Event Handling/07_03-mouse.mp4
+./Python GUI Development with Tkinter - 2014/07. Event Handling/07_04-virtual.mp4
+./Python GUI Development with Tkinter - 2014/07. Event Handling/07_05-multiple.mp4
+./Python GUI Development with Tkinter - 2014/08. Building an Application/08_01-requirements.mp4
+./Python GUI Development with Tkinter - 2014/08. Building an Application/08_02-design.mp4
+./Python GUI Development with Tkinter - 2014/08. Building an Application/08_03-widgets.mp4
+./Python GUI Development with Tkinter - 2014/08. Building an Application/08_04-layout.mp4
+./Python GUI Development with Tkinter - 2014/08. Building an Application/08_05-events.mp4
+./Python GUI Development with Tkinter - 2014/08. Building an Application/08_06-style.mp4
+./Python GUI Development with Tkinter - 2014/09. Conclusion/09_01-conclusion.mp4
+./Skillfeed Create a JavaScript Dating HTML5 App/01. Project HTML Template.mp4
+./Skillfeed Create a JavaScript Dating HTML5 App/02. Styling the Project.mp4
+./Skillfeed Create a JavaScript Dating HTML5 App/03. Load Event.mp4
+./Skillfeed Create a JavaScript Dating HTML5 App/04. Selecting.mp4
+./Skillfeed Create a JavaScript Dating HTML5 App/05. Modifying the DOM.mp4
+./Skillfeed Create a JavaScript Dating HTML5 App/06. User Input.mp4
+./Skillfeed Create a JavaScript Dating HTML5 App/07. Using JSON to Represent Data.mp4
+./Skillfeed Create a JavaScript Dating HTML5 App/08. HTML Templates per User.mp4
+./Skillfeed Create a JavaScript Dating HTML5 App/09. Implementing Filtering.mp4
+./Skillfeed Game Development with Python/01. Intro- Thinking Like A Game Developer.mp4
+./Skillfeed Game Development with Python/02. Your First Game Loop.mp4
+./Skillfeed Game Development with Python/03. A Simple Game Loop.mp4
+./Skillfeed Game Development with Python/04. Understanding Frame Rates.mp4
+./Skillfeed Game Development with Python/05. Section Summary.mp4
+./Skillfeed Game Development with Python/06. Intro- Graphics to Sprites.mp4
+./Skillfeed Game Development with Python/07. Surfaces.mp4
+./Skillfeed Game Development with Python/08. Working with Images.mp4
+./Skillfeed Game Development with Python/19. Game Object Logic.mp4
+./Skillfeed Game Development with Python/20. Game Event Logic.mp4
+./Skillfeed Game Development with Python/21. Delaying Game Events.mp4
+./Skillfeed Game Development with Python/22. Section Summary.mp4
+./Skillfeed Game Development with Python/23. Intro- Adding Enemies.mp4
+./Skillfeed Game Development with Python/24. Simple Enemy AI.mp4
+./Skillfeed Game Development with Python/25. More Enemy AI.mp4
+./Skillfeed Game Development with Python/26. Game Progression Logic.mp4
+./Skillfeed Game Development with Python/27. Section Summary.mp4
+./Skillfeed Game Development with Python/28. Intro- Bringing a Game Together.mp4
+./Skillfeed Game Development with Python/29. Animations.mp4
+./Skillfeed Game Development with Python/30. Implementing Scores.mp4
+./Skillfeed Game Development with Python/31. Adding Sound.mp4
+./Skillfeed Game Development with Python/32. Section Summary.mp4
+./Skillfeed Game Development with Python/09. Image Processing.mp4
+./Skillfeed Game Development with Python/10. Managing Game Assets.mp4
+./Skillfeed Game Development with Python/11. Summary.mp4
+./Skillfeed Game Development with Python/12. Intro- Physics-Collision Detection.mp4
+./Skillfeed Game Development with Python/13. Simple Game Physics.mp4
+./Skillfeed Game Development with Python/14. Player Input.mp4
+./Skillfeed Game Development with Python/15. Thrust and Damping.mp4
+./Skillfeed Game Development with Python/16. Collision Detection.mp4
+./Skillfeed Game Development with Python/17. Section Summary.mp4
+./Skillfeed Game Development with Python/18. Intro- Exploring Event Logic.mp4
+./Udemy - Complete Python Bootcamp HD/01 Course Overview/001 Course Introduction.mp4
+./Udemy - Complete Python Bootcamp HD/01 Course Overview/002 Course Curriculum Overview.mp4
+./Udemy - Complete Python Bootcamp HD/01 Course Overview/003 Python 2 vs Python 3.mp4
+./Udemy - Complete Python Bootcamp HD/01 Course Overview/004 How to Approach This Course.mp4
+./Udemy - Complete Python Bootcamp HD/02 Python Setup/003 Python Installation --- Windows.mp4
+./Udemy - Complete Python Bootcamp HD/02 Python Setup/004 Python Installation --- Mac OS and Linux.mp4
+./Udemy - Complete Python Bootcamp HD/02 Python Setup/005 IDE Selection.mp4
+./Udemy - Complete Python Bootcamp HD/02 Python Setup/006 Jupyter iPython Notebooks.mp4
+./Udemy - Complete Python Bootcamp HD/02 Python Setup/007 FAQ - Notebooks.mp4
+./Udemy - Complete Python Bootcamp HD/02 Python Setup/008 Additional Resources.mp4
+./Udemy - Complete Python Bootcamp HD/02 Python Setup/009 Git and Github Overview Optional.mp4
+./Udemy - Complete Python Bootcamp HD/03 Python Object and Data Structure Basics/001 Numbers.mp4
+./Udemy - Complete Python Bootcamp HD/03 Python Object and Data Structure Basics/004 Strings.mp4
+./Udemy - Complete Python Bootcamp HD/03 Python Object and Data Structure Basics/007 Print Formatting.mp4
+./Udemy - Complete Python Bootcamp HD/03 Python Object and Data Structure Basics/010 Lists.mp4
+./Udemy - Complete Python Bootcamp HD/03 Python Object and Data Structure Basics/012 Dictionaries.mp4
+./Udemy - Complete Python Bootcamp HD/03 Python Object and Data Structure Basics/015 Tuples.mp4
+./Udemy - Complete Python Bootcamp HD/03 Python Object and Data Structure Basics/017 Files.mp4
+./Udemy - Complete Python Bootcamp HD/03 Python Object and Data Structure Basics/018 Sets and Booleans.mp4
+./Udemy - Complete Python Bootcamp HD/03 Python Object and Data Structure Basics/021 Objects and Data Structures Assessment Test.mp4
+./Udemy - Complete Python Bootcamp HD/03 Python Object and Data Structure Basics/022 Objects and Data Structures Assessment - Solutions.mp4
+./Udemy - Complete Python Bootcamp HD/04 Python Comparison Operators/001 Comparison Operators.mp4
+./Udemy - Complete Python Bootcamp HD/04 Python Comparison Operators/002 Chained Comparison Operators.mp4
+./Udemy - Complete Python Bootcamp HD/05 Python Statements/001 Introduction to Python Statements.mp4
+./Udemy - Complete Python Bootcamp HD/05 Python Statements/002 if, elif, and else Statements.mp4
+./Udemy - Complete Python Bootcamp HD/05 Python Statements/003 for Loops.mp4
+./Udemy - Complete Python Bootcamp HD/05 Python Statements/004 while Loops.mp4
+./Udemy - Complete Python Bootcamp HD/05 Python Statements/005 range.mp4
+./Udemy - Complete Python Bootcamp HD/05 Python Statements/006 List Comprehensions.mp4
+./Udemy - Complete Python Bootcamp HD/05 Python Statements/008 Statements Assessment Test.mp4
+./Udemy - Complete Python Bootcamp HD/05 Python Statements/009 Statements Assessment Solutions.mp4
+./Udemy - Complete Python Bootcamp HD/06 Methods and Functions/001 Methods.mp4
+./Udemy - Complete Python Bootcamp HD/06 Methods and Functions/002 Functions.mp4
+./Udemy - Complete Python Bootcamp HD/06 Methods and Functions/003 lambda expressions.mp4
+./Udemy - Complete Python Bootcamp HD/06 Methods and Functions/004 Nested Statements and Scope.mp4
+./Udemy - Complete Python Bootcamp HD/06 Methods and Functions/006 Functions and Methods - Homework Assignment.mp4
+./Udemy - Complete Python Bootcamp HD/06 Methods and Functions/008 Functions and Methods Homework - Solutions.mp4
+./Udemy - Complete Python Bootcamp HD/07 Milestone Project - 1/002 Milestone Project 1 -Assignment Overview.mp4
+./Udemy - Complete Python Bootcamp HD/07 Milestone Project - 1/004 Milestone Project 1 - Solution Walkthrough - Part 1.mp4
+./Udemy - Complete Python Bootcamp HD/07 Milestone Project - 1/005 Milestone Project 1 - Solution Walkthrough - Part 2.mp4
+./Udemy - Complete Python Bootcamp HD/07 Milestone Project - 1/006 Milestone Project 1 - Solution Walkthrough - Part 3.mp4
+./Udemy - Complete Python Bootcamp HD/07 Milestone Project - 1/007 Advanced Project Solution Overview.mp4
+./Udemy - Complete Python Bootcamp HD/08 Object Oriented Programming/001 OOP - Part 1 - Objects.mp4
+./Udemy - Complete Python Bootcamp HD/08 Object Oriented Programming/002 OOP - Part 2 - Classes.mp4
+./Udemy - Complete Python Bootcamp HD/08 Object Oriented Programming/003 OOP - Part 3 -Methods.mp4
+./Udemy - Complete Python Bootcamp HD/08 Object Oriented Programming/004 OOP - Part 4 - Inheritance.mp4
+./Udemy - Complete Python Bootcamp HD/08 Object Oriented Programming/005 OOP - Part 5 - Special Methods.mp4
+./Udemy - Complete Python Bootcamp HD/08 Object Oriented Programming/007 OOP Homework Assignment.mp4
+./Udemy - Complete Python Bootcamp HD/08 Object Oriented Programming/008 OOP Homework Solution.mp4
+./Udemy - Complete Python Bootcamp HD/09 Errors and Exceptions Handling/001 Errors and Exceptions.mp4
+./Udemy - Complete Python Bootcamp HD/09 Errors and Exceptions Handling/002 Exception Handling try, except, finally.mp4
+./Udemy - Complete Python Bootcamp HD/09 Errors and Exceptions Handling/004 Errors and Exceptions Homework.mp4
+./Udemy - Complete Python Bootcamp HD/09 Errors and Exceptions Handling/005 Errors and Exceptions - Solutions.mp4
+./Udemy - Complete Python Bootcamp HD/10 Milestone Project - 2/001 Project Overview.mp4
+./Udemy - Complete Python Bootcamp HD/10 Milestone Project - 2/002 Project 2 Solution.mp4
+./Udemy - Complete Python Bootcamp HD/11 Modules and Packages/001 Modules, Packages, and Imports.mp4
+./Udemy - Complete Python Bootcamp HD/11 Modules and Packages/002 Modules and Packages Assignment.mp4
+./Udemy - Complete Python Bootcamp HD/12 Built-in Functions/002 Map.mp4
+./Udemy - Complete Python Bootcamp HD/12 Built-in Functions/003 Reduce.mp4
+./Udemy - Complete Python Bootcamp HD/12 Built-in Functions/004 Filter.mp4
+./Udemy - Complete Python Bootcamp HD/12 Built-in Functions/005 Zip.mp4
+./Udemy - Complete Python Bootcamp HD/12 Built-in Functions/006 Enumerate.mp4
+./Udemy - Complete Python Bootcamp HD/12 Built-in Functions/007 all and any.mp4
+./Udemy - Complete Python Bootcamp HD/12 Built-in Functions/008 Complex.mp4
+./Udemy - Complete Python Bootcamp HD/12 Built-in Functions/009 Built-in Functions Assessment Test.mp4
+./Udemy - Complete Python Bootcamp HD/12 Built-in Functions/010 Built-in Functions Assessment Test Solutions.mp4
+./Udemy - Complete Python Bootcamp HD/13 Python Decorators/001 Decorators - Part 1.mp4
+./Udemy - Complete Python Bootcamp HD/13 Python Decorators/002 Decorators - Part 2.mp4
+./Udemy - Complete Python Bootcamp HD/13 Python Decorators/003 Decorators - Part 3.mp4
+./Udemy - Complete Python Bootcamp HD/13 Python Decorators/004 Decorators Homework.mp4
+./Udemy - Complete Python Bootcamp HD/14 Python Generators/001 Iteration vs Generation.mp4
+./Udemy - Complete Python Bootcamp HD/14 Python Generators/002 Creating Generators.mp4
+./Udemy - Complete Python Bootcamp HD/14 Python Generators/003 Iterators and Generators Homework.mp4
+./Udemy - Complete Python Bootcamp HD/14 Python Generators/004 Iterators and Generators Homework  - Solutions.mp4
+./Udemy - Complete Python Bootcamp HD/15 Final Capstone Python Project/001 Final Capstone Project.mp4
+./Udemy - Complete Python Bootcamp HD/16 Advanced Python Modules/001 Collections Module - counter.mp4
+./Udemy - Complete Python Bootcamp HD/16 Advanced Python Modules/002 Collections Module - defaultdict.mp4
+./Udemy - Complete Python Bootcamp HD/16 Advanced Python Modules/003 Collections Module - OrderedDict.mp4
+./Udemy - Complete Python Bootcamp HD/16 Advanced Python Modules/004 Collections Module - namedtuple.mp4
+./Udemy - Complete Python Bootcamp HD/16 Advanced Python Modules/005 Datetime.mp4
+./Udemy - Complete Python Bootcamp HD/16 Advanced Python Modules/006 Python Debugger - pdb.mp4
+./Udemy - Complete Python Bootcamp HD/16 Advanced Python Modules/007 Timing your code - timeit.mp4
+./Udemy - Complete Python Bootcamp HD/16 Advanced Python Modules/008 Regular Expressions -re.mp4
+./Udemy - Complete Python Bootcamp HD/16 Advanced Python Modules/009 StringIO.mp4
+./Udemy - Complete Python Bootcamp HD/17 Advanced Python Objects and Data Structures/001 Advanced Numbers.mp4
+./Udemy - Complete Python Bootcamp HD/17 Advanced Python Objects and Data Structures/002 Advanced Strings.mp4
+./Udemy - Complete Python Bootcamp HD/17 Advanced Python Objects and Data Structures/003 Advanced Sets.mp4
+./Udemy - Complete Python Bootcamp HD/17 Advanced Python Objects and Data Structures/004 Advanced Dictionaries.mp4
+./Udemy - Complete Python Bootcamp HD/17 Advanced Python Objects and Data Structures/005 Advanced Lists.mp4
+./Udemy - Complete Python Bootcamp HD/17 Advanced Python Objects and Data Structures/006 Advanced Python Objects Assessment Test.mp4
+./Udemy - Complete Python Bootcamp HD/17 Advanced Python Objects and Data Structures/007 Advanced Python Objects Test - Solutions.mp4
+./Udemy - Complete Python Bootcamp HD/18 Bonus Material - Introduction to GUIs/002 Interact.mp4
+./Udemy - Complete Python Bootcamp HD/18 Bonus Material - Introduction to GUIs/003 Widget Basics.mp4
+./Udemy - Complete Python Bootcamp HD/18 Bonus Material - Introduction to GUIs/004 Widget Events.mp4
+./Udemy - Complete Python Bootcamp HD/18 Bonus Material - Introduction to GUIs/005 Widget List.mp4
+./Udemy - Complete Python Bootcamp HD/18 Bonus Material - Introduction to GUIs/006 Widget Styling.mp4
+./Udemy - Complete Python Bootcamp HD/18 Bonus Material - Introduction to GUIs/007 Custom Widget Example.mp4
+./U_d_e_m_y Projects In JavaScript & JQuery/01 Introduction/001 Course Intro.mp4
+./U_d_e_m_y Projects In JavaScript & JQuery/02 Simple JavaScript Quiz/002 Project Intro.mp4
+./U_d_e_m_y Projects In JavaScript & JQuery/02 Simple JavaScript Quiz/003 JavaScript Fundamentals.mp4
+./U_d_e_m_y Projects In JavaScript & JQuery/02 Simple JavaScript Quiz/004 Quiz File Structure and  HTML.mp4
+./U_d_e_m_y Projects In JavaScript & JQuery/02 Simple JavaScript Quiz/005 Quiz CSS.mp4
+./U_d_e_m_y Projects In JavaScript & JQuery/02 Simple JavaScript Quiz/006 Quiz JavaScript.mp4
+./U_d_e_m_y Projects In JavaScript & JQuery/03 jQuery Content Slider/007 Project Intro.mp4
+./U_d_e_m_y Projects In JavaScript & JQuery/03 jQuery Content Slider/008 jQuery Fundamentals.mp4
+./U_d_e_m_y Projects In JavaScript & JQuery/03 jQuery Content Slider/009 Content Slider HTML  CSS.mp4
+./U_d_e_m_y Projects In JavaScript & JQuery/03 jQuery Content Slider/010 Content Slider JavaScript.mp4
+./U_d_e_m_y Projects In JavaScript & JQuery/04 Youtube Search Engine/011 Project Intro.mp4
+./U_d_e_m_y Projects In JavaScript & JQuery/04 Youtube Search Engine/012 HTML  CSS.mp4
+./U_d_e_m_y Projects In JavaScript & JQuery/04 Youtube Search Engine/013 Searchbar Styling  Animation.mp4
+./U_d_e_m_y Projects In JavaScript & JQuery/04 Youtube Search Engine/014 YouTube API GET Request.mp4
+./U_d_e_m_y Projects In JavaScript & JQuery/04 Youtube Search Engine/015 Displaying Results From API.mp4
+./U_d_e_m_y Projects In JavaScript & JQuery/04 Youtube Search Engine/016 Paging Buttons  Lightbox.mp4
+./U_d_e_m_y Projects In JavaScript & JQuery/05 FAQ Accordian Slider/017 Project Intro.mp4
+./U_d_e_m_y Projects In JavaScript & JQuery/05 FAQ Accordian Slider/018 FAQ Slider HTML.mp4
+./U_d_e_m_y Projects In JavaScript & JQuery/05 FAQ Accordian Slider/019 FAQ Slider CSS.mp4
+./U_d_e_m_y Projects In JavaScript & JQuery/05 FAQ Accordian Slider/020 FAQ Slider JavaScript.mp4
+./U_d_e_m_y Projects In JavaScript & JQuery/06 Ajax PHP Shoutbox/021 Project Intro.mp4
+./U_d_e_m_y Projects In JavaScript & JQuery/06 Ajax PHP Shoutbox/022 Ajax Shoutbox HTML  CSS.mp4
+./U_d_e_m_y Projects In JavaScript & JQuery/06 Ajax PHP Shoutbox/023 Connect PHP to MySQL.mp4
+./U_d_e_m_y Projects In JavaScript & JQuery/06 Ajax PHP Shoutbox/024 jQuery Ajax POST Request.mp4
+./U_d_e_m_y Projects In JavaScript & JQuery/06 Ajax PHP Shoutbox/025 Inserting and Selecting Data From MySQL.mp4
+./U_d_e_m_y Projects In JavaScript & JQuery/07 Apple Style Thumbslider/026 Project Intro.mp4
+./U_d_e_m_y Projects In JavaScript & JQuery/07 Apple Style Thumbslider/027 Thumbslider HTML.mp4
+./U_d_e_m_y Projects In JavaScript & JQuery/07 Apple Style Thumbslider/028 Thumbslider CSS.mp4
+./U_d_e_m_y Projects In JavaScript & JQuery/07 Apple Style Thumbslider/029 Thumbslider JavaScript.mp4
+./U_d_e_m_y Projects In JavaScript & JQuery/08 Create a jQuery Plugin/030 Project Intro.mp4
+./U_d_e_m_y Projects In JavaScript & JQuery/08 Create a jQuery Plugin/031 Environment  Git Repository Setup.mp4
+./U_d_e_m_y Projects In JavaScript & JQuery/08 Create a jQuery Plugin/032 Creating The Main Plugin File.mp4
+./U_d_e_m_y Projects In JavaScript & JQuery/08 Create a jQuery Plugin/033 Creating The Manifest File.mp4
+./U_d_e_m_y Projects In JavaScript & JQuery/08 Create a jQuery Plugin/034 Publishing A Plugin To The Registry.mp4
+./U_d_e_m_y Projects In JavaScript & JQuery/09 jQuery Portfolio Gallery/035 Project Intro.mp4
+./U_d_e_m_y Projects In JavaScript & JQuery/09 jQuery Portfolio Gallery/036 PGallery HTML  CSS.mp4
+./U_d_e_m_y Projects In JavaScript & JQuery/09 jQuery Portfolio Gallery/037 Image Categories.mp4
+./U_d_e_m_y Projects In JavaScript & JQuery/09 jQuery Portfolio Gallery/038 Image Overlay Effect.mp4
+./U_d_e_m_y Projects In JavaScript & JQuery/09 jQuery Portfolio Gallery/039 LightBox  Responsive Layout.mp4
+./U_d_e_m_y Projects In JavaScript & JQuery/10 jQuery Mobile App/040 Project Intro.mp4
+./U_d_e_m_y Projects In JavaScript & JQuery/10 jQuery Mobile App/041 jQuery Mobile UI.mp4
+./U_d_e_m_y Projects In JavaScript & JQuery/10 jQuery Mobile App/042 Adding Runs to LocalStorage.mp4
+./U_d_e_m_y Projects In JavaScript & JQuery/10 jQuery Mobile App/043 Displaying Runs.mp4
+./U_d_e_m_y Projects In JavaScript & JQuery/10 jQuery Mobile App/044 Editing Runs.mp4
+./U_d_e_m_y Projects In JavaScript & JQuery/10 jQuery Mobile App/045 Deleting Runs from localStorage.mp4
+./U_d_e_m_y Projects In JavaScript & JQuery/11 Tic Tac Toe Game/046 Project Intro.mp4
+./U_d_e_m_y Projects In JavaScript & JQuery/11 Tic Tac Toe Game/047 Tic Tac Toe HTML.mp4
+./U_d_e_m_y Projects In JavaScript & JQuery/11 Tic Tac Toe Game/048 Tic Tac Toe CSS.mp4
+./U_d_e_m_y Projects In JavaScript & JQuery/11 Tic Tac Toe Game/049 Tic Tac Toe Logic-JavaScript.mp4
+./U_d_e_m_y Projects In JavaScript & JQuery/12 Course Summary/050 Summary.mp4
+./Web Developer Course - Build 20 Websites/01 Introduction to the course/001 Promo Video.mp4
+./Web Developer Course - Build 20 Websites/01 Introduction to the course/002 What you need for this course.mp4
+./Web Developer Course - Build 20 Websites/02 Basic one page website/001 01. Introduction to the basic one page website.mp4
+./Web Developer Course - Build 20 Websites/02 Basic one page website/002 02. Setting up an image.mp4
+./Web Developer Course - Build 20 Websites/02 Basic one page website/003 03. Selecting a coffee bean image.mp4
+./Web Developer Course - Build 20 Websites/02 Basic one page website/004 04. Setting up a column.mp4
+./Web Developer Course - Build 20 Websites/02 Basic one page website/005 05. Adding in latin text and the other columns.mp4
+./Web Developer Course - Build 20 Websites/02 Basic one page website/006 06. Setting up the body CSS.mp4
+./Web Developer Course - Build 20 Websites/02 Basic one page website/007 07. Adding in the h1 and h2 css.mp4
+./Web Developer Course - Build 20 Websites/02 Basic one page website/008 08. Changing the header.mp4
+./Web Developer Course - Build 20 Websites/02 Basic one page website/009 09. Formating the header tag.mp4
+./Web Developer Course - Build 20 Websites/02 Basic one page website/010 10. Adding in the banner tag.mp4
+./Web Developer Course - Build 20 Websites/02 Basic one page website/011 11. Making the 3 columns work.mp4
+./Web Developer Course - Build 20 Websites/02 Basic one page website/012 12. Fixing the image.mp4
+./Web Developer Course - Build 20 Websites/02 Basic one page website/013 13. Changing the text and talking about the letters.mp4
+./Web Developer Course - Build 20 Websites/02 Basic one page website/014 14. Challenge - Add links to the website.mp4
+./Web Developer Course - Build 20 Websites/03 Background image website/001 01. Introduction to the background image website.mp4
+./Web Developer Course - Build 20 Websites/03 Background image website/002 02.Adding in the three columns.mp4
+./Web Developer Course - Build 20 Websites/03 Background image website/003 03. Adding in a background image.mp4
+./Web Developer Course - Build 20 Websites/03 Background image website/004 04. Setting the resize features for the image.mp4
+./Web Developer Course - Build 20 Websites/03 Background image website/005 05. Adding in the text formats for the headers.mp4
+./Web Developer Course - Build 20 Websites/03 Background image website/006 06. Setting up the logo size.mp4
+./Web Developer Course - Build 20 Websites/03 Background image website/007 07. Adding in the three columns.mp4
+./Web Developer Course - Build 20 Websites/03 Background image website/008 08. Formatting the titles of the 3 columns.mp4
+./Web Developer Course - Build 20 Websites/03 Background image website/009 09. Adding in the margin to the header.mp4
+./Web Developer Course - Build 20 Websites/03 Background image website/010 10. Adding in a semi transparent background to see the text.mp4
+./Web Developer Course - Build 20 Websites/03 Background image website/011 11. Changing the header 2.mp4
+./Web Developer Course - Build 20 Websites/03 Background image website/012 12. Adding in the logo and talking about busines.mp4
+./Web Developer Course - Build 20 Websites/03 Background image website/013 13. Challenge - Think like a business.mp4
+./Web Developer Course - Build 20 Websites/04 03. Making a 6 column website/001 01. Introduction to making a six column website.mp4
+./Web Developer Course - Build 20 Websites/04 03. Making a 6 column website/002 02. Adding in the 6 columns.mp4
+./Web Developer Course - Build 20 Websites/04 03. Making a 6 column website/003 03. Adding in the background image.mp4
+./Web Developer Course - Build 20 Websites/04 03. Making a 6 column website/004 04. Adding in the header code.mp4
+./Web Developer Course - Build 20 Websites/04 03. Making a 6 column website/005 05. Adding in the logo formatting.mp4
+./Web Developer Course - Build 20 Websites/04 03. Making a 6 column website/006 06. Adding in the columns.mp4
+./Web Developer Course - Build 20 Websites/04 03. Making a 6 column website/007 07. Changing the header of the columns.mp4
+./Web Developer Course - Build 20 Websites/04 03. Making a 6 column website/008 08. Adding in a background to the columns.mp4
+./Web Developer Course - Build 20 Websites/04 03. Making a 6 column website/009 09. Making the text pop out.mp4
+./Web Developer Course - Build 20 Websites/04 03. Making a 6 column website/010 10. Adding in a graphic logo to the top.mp4
+./Web Developer Course - Build 20 Websites/04 03. Making a 6 column website/011 11. Challange - Add in a footer.mp4
+./Web Developer Course - Build 20 Websites/05 Making a minimalist website/008 08. Adding in the HTML to make FontAwesome work.mp4
+./Web Developer Course - Build 20 Websites/05 Making a minimalist website/001 01. Making a minimalist website.mp4
+./Web Developer Course - Build 20 Websites/05 Making a minimalist website/002 02. Adding in the columns.mp4
+./Web Developer Course - Build 20 Websites/05 Making a minimalist website/003 03. Adding in a background color.mp4
+./Web Developer Course - Build 20 Websites/05 Making a minimalist website/004 04. Adding in the header code.mp4
+./Web Developer Course - Build 20 Websites/05 Making a minimalist website/005 05. Adding in the columns.mp4
+./Web Developer Course - Build 20 Websites/05 Making a minimalist website/006 06. Testing boundaries and fixing the logo.mp4
+./Web Developer Course - Build 20 Websites/05 Making a minimalist website/007 07. Adding in the code for the fontawesome.mp4
+./Web Developer Course - Build 20 Websites/05 Making a minimalist website/009 09. Adding in an item using FontAwesome.mp4
+./Web Developer Course - Build 20 Websites/05 Making a minimalist website/010 10. Adding in the icons to the columns.mp4
+./Web Developer Course - Build 20 Websites/05 Making a minimalist website/011 11. Changing the header2 text.mp4
+./Web Developer Course - Build 20 Websites/05 Making a minimalist website/012 12. Changing the margins of the entire page and talking about color.mp4
+./Web Developer Course - Build 20 Websites/05 Making a minimalist website/013 13. Adding in a splash of color and span tags.mp4
+./Web Developer Course - Build 20 Websites/05 Making a minimalist website/014 14. Adding in the font awesome icons that make sense.mp4
+./Web Developer Course - Build 20 Websites/05 Making a minimalist website/015 15. Challange - Find a different color scheme.mp4
+./Web Developer Course - Build 20 Websites/06 Making a Basic minimalist site with outlines/001 01. Making a basic minimalist site.mp4
+./Web Developer Course - Build 20 Websites/06 Making a Basic minimalist site with outlines/002 02. Adding in the columns.mp4
+./Web Developer Course - Build 20 Websites/06 Making a Basic minimalist site with outlines/003 03. Adding in the body CSS code.mp4
+./Web Developer Course - Build 20 Websites/06 Making a Basic minimalist site with outlines/004 04. Changing the header CSS.mp4
+./Web Developer Course - Build 20 Websites/06 Making a Basic minimalist site with outlines/005 05. Adding in the header code and the logo code.mp4
+./Web Developer Course - Build 20 Websites/06 Making a Basic minimalist site with outlines/006 06. Adding in the columns.mp4
+./Web Developer Course - Build 20 Websites/06 Making a Basic minimalist site with outlines/007 07. Setting up font awesome.mp4
+./Web Developer Course - Build 20 Websites/06 Making a Basic minimalist site with outlines/008 08. Setting up the logos in the page.mp4
+./Web Developer Course - Build 20 Websites/06 Making a Basic minimalist site with outlines/009 09. Adding in a span tag.mp4
+./Web Developer Course - Build 20 Websites/06 Making a Basic minimalist site with outlines/010 10. Adding in a stroke.mp4
+./Web Developer Course - Build 20 Websites/06 Making a Basic minimalist site with outlines/011 11. Adding in a specific span tag.mp4
+./Web Developer Course - Build 20 Websites/06 Making a Basic minimalist site with outlines/012 12. Playing around with color.mp4
+./Web Developer Course - Build 20 Websites/06 Making a Basic minimalist site with outlines/013 13. Challenge - find a good colorscheme.mp4
+./Web Developer Course - Build 20 Websites/07 Making a bigger website/009 09. Adding full width to the paragraph sections.mp4
+./Web Developer Course - Build 20 Websites/07 Making a bigger website/001 01. Introduction to making a bigger website.mp4
+./Web Developer Course - Build 20 Websites/07 Making a bigger website/002 02. Adding in the div tags.mp4
+./Web Developer Course - Build 20 Websites/07 Making a bigger website/003 03. Adding in the body CSS.mp4
+./Web Developer Course - Build 20 Websites/07 Making a bigger website/004 04. Adding in the header css.mp4
+./Web Developer Course - Build 20 Websites/07 Making a bigger website/005 05. Adding in the div section formatting.mp4
+./Web Developer Course - Build 20 Websites/07 Making a bigger website/006 06. Adding in the columns.mp4
+./Web Developer Course - Build 20 Websites/07 Making a bigger website/007 07. Adding in a full width background color.mp4
+./Web Developer Course - Build 20 Websites/07 Making a bigger website/008 08. Adding the dimensions to the paragraphs.mp4
+./Web Developer Course - Build 20 Websites/07 Making a bigger website/010 10. Adding in the logo CSS.mp4
+./Web Developer Course - Build 20 Websites/07 Making a bigger website/011 11. Adding in the font awesome logic.mp4
+./Web Developer Course - Build 20 Websites/07 Making a bigger website/012 12. Adding in the font awesome SVG graphics.mp4
+./Web Developer Course - Build 20 Websites/07 Making a bigger website/013 13. Changing the icons.mp4
+./Web Developer Course - Build 20 Websites/07 Making a bigger website/014 14. Changing the H2 to look better.mp4
+./Web Developer Course - Build 20 Websites/07 Making a bigger website/015 15. Changing the paragraph text.mp4
+./Web Developer Course - Build 20 Websites/07 Making a bigger website/016 16. Adding a span to the title.mp4
+./Web Developer Course - Build 20 Websites/07 Making a bigger website/017 17. Adding in the second span tag.mp4
+./Web Developer Course - Build 20 Websites/07 Making a bigger website/018 18. Challenge - Add another div tag to the project.mp4
+./Web Developer Course - Build 20 Websites/08 Learn about Scaleable websites/001 01. Introduction to multiple div tag website.mp4
+./Web Developer Course - Build 20 Websites/08 Learn about Scaleable websites/002 02. Adding in the section div tags.mp4
+./Web Developer Course - Build 20 Websites/08 Learn about Scaleable websites/003 03. Setting up the background color.mp4
+./Web Developer Course - Build 20 Websites/08 Learn about Scaleable websites/004 04. Adding in a class to the sections.mp4
+./Web Developer Course - Build 20 Websites/08 Learn about Scaleable websites/005 05. Adding in the section CSS.mp4
+./Web Developer Course - Build 20 Websites/08 Learn about Scaleable websites/006 06. Fixing the font.mp4
+./Web Developer Course - Build 20 Websites/08 Learn about Scaleable websites/007 07. Adding in the logo CSS.mp4
+./Web Developer Course - Build 20 Websites/08 Learn about Scaleable websites/008 08. Adding in span tags.mp4
+./Web Developer Course - Build 20 Websites/08 Learn about Scaleable websites/009 09. Changing the second color.mp4
+./Web Developer Course - Build 20 Websites/08 Learn about Scaleable websites/010 10. Stretching the letters.mp4
+./Web Developer Course - Build 20 Websites/08 Learn about Scaleable websites/011 11. Justifying the text.mp4
+./Web Developer Course - Build 20 Websites/08 Learn about Scaleable websites/012 12. Challenge - Add in columns and FontAwesome icons.mp4
+./Web Developer Course - Build 20 Websites/09 Interchanging graphics and div tags/001 01. Introduction to the website.mp4
+./Web Developer Course - Build 20 Websites/09 Interchanging graphics and div tags/002 02. Adding in the rest of the HTML.mp4
+./Web Developer Course - Build 20 Websites/09 Interchanging graphics and div tags/003 03. Adding in the body and header CSS.mp4
+./Web Developer Course - Build 20 Websites/09 Interchanging graphics and div tags/004 04. Adding in the logo CSS.mp4
+./Web Developer Course - Build 20 Websites/09 Interchanging graphics and div tags/005 05. Adding in the class content.mp4
+./Web Developer Course - Build 20 Websites/09 Interchanging graphics and div tags/006 06. Adding in test colors.mp4
+./Web Developer Course - Build 20 Websites/09 Interchanging graphics and div tags/007 07. Adding in images to the div tags.mp4
+./Web Developer Course - Build 20 Websites/09 Interchanging graphics and div tags/008 08. Setting up the background image.mp4
+./Web Developer Course - Build 20 Websites/09 Interchanging graphics and div tags/009 09. Setting the other div tag images.mp4
+./Web Developer Course - Build 20 Websites/09 Interchanging graphics and div tags/010 10. Adding in the padding and changing the text size.mp4
+./Web Developer Course - Build 20 Websites/09 Interchanging graphics and div tags/011 11. Making the text pop out over the images.mp4
+./Web Developer Course - Build 20 Websites/09 Interchanging graphics and div tags/012 12. Adjusting the Header 2.mp4
+./Web Developer Course - Build 20 Websites/09 Interchanging graphics and div tags/013 13. Changing the logo color.mp4
+./Web Developer Course - Build 20 Websites/09 Interchanging graphics and div tags/014 14. Challenge - Change the div tag to a dark green and make it work.mp4
+./Web Developer Course - Build 20 Websites/10 Building a bigger website/010 10. Adding a background to the image text.mp4
+./Web Developer Course - Build 20 Websites/10 Building a bigger website/001 01. Introduction to the website.mp4
+./Web Developer Course - Build 20 Websites/10 Building a bigger website/002 02. Adding in the sections.mp4
+./Web Developer Course - Build 20 Websites/10 Building a bigger website/003 03. Adding in the h1 and h2 CSS.mp4
+./Web Developer Course - Build 20 Websites/10 Building a bigger website/004 04. Adding in the logo CSS.mp4
+./Web Developer Course - Build 20 Websites/10 Building a bigger website/005 05. Adding in the class settings.mp4
+./Web Developer Course - Build 20 Websites/10 Building a bigger website/006 06. Adding in the sections.mp4
+./Web Developer Course - Build 20 Websites/10 Building a bigger website/007 07. Adding in the images.mp4
+./Web Developer Course - Build 20 Websites/10 Building a bigger website/008 08. Formatting the top image.mp4
+./Web Developer Course - Build 20 Websites/10 Building a bigger website/009 09. Making the picture bigger.mp4
+./Web Developer Course - Build 20 Websites/10 Building a bigger website/011 11. Adding the white text to the blue items.mp4
+./Web Developer Course - Build 20 Websites/10 Building a bigger website/012 12. Adding in the h2 code.mp4
+./Web Developer Course - Build 20 Websites/10 Building a bigger website/013 13. Addingt in the orange text.mp4
+./Web Developer Course - Build 20 Websites/10 Building a bigger website/014 14. Adding in the orange text to a different header.mp4
+./Web Developer Course - Build 20 Websites/10 Building a bigger website/015 15. Adding in the blue text.mp4
+./Web Developer Course - Build 20 Websites/10 Building a bigger website/016 16. Adding in the white text and blue text.mp4
+./Web Developer Course - Build 20 Websites/10 Building a bigger website/017 17. Fixing a div tag and making the text justified.mp4
+./Web Developer Course - Build 20 Websites/10 Building a bigger website/018 18. Challenge - Make a different theme to work with the black and white images.mp4
+./Web Developer Course - Build 20 Websites/11 The elegance of serif fonts/001 01. Introduction to the project.mp4
+./Web Developer Course - Build 20 Websites/11 The elegance of serif fonts/002 02. Adding in the sections.mp4
+./Web Developer Course - Build 20 Websites/11 The elegance of serif fonts/003 03. Adding in the body text.mp4
+./Web Developer Course - Build 20 Websites/11 The elegance of serif fonts/004 04. Formatting the headers.mp4
+./Web Developer Course - Build 20 Websites/11 The elegance of serif fonts/005 05. Adding in the horizontal rule.mp4
+./Web Developer Course - Build 20 Websites/11 The elegance of serif fonts/006 06. Adding in a symbol to the horizontal rulke.mp4
+./Web Developer Course - Build 20 Websites/11 The elegance of serif fonts/007 07. Formatting the logo.mp4
+./Web Developer Course - Build 20 Websites/11 The elegance of serif fonts/008 08. Formatting the section.mp4
+./Web Developer Course - Build 20 Websites/11 The elegance of serif fonts/009 09. Adding in the h2 CSS.mp4
+./Web Developer Course - Build 20 Websites/11 The elegance of serif fonts/010 10. Setting up the title.mp4
+./Web Developer Course - Build 20 Websites/11 The elegance of serif fonts/011 11. Separating the title into 3 header tags.mp4
+./Web Developer Course - Build 20 Websites/11 The elegance of serif fonts/012 12. Setting the size for the titles.mp4
+./Web Developer Course - Build 20 Websites/11 The elegance of serif fonts/013 13. Setting up the title.mp4
+./Web Developer Course - Build 20 Websites/12 Making a photography website/001 01. Introduction to the photography website.mp4
+./Web Developer Course - Build 20 Websites/12 Making a photography website/002 02. Adding in the photograph sections.mp4
+./Web Developer Course - Build 20 Websites/12 Making a photography website/003 03. Adding in the text sections.mp4
+./Web Developer Course - Build 20 Websites/12 Making a photography website/004 04. Adding int he body text.mp4
+./Web Developer Course - Build 20 Websites/12 Making a photography website/005 05. Adding in the header code.mp4
+./Web Developer Course - Build 20 Websites/12 Making a photography website/006 06. Learning about font juxtaposition.mp4
+./Web Developer Course - Build 20 Websites/12 Making a photography website/007 07. Adding in the header logo.mp4
+./Web Developer Course - Build 20 Websites/12 Making a photography website/008 08. Formatting the text.mp4
+./Web Developer Course - Build 20 Websites/12 Making a photography website/009 09. Setting up the columns.mp4
+./Web Developer Course - Build 20 Websites/12 Making a photography website/010 10. Adding in the columns.mp4
+./Web Developer Course - Build 20 Websites/12 Making a photography website/011 11. Adding in images.mp4
+./Web Developer Course - Build 20 Websites/12 Making a photography website/012 12. Adding in cat pictures.mp4
+./Web Developer Course - Build 20 Websites/12 Making a photography website/013 13. Formatting the images.mp4
+./Web Developer Course - Build 20 Websites/12 Making a photography website/014 14. Fixing the columns.mp4
+./Web Developer Course - Build 20 Websites/12 Making a photography website/015 15. Fixing the title.mp4
+./Web Developer Course - Build 20 Websites/12 Making a photography website/016 16. Adding in the HR code.mp4
+./Web Developer Course - Build 20 Websites/12 Making a photography website/017 17. Challenge - Add another 9 photo section.mp4
+./Web Developer Course - Build 20 Websites/13 Video Background Website/009 09. Adding in a div and a class container.mp4
+./Web Developer Course - Build 20 Websites/13 Video Background Website/001 01. Introduction to the video background.mp4
+./Web Developer Course - Build 20 Websites/13 Video Background Website/002 02. Adding in the text.mp4
+./Web Developer Course - Build 20 Websites/13 Video Background Website/003 03. Formatting the body.mp4
+./Web Developer Course - Build 20 Websites/13 Video Background Website/004 04. Changing the h1 and h2.mp4
+./Web Developer Course - Build 20 Websites/13 Video Background Website/005 05. Putting the text in the center.mp4
+./Web Developer Course - Build 20 Websites/13 Video Background Website/006 06. Formatting the text.mp4
+./Web Developer Course - Build 20 Websites/13 Video Background Website/007 07. Adding in the HTML 5 video code.mp4
+./Web Developer Course - Build 20 Websites/13 Video Background Website/008 08. Finding public domain  HD videos.mp4
+./Web Developer Course - Build 20 Websites/13 Video Background Website/010 10. Formatting the video.mp4
+./Web Developer Course - Build 20 Websites/13 Video Background Website/011 11. Formatting the text to fit the video.mp4
+./Web Developer Course - Build 20 Websites/13 Video Background Website/012 12. Adding in more text.mp4
+./Web Developer Course - Build 20 Websites/13 Video Background Website/013 13. Final touches on text.mp4
+./Web Developer Course - Build 20 Websites/13 Video Background Website/014 14. Adding in the CSS to the horizontal rule.mp4
+./Web Developer Course - Build 20 Websites/13 Video Background Website/015 15. Challenge - Add in the background to the text area.mp4
+./Web Developer Course - Build 20 Websites/14 Making an extended video website/008 08. Adding a div tag to make the backgrounds work.mp4
+./Web Developer Course - Build 20 Websites/14 Making an extended video website/001 01. Introduction to the extended video background website.mp4
+./Web Developer Course - Build 20 Websites/14 Making an extended video website/002 02. Adding in the text.mp4
+./Web Developer Course - Build 20 Websites/14 Making an extended video website/003 03. Adding in the video.mp4
+./Web Developer Course - Build 20 Websites/14 Making an extended video website/004 04. Adding in the video CSS.mp4
+./Web Developer Course - Build 20 Websites/14 Making an extended video website/005 05. Adding in the body and header CSS.mp4
+./Web Developer Course - Build 20 Websites/14 Making an extended video website/006 06. Adding in the container CSS.mp4
+./Web Developer Course - Build 20 Websites/14 Making an extended video website/007 07. Adding padding to the page.mp4
+./Web Developer Course - Build 20 Websites/14 Making an extended video website/009 09. Fixing the background video so that it doesnt stretch.mp4
+./Web Developer Course - Build 20 Websites/14 Making an extended video website/010 10. Selecting the background color.mp4
+./Web Developer Course - Build 20 Websites/14 Making an extended video website/011 11. Adding in the text color to the paragraph div.mp4
+./Web Developer Course - Build 20 Websites/14 Making an extended video website/012 12. Picking the colors of the website.mp4
+./Web Developer Course - Build 20 Websites/14 Making an extended video website/013 13. Adding in the HR code.mp4
+./Web Developer Course - Build 20 Websites/14 Making an extended video website/014 14. Challenge - find a different color scheme that works with this background.mp4
+./Web Developer Course - Build 20 Websites/15 Making a website with a menu bar/011 11. Adding in the width of the sections.mp4
+./Web Developer Course - Build 20 Websites/15 Making a website with a menu bar/001 01. Introduction to menu bars.mp4
+./Web Developer Course - Build 20 Websites/15 Making a website with a menu bar/002 02. Setting up the unordered list.mp4
+./Web Developer Course - Build 20 Websites/15 Making a website with a menu bar/003 03. Adding in the logo section.mp4
+./Web Developer Course - Build 20 Websites/15 Making a website with a menu bar/004 04. Adding in the other sections.mp4
+./Web Developer Course - Build 20 Websites/15 Making a website with a menu bar/005 05. Setting up the body color.mp4
+./Web Developer Course - Build 20 Websites/15 Making a website with a menu bar/006 06. Setting up the menu bar.mp4
+./Web Developer Course - Build 20 Websites/15 Making a website with a menu bar/007 07. Adding in the link values.mp4
+./Web Developer Course - Build 20 Websites/15 Making a website with a menu bar/008 08. Formatting the banner.mp4
+./Web Developer Course - Build 20 Websites/15 Making a website with a menu bar/009 09. Adding in the logo text.mp4
+./Web Developer Course - Build 20 Websites/15 Making a website with a menu bar/010 10. Adjusting the header text.mp4
+./Web Developer Course - Build 20 Websites/15 Making a website with a menu bar/012 12. Setting up the other sections.mp4
+./Web Developer Course - Build 20 Websites/15 Making a website with a menu bar/013 13. Setting up the header 2.mp4
+./Web Developer Course - Build 20 Websites/15 Making a website with a menu bar/014 14. Adjusting the logo.mp4
+./Web Developer Course - Build 20 Websites/15 Making a website with a menu bar/015 15. Setting up one word to be green.mp4
+./Web Developer Course - Build 20 Websites/15 Making a website with a menu bar/016 16. Making the menu center.mp4
+./Web Developer Course - Build 20 Websites/15 Making a website with a menu bar/017 17. Adding in the page jumps.mp4
+./Web Developer Course - Build 20 Websites/15 Making a website with a menu bar/018 18. Changing the paragraph color for the green text.mp4
+./Web Developer Course - Build 20 Websites/15 Making a website with a menu bar/019 19. Fixing up the header paragraph.mp4
+./Web Developer Course - Build 20 Websites/15 Making a website with a menu bar/020 20. Challenge - Add in some font awesome icons.mp4
+./Web Developer Course - Build 20 Websites/16 Learn to make classy horizontal rules/008 09. Formatting the sections to the right width.mp4
+./Web Developer Course - Build 20 Websites/16 Learn to make classy horizontal rules/001 01. Introduction.mp4
+./Web Developer Course - Build 20 Websites/16 Learn to make classy horizontal rules/002 03. Adding in the top list.mp4
+./Web Developer Course - Build 20 Websites/16 Learn to make classy horizontal rules/003 04. Adding in some more HTML and adding hte body CSS.mp4
+./Web Developer Course - Build 20 Websites/16 Learn to make classy horizontal rules/004 05. Adding in the list items.mp4
+./Web Developer Course - Build 20 Websites/16 Learn to make classy horizontal rules/005 06. Adding more CSS to the nav feature.mp4
+./Web Developer Course - Build 20 Websites/16 Learn to make classy horizontal rules/006 07. Adding in the banner code.mp4
+./Web Developer Course - Build 20 Websites/16 Learn to make classy horizontal rules/007 08. Adding in the full width colors.mp4
+./Web Developer Course - Build 20 Websites/16 Learn to make classy horizontal rules/009 10. Formatting the section text.mp4
+./Web Developer Course - Build 20 Websites/16 Learn to make classy horizontal rules/010 11. Adding in the h2 CSS.mp4
+./Web Developer Course - Build 20 Websites/16 Learn to make classy horizontal rules/011 12. Adding color to the headers HTML.mp4
+./Web Developer Course - Build 20 Websites/16 Learn to make classy horizontal rules/012 13. Adding in the colors to the headers CSS.mp4
+./Web Developer Course - Build 20 Websites/16 Learn to make classy horizontal rules/013 14. Adding the links to the list.mp4
+./Web Developer Course - Build 20 Websites/16 Learn to make classy horizontal rules/014 15. Adding in the triangles part 1.mp4
+./Web Developer Course - Build 20 Websites/16 Learn to make classy horizontal rules/015 16. Adding in the triangles part 2.mp4
+./Web Developer Course - Build 20 Websites/16 Learn to make classy horizontal rules/016 17. Challenge - Add a triangle to the top.mp4
+./Web Developer Course - Build 20 Websites/17 A circle themed website/008 08. Adding in the H2 CSS.mp4
+./Web Developer Course - Build 20 Websites/17 A circle themed website/001 01. Introduction.mp4
+./Web Developer Course - Build 20 Websites/17 A circle themed website/002 02. Adding in the text to the title.mp4
+./Web Developer Course - Build 20 Websites/17 A circle themed website/003 03. Adding in the other sections.mp4
+./Web Developer Course - Build 20 Websites/17 A circle themed website/004 04. Adding in the nav code.mp4
+./Web Developer Course - Build 20 Websites/17 A circle themed website/005 05. Adding more unordered list CSS code.mp4
+./Web Developer Course - Build 20 Websites/17 A circle themed website/006 06. Adding in the section colors.mp4
+./Web Developer Course - Build 20 Websites/17 A circle themed website/007 07. Adding in the section CSS.mp4
+./Web Developer Course - Build 20 Websites/17 A circle themed website/009 09. Adding in the circle.mp4
+./Web Developer Course - Build 20 Websites/17 A circle themed website/010 10. Fixing the top circle.mp4
+./Web Developer Course - Build 20 Websites/17 A circle themed website/011 11. Adding in the header CSS.mp4
+./Web Developer Course - Build 20 Websites/17 A circle themed website/012 12. Adding in the yellow and white text HTML.mp4
+./Web Developer Course - Build 20 Websites/17 A circle themed website/013 13. Changing the text to yellow.mp4
+./Web Developer Course - Build 20 Websites/17 A circle themed website/014 14. Adding in an outline.mp4
+./Web Developer Course - Build 20 Websites/17 A circle themed website/015 15. Adding in the circle part 1.mp4
+./Web Developer Course - Build 20 Websites/17 A circle themed website/016 16. Adding in the other circles.mp4
+./Web Developer Course - Build 20 Websites/18 Columns and circles/011 11. Adding in the colors of the circles.mp4
+./Web Developer Course - Build 20 Websites/18 Columns and circles/001 01. Introduction.mp4
+./Web Developer Course - Build 20 Websites/18 Columns and circles/002 02. Setting up the column HTML.mp4
+./Web Developer Course - Build 20 Websites/18 Columns and circles/003 03. Adding in the circles and doing some math.mp4
+./Web Developer Course - Build 20 Websites/18 Columns and circles/004 04. Optimizing the circle CSS.mp4
+./Web Developer Course - Build 20 Websites/18 Columns and circles/005 05. Putting in the circles into columns.mp4
+./Web Developer Course - Build 20 Websites/18 Columns and circles/006 06. Puttin the text in the center.mp4
+./Web Developer Course - Build 20 Websites/18 Columns and circles/007 07. Adding in the top menu.mp4
+./Web Developer Course - Build 20 Websites/18 Columns and circles/008 08. Adding in the body and a tag CSS.mp4
+./Web Developer Course - Build 20 Websites/18 Columns and circles/009 09. Making the top menu bar.mp4
+./Web Developer Course - Build 20 Websites/18 Columns and circles/010 10. Fixing the circle text.mp4
+./Web Developer Course - Build 20 Websites/18 Columns and circles/012 12. Adding in the section HTML.mp4
+./Web Developer Course - Build 20 Websites/18 Columns and circles/013 13. Adding in the colors to the sections.mp4
+./Web Developer Course - Build 20 Websites/18 Columns and circles/014 14. Adding in the section code to format the page.mp4
+./Web Developer Course - Build 20 Websites/18 Columns and circles/015 15. Setting up the header 2.mp4
+./Web Developer Course - Build 20 Websites/18 Columns and circles/016 16. Formatting the h2 with a span tag.mp4
+./Web Developer Course - Build 20 Websites/18 Columns and circles/017 17. Adding in the orange color.mp4
+./Web Developer Course - Build 20 Websites/18 Columns and circles/018 18. Formatting the top bar color.mp4
+./Web Developer Course - Build 20 Websites/18 Columns and circles/019 19. Challenge - add in fancy horizontal rules.mp4
+./Web Developer Course - Build 20 Websites/19 Making a one page website by changing the text/009 09. Adding in javascript buttons.mp4
+./Web Developer Course - Build 20 Websites/19 Making a one page website by changing the text/001 01. Introduction.mp4
+./Web Developer Course - Build 20 Websites/19 Making a one page website by changing the text/002 02. Adding in the un ordered list.mp4
+./Web Developer Course - Build 20 Websites/19 Making a one page website by changing the text/003 03. Adding in the body code and the header code.mp4
+./Web Developer Course - Build 20 Websites/19 Making a one page website by changing the text/004 04. Adding in the HTML to change.mp4
+./Web Developer Course - Build 20 Websites/19 Making a one page website by changing the text/005 05. Changing the header.mp4
+./Web Developer Course - Build 20 Websites/19 Making a one page website by changing the text/006 06. Fitting the text onto one page.mp4
+./Web Developer Course - Build 20 Websites/19 Making a one page website by changing the text/007 07. Formatting the paragraph tag.mp4
+./Web Developer Course - Build 20 Websites/19 Making a one page website by changing the text/008 08. Setting up the background text with padding.mp4
+./Web Developer Course - Build 20 Websites/19 Making a one page website by changing the text/010 10. Adding in a function to the buttons.mp4
+./Web Developer Course - Build 20 Websites/19 Making a one page website by changing the text/011 11. Changing the rest of the text.mp4
+./Web Developer Course - Build 20 Websites/19 Making a one page website by changing the text/012 12. Changing the background color with javascript.mp4
+./Web Developer Course - Build 20 Websites/19 Making a one page website by changing the text/013 13. Adding in the colors to the project.mp4
+./Web Developer Course - Build 20 Websites/19 Making a one page website by changing the text/014 14. Adding in the background paragraph color.mp4
+./Web Developer Course - Build 20 Websites/19 Making a one page website by changing the text/015 15. Adding in the colors to the list items.mp4
+./Web Developer Course - Build 20 Websites/19 Making a one page website by changing the text/016 16. Challange - Make a website for a business.mp4
+./Web Developer Course - Build 20 Websites/20 Making a colorful website/001 01. Introduction.mp4
+./Web Developer Course - Build 20 Websites/20 Making a colorful website/002 02. Adding in the sections.mp4
+./Web Developer Course - Build 20 Websites/20 Making a colorful website/003 03. Adding the body CSS.mp4
+./Web Developer Course - Build 20 Websites/20 Making a colorful website/004 04. Adding in the H1 CSS.mp4
+./Web Developer Course - Build 20 Websites/20 Making a colorful website/005 05. Adding in the header 2 logic.mp4
+./Web Developer Course - Build 20 Websites/20 Making a colorful website/006 06. Adding in the section content logic.mp4
+./Web Developer Course - Build 20 Websites/20 Making a colorful website/007 07. Adding in bright colors.mp4
+./Web Developer Course - Build 20 Websites/20 Making a colorful website/008 08. Adding in the color of the text.mp4
+./Web Developer Course - Build 20 Websites/20 Making a colorful website/009 09. Adding in the spans to change the color.mp4
+./Web Developer Course - Build 20 Websites/20 Making a colorful website/010 10. Adding in the css to make the letters a different color.mp4
+./Web Developer Course - Build 20 Websites/20 Making a colorful website/011 11. Adding the colorful Letters to lorem Ipsum.mp4
+./Web Developer Course - Build 20 Websites/20 Making a colorful website/012 12. Adding in the other themes.mp4
+./Web Developer Course - Build 20 Websites/20 Making a colorful website/013 13. Adding in the paragraph and final touches.mp4
+./Web Developer Course - Build 20 Websites/21 Adding a menu at the bottom/001 01. Introduction.mp4
+./Web Developer Course - Build 20 Websites/21 Adding a menu at the bottom/002 02. Adding in the menu div tags.mp4
+./Web Developer Course - Build 20 Websites/21 Adding a menu at the bottom/003 03. Adding in the buttons and the list itmes.mp4
+./Web Developer Course - Build 20 Websites/21 Adding a menu at the bottom/004 04. Adding in the button and body CSS.mp4
+./Web Developer Course - Build 20 Websites/21 Adding a menu at the bottom/005 05. Setting up the buttons.mp4
+./Web Developer Course - Build 20 Websites/21 Adding a menu at the bottom/006 06. Setting up the banner and paragraph CSS.mp4
+./Web Developer Course - Build 20 Websites/21 Adding a menu at the bottom/007 07. Fixing the menu bar.mp4
+./Web Developer Course - Build 20 Websites/21 Adding a menu at the bottom/008 08. Adding in the colors to the menu bar.mp4
+./Web Developer Course - Build 20 Websites/21 Adding a menu at the bottom/009 09. Testing the JavaScript.mp4
+./Web Developer Course - Build 20 Websites/21 Adding a menu at the bottom/010 10. Setting up the function before we copy and paste.mp4
+./Web Developer Course - Build 20 Websites/21 Adding a menu at the bottom/011 11. Adding in the rest of hte functions.mp4
+./Web Developer Course - Build 20 Websites/21 Adding a menu at the bottom/012 12. Taking about solving problems and how to do it effectively.mp4
+./Web Developer Course - Build 20 Websites/21 Adding a menu at the bottom/013 13. Adding in some final touches.mp4
+./Web Developer Course - Build 20 Websites/21 Adding a menu at the bottom/014 14. Challenge - expand upon this website.mp4
+./WebGL and Three.js Fundamentals/1 - Introduction/1 - Course Outline.mp4
+./WebGL and Three.js Fundamentals/1 - Introduction/1 - History of WebGL and Three.js.mp4
+./WebGL and Three.js Fundamentals/1 - Introduction/1 - Introduction.mp4
+./WebGL and Three.js Fundamentals/2 - Three.js Building Blocks/2 - Camera and Rendering Options.mp4
+./WebGL and Three.js Fundamentals/2 - Three.js Building Blocks/2 - Common Problems.mp4
+./WebGL and Three.js Fundamentals/2 - Three.js Building Blocks/2 - Coordinates Refresher.mp4
+./WebGL and Three.js Fundamentals/2 - Three.js Building Blocks/2 - Modifying Position, Size, and Rotation.mp4
+./WebGL and Three.js Fundamentals/2 - Three.js Building Blocks/2 - Object3D.mp4
+./WebGL and Three.js Fundamentals/2 - Three.js Building Blocks/2 - Summary.mp4
+./WebGL and Three.js Fundamentals/2 - Three.js Building Blocks/2 - Three.js Building Blocks.mp4
+./WebGL and Three.js Fundamentals/3 - Meshes and Geometry/3 - Creating Geometry.mp4
+./WebGL and Three.js Fundamentals/3 - Meshes and Geometry/3 - Exporting Geometry and Scenes.mp4
+./WebGL and Three.js Fundamentals/3 - Meshes and Geometry/3 - Inbuilt Geometry.mp4
+./WebGL and Three.js Fundamentals/3 - Meshes and Geometry/3 - Introducing Meshes and Geometry.mp4
+./WebGL and Three.js Fundamentals/3 - Meshes and Geometry/3 - Loaders and Exporters.mp4
+./WebGL and Three.js Fundamentals/3 - Meshes and Geometry/3 - Summary.mp4
+./WebGL and Three.js Fundamentals/4 - Materials, Lighting & Textures/4 - Introducing Lighting and Materials.mp4
+./WebGL and Three.js Fundamentals/4 - Materials, Lighting & Textures/4 - Lighting  -  Ambient, Point, Directional, and Spot.mp4
+./WebGL and Three.js Fundamentals/4 - Materials, Lighting & Textures/4 - Materials  -  MeshBasic, MeshLambert, and MeshPhong.mp4
+./WebGL and Three.js Fundamentals/4 - Materials, Lighting & Textures/4 - Summary.mp4
+./WebGL and Three.js Fundamentals/4 - Materials, Lighting & Textures/4 - Textures  -  Loading, Transparency, and Bump Maps.mp4
+./WebGL and Three.js Fundamentals/5 - Scene Interaction/5 - Collision Detection.mp4
+./WebGL and Three.js Fundamentals/5 - Scene Interaction/5 - Controls.mp4
+./WebGL and Three.js Fundamentals/5 - Scene Interaction/5 - Integrating a Physics Engine (Physijs).mp4
+./WebGL and Three.js Fundamentals/5 - Scene Interaction/5 - Introduction and Page Events.mp4
+./WebGL and Three.js Fundamentals/5 - Scene Interaction/5 - Summary.mp4
+./WebGL and Three.js Fundamentals/6 - Creating Three.js Frogger/6 - A Closer Look at The Games Code.mp4
+./WebGL and Three.js Fundamentals/6 - Creating Three.js Frogger/6 - Game Components.mp4
+./WebGL and Three.js Fundamentals/6 - Creating Three.js Frogger/6 - Introduction.mp4
