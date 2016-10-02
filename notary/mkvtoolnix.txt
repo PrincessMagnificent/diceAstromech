@@ -1,0 +1,3 @@
+mkvextract tracks <yrMKV> <trackNo>: <subtitle.srt>
+use mkvinfo to get information about tracks
+or mkvmerge -i filename

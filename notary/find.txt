@@ -1,0 +1,5 @@
+find -iname (iGnOrE cAsE) -maxdepth 2 (how far up tree) -type f/d (file/directory)
+! (not)
+-o (or)
+find -size +50M -size -100M (find files between 50Mb and 100Mb)
+find . -type f -name "*.mp3" -exec rm -f {} \; (delete all mp3 files)

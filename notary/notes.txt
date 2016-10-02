@@ -1,0 +1,8 @@
+ffmpeg -i Sanet.me_Basic\ Directories\ Commands.mp4 -vf scale=1024:-1 -qscale 0 resize.mp4
+(ffmpeg -i input.mov -vf scale=1024x406,setdar=16:9 -c:v libx264 -preset slow -profile:v main -crf 20 output.mov)
+(ffmpeg -i input.mov -vf scale=1024x-1 -c:v libx264 -preset slow -profile:v main -crf 20 output.mov)
+mp3splt -t 10.00 ALBUM.mp3
+scp Desktop/file.m4a pi@192.168.2.100:~/Downloads/
+ssh pi@192.168.2.100  or 102
+rm -rf ~/.local/share/Trash/*
+du diskusage, df diskspace
