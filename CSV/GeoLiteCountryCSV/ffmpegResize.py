@@ -3,7 +3,7 @@ import os
 print "PROGRAM LOADING...COMPLETE"
 
 #enter the location of the subtitles here, the video files should be in the same directory. But make sure you keep the r in front of the string so that the string is raw and the \ don't get eaten
-location = r"O:\eduVideo\Complete Linux Shell Training for Beginners\1 - Introduction to Shell"
+location = r"O:\eduVideo\Complete Linux Shell Training for Beginners\2 - Directories, Wilcards and More"
 
 print os.getcwd()
 ##print len(listOfDirs), "things, they are", listOfDirs
@@ -28,4 +28,4 @@ for video in listOfVideos:
             newVideoName2 += let
     kommand = 'ffmpeg -i "' + video + '" -vf scale=1024:-1 ' + newVideoName2
     print kommand
-    os.system(kommand)
+    ##os.system(kommand)

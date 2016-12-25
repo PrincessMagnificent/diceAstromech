@@ -6,7 +6,7 @@ import re, os
 def ls():
     return os.listdir(os.getcwd())
 
-DownloadLoc = "C:\\Users\\Alex\\Downloads"
+DownloadLoc = "C:\\Users\\Alexc\\Downloads"
 os.chdir(DownloadLoc)
 
 megaList = ls()
