@@ -67,3 +67,6 @@ for line in fileListing:
         findTags(line,positives, optionals)
 
 ##current issue: directories aren't searched by name?
+
+l = [1,2,3]
+l.
